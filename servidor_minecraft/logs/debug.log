@@ -1826,3 +1826,39 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Dec2024 19:18:01.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode survival
 [17Dec2024 19:18:11.932] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/projectile/AbstractArrow$1
 [17Dec2024 19:18:19.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[17Dec2024 19:20:32.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 19:20:32.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 19:21:45.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode survival
+[17Dec2024 19:22:00.780] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[17Dec2024 19:22:06.880] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode survival
+[17Dec2024 19:22:15.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[17Dec2024 19:22:33.684] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode survival
+[17Dec2024 19:22:34.881] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/server/network/ServerGamePacketListenerImpl$1Handler$2a30fb47d1bf43ee864861b3421c9160 (originally io/izzel/arclight/common/mixin/core/network/ServerPlayNetHandlerMixin$1Handler)
+[17Dec2024 19:22:39.619] [Worker-Main-29/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/structure/placement/RandomSpreadType$1
+[17Dec2024 19:22:42.781] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/Level$2
+[17Dec2024 19:22:42.782] [Server thread/DEBUG] [mixin/]: Mixing world.ExplosionMixin from mixins.arclight.core.json into net.minecraft.world.level.Explosion
+[17Dec2024 19:22:42.782] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$finalizeExplosion$0(Lit/unimi/dsi/fastutil/objects/ObjectArrayList;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/item/ItemStack;)V to md323cfb$lambda$finalizeExplosion$0$0 in mixins.arclight.core.json:world.ExplosionMixin
+[17Dec2024 19:22:57.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[17Dec2024 19:23:32.903] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /scoreboard objectives add usototem minecraft.used:minecraft.totem_of_undying
+[17Dec2024 19:25:32.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 19:25:32.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 19:26:27.409] [Server thread/DEBUG] [mixin/]: Mixing world.entity.ai.behavior.StopAttackingIfTargetInvalidMixin from mixins.arclight.core.json into net.minecraft.world.entity.ai.behavior.StopAttackingIfTargetInvalid
+[17Dec2024 19:26:27.409] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$2(ZLjava/util/function/Predicate;Ljava/util/function/BiConsumer;Lnet/minecraft/world/entity/ai/behavior/declarative/BehaviorBuilder$Instance;)Lcom/mojang/datafixers/kinds/App; to md323cfb$lambda$create$2$0 in mixins.arclight.core.json:world.entity.ai.behavior.StopAttackingIfTargetInvalidMixin
+[17Dec2024 19:26:27.409] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$1(Lnet/minecraft/world/entity/ai/behavior/declarative/BehaviorBuilder$Instance;ZLjava/util/function/Predicate;Ljava/util/function/BiConsumer;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;)Lnet/minecraft/world/entity/ai/behavior/declarative/Trigger; to md323cfb$lambda$create$1$1 in mixins.arclight.core.json:world.entity.ai.behavior.StopAttackingIfTargetInvalidMixin
+[17Dec2024 19:26:27.409] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$create$0(Lnet/minecraft/world/entity/ai/behavior/declarative/BehaviorBuilder$Instance;Lnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;ZLnet/minecraft/world/entity/ai/behavior/declarative/MemoryAccessor;Ljava/util/function/Predicate;Ljava/util/function/BiConsumer;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/Mob;J)Z to md323cfb$lambda$create$0$2 in mixins.arclight.core.json:world.entity.ai.behavior.StopAttackingIfTargetInvalidMixin
+[17Dec2024 19:26:27.430] [Server thread/DEBUG] [mixin/]: Mixing world.level.gameevent.vibrations.VibrationListenerMixin from mixins.arclight.core.json into net.minecraft.world.level.gameevent.vibrations.VibrationSystem$Listener
+[17Dec2024 19:26:27.734] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/monster/warden/Warden$2
+[17Dec2024 19:26:37.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode survival
+[17Dec2024 19:26:40.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minecraft_Apixel was slain by Warden
+[17Dec2024 19:26:50.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minecraft_Apixel was slain by Warden
+[17Dec2024 19:26:54.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[17Dec2024 19:27:19.842] [Worker-Main-29/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/CrossCollisionBlock$1
+[17Dec2024 19:27:19.983] [Worker-Main-9/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/Rotation$1
+[17Dec2024 19:27:24.347] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[17Dec2024 19:27:38.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /enchant alldamage 5
+[17Dec2024 19:27:46.685] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.Material
+[17Dec2024 19:27:46.686] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.PortalShapeMixin from mixins.arclight.core.json into net.minecraft.world.level.portal.PortalShape
+[17Dec2024 19:27:46.687] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$arclight$buildPortal$0(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/BlockPos;)V to md323cfb$lambda$arclight$buildPortal$0$0 in mixins.arclight.core.json:world.level.block.PortalShapeMixin
+[17Dec2024 19:28:43.025] [Worker-Main-9/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/RailBlock$1
+[17Dec2024 19:30:01.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamerule keepInventory true
+[17Dec2024 19:30:01.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Minecraft_Apixel: Gamerule keepInventory is now set to: true]

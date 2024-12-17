@@ -228,3 +228,17 @@
 [17Dec2024 19:17:40.388] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
 [17Dec2024 19:18:01.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode survival
 [17Dec2024 19:18:19.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[17Dec2024 19:21:45.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode survival
+[17Dec2024 19:22:00.780] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[17Dec2024 19:22:06.880] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode survival
+[17Dec2024 19:22:15.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[17Dec2024 19:22:33.684] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode survival
+[17Dec2024 19:22:57.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[17Dec2024 19:23:32.903] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /scoreboard objectives add usototem minecraft.used:minecraft.totem_of_undying
+[17Dec2024 19:26:37.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode survival
+[17Dec2024 19:26:40.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minecraft_Apixel was slain by Warden
+[17Dec2024 19:26:50.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minecraft_Apixel was slain by Warden
+[17Dec2024 19:26:54.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[17Dec2024 19:27:38.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /enchant alldamage 5
+[17Dec2024 19:30:01.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamerule keepInventory true
+[17Dec2024 19:30:01.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Minecraft_Apixel: Gamerule keepInventory is now set to: true]
