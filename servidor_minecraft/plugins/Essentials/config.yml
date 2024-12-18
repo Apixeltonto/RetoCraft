@@ -186,7 +186,7 @@ socialspy-commands:
   - msg
   - w
   - r
-  - mail
+#  - mail
   - m
   - t
   - whisper
@@ -195,7 +195,7 @@ socialspy-commands:
   - er
   - reply
   - ereply
-  - email
+#  - email
   - action
   - describe
   - eme
@@ -268,15 +268,15 @@ player-commands:
   - ignore
   - info
   - itemdb
-  - kit
-  - kits.tools
+#  - kit
+#  - kits.tools
   - list
   - mail
   - mail.send
   - me
   - motd
   - msg
-  - msg.color
+#  - msg.color
   - nick
   - near
   - pay
@@ -314,14 +314,14 @@ player-commands:
   - spawn
   - suicide
   - time
-  - tpa
-  - tpaccept
-  - tpahere
+#  - tpa
+#  - tpaccept
+#  - tpahere
   - tpdeny
-  - warp
-  - warp.list
+#  - warp
+#  - warp.list
   - world
-  - worth
+#  - worth
   - xmpp
 
 # Use this option to force superperms-based permissions handler regardless of detected installed perms plugin.

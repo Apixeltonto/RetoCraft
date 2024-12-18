@@ -258,3 +258,156 @@
 [18Dec2024 19:39:29.701] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Minecraft_Apixel[/127.130.66.250:35909] logged in with entity id 325 at (183.26063318838717, 78.49390748022948, 123.05780162331166)
 [18Dec2024 19:39:30.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minecraft_Apixel joined the game
 [18Dec2024 19:41:11.727] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /plugins
+[18Dec2024 20:22:05.599] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player DonPichulaxdxd is ac1e62ec-fcff-36ad-bfe4-5329d524ef4e
+[18Dec2024 20:22:05.668] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonPichulaxdxd[/127.227.4.37:45793] logged in with entity id 4385 at (59.5, 66.0, 119.5)
+[18Dec2024 20:22:05.684] [Server thread/INFO] [Essentials/]: Created a User for DonPichulaxdxd (ac1e62ec-fcff-36ad-bfe4-5329d524ef4e) for non Bukkit type: org.bukkit.craftbukkit.v1_20_R1.entity.CraftPlayer
+[18Dec2024 20:22:05.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonPichulaxdxd joined the game
+[18Dec2024 20:22:05.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonPichulaxdxd has made the advancement [Getting an Upgrade]
+[18Dec2024 20:22:31.847] [Async Chat Thread - #1/INFO] [Console/]: <Minecraft_Apixel> aea
+[18Dec2024 20:22:32.671] [Async Chat Thread - #0/INFO] [Console/]: <DonPichulaxdxd> yaa
+[18Dec2024 20:22:38.481] [Async Chat Thread - #1/INFO] [Console/]: <Minecraft_Apixel> tengo tu ip
+[18Dec2024 20:22:39.812] [Async Chat Thread - #0/INFO] [Console/]: <Minecraft_Apixel> >:D
+[18Dec2024 20:22:40.914] [Async Chat Thread - #1/INFO] [Console/]: <Minecraft_Apixel> XD
+[18Dec2024 20:22:52.817] [Async Chat Thread - #0/INFO] [Console/]: <DonPichulaxdxd> .-.
+[18Dec2024 20:23:01.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonPichulaxdxd has made the advancement [Monster Hunter]
+[18Dec2024 20:23:03.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gm 1 DonPichulaxdxd
+[18Dec2024 20:23:15.879] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /op DonPichulaxdxd
+[18Dec2024 20:23:15.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Minecraft_Apixel: Made DonPichulaxdxd a server operator]
+[18Dec2024 20:23:33.322] [Async Chat Thread - #1/INFO] [Console/]: <Minecraft_Apixel> que haces?
+[18Dec2024 20:23:34.171] [Async Chat Thread - #1/INFO] [Console/]: <Minecraft_Apixel> XD
+[18Dec2024 20:23:49.861] [Async Chat Thread - #0/INFO] [Console/]: <DonPichulaxdxd> nada xd
+[18Dec2024 20:23:57.582] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /reload confirm
+[18Dec2024 20:23:57.583] [Server thread/INFO] [Console/]: Minecraft_Apixel: Please note that this command is not supported and may cause issues when using some plugins.
+[18Dec2024 20:23:57.583] [Server thread/INFO] [Console/]: Minecraft_Apixel: If you encounter any issues please use the /stop command to restart your server.
+[18Dec2024 20:23:57.585] [Server thread/INFO] [Multiverse-Core/]: Disabling Multiverse-Core v4.3.11
+[18Dec2024 20:23:57.591] [Server thread/INFO] [WorldGuard/]: Disabling WorldGuard v7.0.9+5934e49
+[18Dec2024 20:23:57.593] [Server thread/INFO] [PlaceholderAPI/]: Disabling PlaceholderAPI v2.11.6
+[18Dec2024 20:23:57.595] [Server thread/INFO] [EssentialsSpawn/]: Disabling EssentialsSpawn v2.20.1
+[18Dec2024 20:23:57.595] [Server thread/INFO] [Essentials/]: Disabling Essentials v2.20.1
+[18Dec2024 20:23:57.596] [Server thread/ERROR] [Essentials/]: There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[18Dec2024 20:23:57.602] [Server thread/INFO] [WorldEdit/]: Disabling WorldEdit v7.3.0+6678-55745ad
+[18Dec2024 20:23:57.608] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[18Dec2024 20:23:57.695] [Async Chat Thread - #1/INFO] [Console/]: <DonPichulaxdxd> PVP?
+[18Dec2024 20:23:57.861] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[18Dec2024 20:23:57.892] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[18Dec2024 20:23:58.591] [Server thread/INFO] [WorldEdit/]: Loading WorldEdit v7.3.0+6678-55745ad
+[18Dec2024 20:23:59.008] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3bf66e7]
+[18Dec2024 20:23:59.013] [Server thread/INFO] [Essentials/]: Loading Essentials v2.20.1
+[18Dec2024 20:23:59.015] [Server thread/INFO] [EssentialsSpawn/]: Loading EssentialsSpawn v2.20.1
+[18Dec2024 20:23:59.015] [Server thread/INFO] [PlaceholderAPI/]: Loading PlaceholderAPI v2.11.6
+[18Dec2024 20:23:59.015] [Server thread/INFO] [WorldGuard/]: Loading WorldGuard v7.0.9+5934e49
+[18Dec2024 20:23:59.015] [Server thread/INFO] [Multiverse-Core/]: Loading Multiverse-Core v4.3.11
+[18Dec2024 20:23:59.041] [Server thread/INFO] [WorldEdit/]: Enabling WorldEdit v7.3.0+6678-55745ad
+[18Dec2024 20:23:59.045] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[18Dec2024 20:23:59.108] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Using the Bukkit Permissions API.
+[18Dec2024 20:23:59.111] [Server thread/WARN] [WorldEdit/]: Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[18Dec2024 20:23:59.315] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and block property-related functions.
+**
+** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
+**********************************************
+
+[18Dec2024 20:23:59.495] [Server thread/INFO] [WorldEdit/]: ====================================================
+[18Dec2024 20:23:59.495] [Server thread/INFO] [WorldEdit/]:  WorldEdit works better if you use Paper 
+[18Dec2024 20:23:59.495] [Server thread/INFO] [WorldEdit/]:  as your server software. 
+[18Dec2024 20:23:59.495] [Server thread/INFO] [WorldEdit/]: ====================================================
+[18Dec2024 20:23:59.497] [Server thread/INFO] [Essentials/]: Enabling Essentials v2.20.1
+[18Dec2024 20:23:59.517] [Server thread/ERROR] [Essentials/]: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
+[18Dec2024 20:23:59.517] [Server thread/INFO] [Essentials/]: Status determining class: net.minecraftforge.common.MinecraftForge
+[18Dec2024 20:23:59.659] [Server thread/INFO] [Essentials/]: Attempting to convert old kits in config.yml to new kits.yml
+[18Dec2024 20:23:59.660] [Server thread/INFO] [Essentials/]: No kits found to migrate.
+[18Dec2024 20:23:59.790] [Server thread/INFO] [Essentials/]: Loaded 39094 items from items.json.
+[18Dec2024 20:23:59.792] [Server thread/INFO] [Essentials/]: Using locale en
+[18Dec2024 20:23:59.830] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
+[18Dec2024 20:23:59.846] [Server thread/INFO] [Essentials/]: Starting Metrics. Opt-out using the global bStats config.
+[18Dec2024 20:23:59.850] [Server thread/INFO] [Essentials/]: Using superperms-based permissions.
+[18Dec2024 20:23:59.851] [Server thread/INFO] [EssentialsSpawn/]: Enabling EssentialsSpawn v2.20.1
+[18Dec2024 20:23:59.857] [Server thread/INFO] [EssentialsSpawn/]: Starting Metrics. Opt-out using the global bStats config.
+[18Dec2024 20:23:59.860] [Server thread/INFO] [PlaceholderAPI/]: Enabling PlaceholderAPI v2.11.6
+[18Dec2024 20:24:00.039] [Server thread/INFO] [PlaceholderAPI/]: Fetching available expansion information...
+[18Dec2024 20:24:00.042] [Server thread/INFO] [WorldGuard/]: Enabling WorldGuard v7.0.9+5934e49
+[18Dec2024 20:24:00.317] [Server thread/INFO] [Multiverse-Core/]: Enabling Multiverse-Core v4.3.11
+[18Dec2024 20:24:00.326] [Server thread/WARN] [Multiverse-Core/]: "Multiverse-Core v4.3.11" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[18Dec2024 20:24:00.327] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[18Dec2024 20:24:00.432] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] 3 - World(s) loaded.
+[18Dec2024 20:24:00.443] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[18Dec2024 20:24:00.453] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Version 4.3.11 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[18Dec2024 20:24:00.497] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[18Dec2024 20:24:00.710] [Server thread/INFO] [PlaceholderAPI/]: Placeholder expansion registration initializing...
+[18Dec2024 20:24:00.715] [Server thread/INFO] [Console/]: 0 placeholder hook(s) registered!
+[18Dec2024 20:24:00.717] [Server thread/INFO] [Console/]: Minecraft_Apixel: Reload complete.
+[18Dec2024 20:24:00.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3107ms or 62 ticks behind
+[18Dec2024 20:24:00.730] [Craft Scheduler Thread - 6/INFO] [Essentials/]: Fetching version information...
+[18Dec2024 20:24:08.538] [Async Chat Thread - #0/INFO] [Console/]: <Minecraft_Apixel> XDDD
+[18Dec2024 20:24:14.658] [Async Chat Thread - #1/INFO] [Console/]: <Minecraft_Apixel> utiliza el /kit
+[18Dec2024 20:24:18.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /kits
+[18Dec2024 20:24:22.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /kit
+[18Dec2024 20:24:22.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /kit
+[18Dec2024 20:24:25.666] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /kitcreate
+[18Dec2024 20:24:30.865] [Async Chat Thread - #0/INFO] [Console/]: <Minecraft_Apixel> sale? XD
+[18Dec2024 20:24:36.583] [Async Chat Thread - #1/INFO] [Console/]: <DonPichulaxdxd> no
+[18Dec2024 20:24:38.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /pvp on
+[18Dec2024 20:24:42.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /kitcreate
+[18Dec2024 20:25:21.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /vanish
+[18Dec2024 20:25:25.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /vanish
+[18Dec2024 20:25:35.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /vanish
+[18Dec2024 20:25:37.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /vanish
+[18Dec2024 20:25:43.112] [Async Chat Thread - #3/INFO] [Console/]: <Minecraft_Apixel> ./vanish
+[18Dec2024 20:25:44.966] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /tp DonPichulaxdxd Minecraft_Apixel
+[18Dec2024 20:25:56.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /vanish
+[18Dec2024 20:27:01.314] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /gamemode creative
+[18Dec2024 20:27:02.707] [Async Chat Thread - #5/INFO] [Console/]: <Minecraft_Apixel> xd
+[18Dec2024 20:27:11.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /ver
+[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: java.io.IOException: Server returned HTTP response code: 401 for URL: https://hub.spigotmc.org/stash/rest/api/1.0/projects/SPIGOT/repos/craftbukkit/commits?since=1a8925b&withCounts=true
+[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2036)
+[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1625)
+[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at java.base/java.net.URL.openStream(URL.java:1161)
+[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/com.google.common@31.1-jre/com.google.common.io.Resources$UrlByteSource.openStream(Resources.java:68)
+[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/com.google.common@31.1-jre/com.google.common.io.ByteSource$AsCharSource.openStream(ByteSource.java:474)
+[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/com.google.common@31.1-jre/com.google.common.io.CharSource.openBufferedStream(CharSource.java:126)
+[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.command.defaults.VersionCommand.getDistance(VersionCommand.java:241)
+[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.command.defaults.VersionCommand.obtainVersion(VersionCommand.java:192)
+[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.command.defaults.VersionCommand.access$0(VersionCommand.java:187)
+[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.command.defaults.VersionCommand$1.run(VersionCommand.java:178)
+[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: java.io.IOException: Server returned HTTP response code: 401 for URL: https://hub.spigotmc.org/stash/rest/api/1.0/projects/SPIGOT/repos/spigot/commits?since=1.0.5&withCounts=true
+[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2036)
+[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1625)
+[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at java.base/java.net.URL.openStream(URL.java:1161)
+[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/com.google.common@31.1-jre/com.google.common.io.Resources$UrlByteSource.openStream(Resources.java:68)
+[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/com.google.common@31.1-jre/com.google.common.io.ByteSource$AsCharSource.openStream(ByteSource.java:474)
+[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/com.google.common@31.1-jre/com.google.common.io.CharSource.openBufferedStream(CharSource.java:126)
+[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.command.defaults.VersionCommand.getDistance(VersionCommand.java:241)
+[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.command.defaults.VersionCommand.obtainVersion(VersionCommand.java:193)
+[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.command.defaults.VersionCommand.access$0(VersionCommand.java:187)
+[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.command.defaults.VersionCommand$1.run(VersionCommand.java:178)
+[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[18Dec2024 20:27:18.491] [Async Chat Thread - #4/INFO] [Console/]: <Minecraft_Apixel> que haces?
+[18Dec2024 20:27:22.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /vanish
+[18Dec2024 20:27:26.785] [Async Chat Thread - #5/INFO] [Console/]: <DonPichulaxdxd> NADA
+[18Dec2024 20:27:31.541] [Async Chat Thread - #4/INFO] [Console/]: <DonPichulaxdxd> Q HAGO??
+[18Dec2024 20:27:47.564] [Server thread/INFO] [Essentials/]: CONSOLE issued server command: /kill DonPichulaxdxd
+[18Dec2024 20:27:47.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonPichulaxdxd died
+[18Dec2024 20:27:47.573] [Server thread/INFO] [Console/]: Killed DonPichulaxdxd.
+[18Dec2024 20:27:51.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[18Dec2024 20:28:05.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /kill Minecraft_Apixel
+[18Dec2024 20:28:05.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minecraft_Apixel died
+[18Dec2024 20:28:08.797] [Async Chat Thread - #5/INFO] [Console/]: <Minecraft_Apixel> xddd
+[18Dec2024 20:28:12.882] [Async Chat Thread - #4/INFO] [Console/]: <Minecraft_Apixel> metemos 2 mods?
+[18Dec2024 20:28:16.902] [Async Chat Thread - #5/INFO] [Console/]: <DonPichulaxdxd> va
+[18Dec2024 20:28:21.614] [Async Chat Thread - #4/INFO] [Console/]: <Minecraft_Apixel> dime los mods
+[18Dec2024 20:28:26.358] [Async Chat Thread - #5/INFO] [Console/]: <Minecraft_Apixel> que quieres probrar
+[18Dec2024 20:28:29.548] [Async Chat Thread - #4/INFO] [Console/]: <Minecraft_Apixel> probar*
+[18Dec2024 20:28:32.465] [Async Chat Thread - #5/INFO] [Console/]: <DonPichulaxdxd> BACKPAKCS
+[18Dec2024 20:28:43.103] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /essentials reload
+[18Dec2024 20:28:43.181] [Server thread/INFO] [Essentials/]: Loaded 39097 items from items.json.
+[18Dec2024 20:28:43.182] [Server thread/INFO] [Essentials/]: Using locale en
+[18Dec2024 20:28:43.191] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
+[18Dec2024 20:28:46.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /kits

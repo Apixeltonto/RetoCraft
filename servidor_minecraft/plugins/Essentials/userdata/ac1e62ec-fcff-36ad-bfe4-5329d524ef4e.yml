@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.227.4.37
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734553555659
+  login: 1734553325802
+money: '0'
+last-account-name: DonPichulaxdxd
+lastlocation:
+  world: 52133184-a1a7-4172-b353-47a9299a1224
+  world-name: world
+  x: 196.3137498524433
+  y: 73.0
+  z: 96.24363430413362
+  yaw: -9.897979736328125
+  pitch: 14.69996166229248
