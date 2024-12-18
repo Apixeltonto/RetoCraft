@@ -411,3 +411,142 @@
 [18Dec2024 20:28:43.182] [Server thread/INFO] [Essentials/]: Using locale en
 [18Dec2024 20:28:43.191] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
 [18Dec2024 20:28:46.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /kits
+[18Dec2024 20:28:50.644] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /kitshow
+[18Dec2024 20:28:55.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /kitshow aw
+[18Dec2024 20:28:56.738] [Async Chat Thread - #4/INFO] [Console/]: <DonPichulaxdxd> Y EL MAPA
+[18Dec2024 20:30:06.566] [Async Chat Thread - #7/INFO] [Console/]: <Minecraft_Apixel> mira esto
+[18Dec2024 20:30:16.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /tp DonPichulaxdxd Minecraft_Apixel
+[18Dec2024 20:30:17.457] [Server thread/ERROR] [STDERR/]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[18Dec2024 20:30:20.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2786ms or 55 ticks behind
+[18Dec2024 20:30:25.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /essentials reload
+[18Dec2024 20:30:25.303] [Server thread/INFO] [Essentials/]: Loaded 39097 items from items.json.
+[18Dec2024 20:30:25.304] [Server thread/INFO] [Essentials/]: Using locale en
+[18Dec2024 20:30:25.314] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
+[18Dec2024 20:30:27.363] [Async Chat Thread - #6/INFO] [Console/]: <Minecraft_Apixel> hola
+[18Dec2024 20:30:32.468] [Async Chat Thread - #7/INFO] [Console/]: <DonPichulaxdxd> ??
+[18Dec2024 20:30:32.793] [Async Chat Thread - #6/INFO] [Console/]: <Minecraft_Apixel> hol
+[18Dec2024 20:30:34.421] [Async Chat Thread - #7/INFO] [Console/]: <Minecraft_Apixel> aea
+[18Dec2024 20:30:48.417] [Async Chat Thread - #6/INFO] [Console/]: <DonPichulaxdxd> Q MIRO?
+[18Dec2024 20:30:58.327] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /reload confirm
+[18Dec2024 20:30:58.328] [Server thread/INFO] [Console/]: Minecraft_Apixel: Please note that this command is not supported and may cause issues when using some plugins.
+[18Dec2024 20:30:58.328] [Server thread/INFO] [Console/]: Minecraft_Apixel: If you encounter any issues please use the /stop command to restart your server.
+[18Dec2024 20:30:58.330] [Server thread/INFO] [Multiverse-Core/]: Disabling Multiverse-Core v4.3.11
+[18Dec2024 20:30:58.335] [Server thread/INFO] [WorldGuard/]: Disabling WorldGuard v7.0.9+5934e49
+[18Dec2024 20:30:58.336] [Server thread/INFO] [PlaceholderAPI/]: Disabling PlaceholderAPI v2.11.6
+[18Dec2024 20:30:58.337] [Server thread/INFO] [EssentialsSpawn/]: Disabling EssentialsSpawn v2.20.1
+[18Dec2024 20:30:58.338] [Server thread/INFO] [Essentials/]: Disabling Essentials v2.20.1
+[18Dec2024 20:30:58.338] [Server thread/ERROR] [Essentials/]: There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[18Dec2024 20:30:58.342] [Server thread/INFO] [WorldEdit/]: Disabling WorldEdit v7.3.0+6678-55745ad
+[18Dec2024 20:30:58.347] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[18Dec2024 20:30:58.584] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[18Dec2024 20:30:58.615] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[18Dec2024 20:30:59.299] [Server thread/INFO] [WorldEdit/]: Loading WorldEdit v7.3.0+6678-55745ad
+[18Dec2024 20:30:59.684] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6a6728e8]
+[18Dec2024 20:30:59.688] [Server thread/INFO] [Essentials/]: Loading Essentials v2.20.1
+[18Dec2024 20:30:59.688] [Server thread/INFO] [EssentialsSpawn/]: Loading EssentialsSpawn v2.20.1
+[18Dec2024 20:30:59.689] [Server thread/INFO] [PlaceholderAPI/]: Loading PlaceholderAPI v2.11.6
+[18Dec2024 20:30:59.689] [Server thread/INFO] [WorldGuard/]: Loading WorldGuard v7.0.9+5934e49
+[18Dec2024 20:30:59.689] [Server thread/INFO] [Multiverse-Core/]: Loading Multiverse-Core v4.3.11
+[18Dec2024 20:30:59.705] [Server thread/INFO] [WorldEdit/]: Enabling WorldEdit v7.3.0+6678-55745ad
+[18Dec2024 20:30:59.707] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[18Dec2024 20:30:59.760] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Using the Bukkit Permissions API.
+[18Dec2024 20:30:59.764] [Server thread/WARN] [WorldEdit/]: Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[18Dec2024 20:30:59.925] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and block property-related functions.
+**
+** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
+**********************************************
+
+[18Dec2024 20:31:00.086] [Server thread/INFO] [WorldEdit/]: ====================================================
+[18Dec2024 20:31:00.086] [Server thread/INFO] [WorldEdit/]:  WorldEdit works better if you use Paper 
+[18Dec2024 20:31:00.086] [Server thread/INFO] [WorldEdit/]:  as your server software. 
+[18Dec2024 20:31:00.086] [Server thread/INFO] [WorldEdit/]: ====================================================
+[18Dec2024 20:31:00.088] [Server thread/INFO] [Essentials/]: Enabling Essentials v2.20.1
+[18Dec2024 20:31:00.103] [Server thread/ERROR] [Essentials/]: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
+[18Dec2024 20:31:00.103] [Server thread/INFO] [Essentials/]: Status determining class: net.minecraftforge.common.MinecraftForge
+[18Dec2024 20:31:00.246] [Server thread/INFO] [Essentials/]: Attempting to convert old kits in config.yml to new kits.yml
+[18Dec2024 20:31:00.246] [Server thread/INFO] [Essentials/]: No kits found to migrate.
+[18Dec2024 20:31:00.383] [Server thread/INFO] [Essentials/]: Loaded 39094 items from items.json.
+[18Dec2024 20:31:00.385] [Server thread/INFO] [Essentials/]: Using locale en
+[18Dec2024 20:31:00.409] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
+[18Dec2024 20:31:00.425] [Server thread/INFO] [Essentials/]: Starting Metrics. Opt-out using the global bStats config.
+[18Dec2024 20:31:00.428] [Server thread/INFO] [Essentials/]: Using superperms-based permissions.
+[18Dec2024 20:31:00.429] [Server thread/INFO] [EssentialsSpawn/]: Enabling EssentialsSpawn v2.20.1
+[18Dec2024 20:31:00.432] [Server thread/INFO] [EssentialsSpawn/]: Starting Metrics. Opt-out using the global bStats config.
+[18Dec2024 20:31:00.433] [Server thread/INFO] [PlaceholderAPI/]: Enabling PlaceholderAPI v2.11.6
+[18Dec2024 20:31:00.554] [Server thread/INFO] [PlaceholderAPI/]: Fetching available expansion information...
+[18Dec2024 20:31:00.557] [Server thread/INFO] [WorldGuard/]: Enabling WorldGuard v7.0.9+5934e49
+[18Dec2024 20:31:00.749] [Server thread/INFO] [Multiverse-Core/]: Enabling Multiverse-Core v4.3.11
+[18Dec2024 20:31:00.755] [Server thread/WARN] [Multiverse-Core/]: "Multiverse-Core v4.3.11" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[18Dec2024 20:31:00.756] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[18Dec2024 20:31:00.862] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] 3 - World(s) loaded.
+[18Dec2024 20:31:00.870] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[18Dec2024 20:31:00.877] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Version 4.3.11 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[18Dec2024 20:31:00.899] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[18Dec2024 20:31:01.103] [Server thread/INFO] [PlaceholderAPI/]: Placeholder expansion registration initializing...
+[18Dec2024 20:31:01.106] [Server thread/INFO] [Console/]: 0 placeholder hook(s) registered!
+[18Dec2024 20:31:01.106] [Server thread/INFO] [Console/]: Minecraft_Apixel: Reload complete.
+[18Dec2024 20:31:01.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2747ms or 54 ticks behind
+[18Dec2024 20:31:01.123] [Craft Scheduler Thread - 9/INFO] [Essentials/]: Fetching version information...
+[18Dec2024 20:31:03.846] [Async Chat Thread - #7/INFO] [Console/]: <Minecraft_Apixel> pto
+[18Dec2024 20:31:05.749] [Async Chat Thread - #6/INFO] [Console/]: <Minecraft_Apixel> tmr
+[18Dec2024 20:31:13.040] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /gamemode creative
+[18Dec2024 20:31:32.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[18Dec2024 20:31:56.979] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gm 0 DonPichulaxdxd
+[18Dec2024 20:32:04.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /essentials reload
+[18Dec2024 20:32:05.050] [Server thread/INFO] [Essentials/]: Loaded 39097 items from items.json.
+[18Dec2024 20:32:05.052] [Server thread/INFO] [Essentials/]: Using locale en
+[18Dec2024 20:32:05.058] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
+[18Dec2024 20:32:09.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /tp DonPichulaxdxd Minecraft_Apixel
+[18Dec2024 20:32:19.644] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gm 1 DonPichulaxdxd
+[18Dec2024 20:32:55.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gm 0 DonPichulaxdxd
+[18Dec2024 20:33:15.703] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /tp DonPichulaxdxd Minecraft_Apixel
+[18Dec2024 20:33:19.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /tp DonPichulaxdxd Minecraft_Apixel
+[18Dec2024 20:33:25.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /tp DonPichulaxdxd Minecraft_Apixel
+[18Dec2024 20:33:33.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minecraft_Apixel has made the advancement [Sneak 100]
+[18Dec2024 20:33:48.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonPichulaxdxd has reached the goal [Postmortal]
+[18Dec2024 20:33:48.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
+[18Dec2024 20:33:54.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
+[18Dec2024 20:33:55.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
+[18Dec2024 20:33:56.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonPichulaxdxd was slain by Warden
+[18Dec2024 20:33:59.371] [Async Chat Thread - #9/INFO] [Console/]: <Minecraft_Apixel> XDDDD
+[18Dec2024 20:34:03.122] [Async Chat Thread - #9/INFO] [Console/]: <DonPichulaxdxd> xde
+[18Dec2024 20:34:10.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /gamemode creative
+[18Dec2024 20:34:21.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gm 0
+[18Dec2024 20:34:24.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[18Dec2024 20:34:25.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minecraft_Apixel was slain by Warden
+[18Dec2024 20:34:40.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode spectator
+[18Dec2024 20:34:50.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /gamemode survival
+[18Dec2024 20:34:51.231] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[18Dec2024 20:34:55.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode spectator
+[18Dec2024 20:34:57.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[18Dec2024 20:35:06.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
+[18Dec2024 20:35:07.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
+[18Dec2024 20:35:14.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minecraft_Apixel has made the advancement [Monster Hunter]
+[18Dec2024 20:35:30.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamerule announceAdvancements false
+[18Dec2024 20:35:30.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Minecraft_Apixel: Gamerule announceAdvancements is now set to: false]
+[18Dec2024 20:35:37.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamerule announceAdvancements true
+[18Dec2024 20:35:37.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Minecraft_Apixel: Gamerule announceAdvancements is now set to: true]
+[18Dec2024 20:35:54.648] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /gamemode creative
+[18Dec2024 20:36:24.630] [Async Chat Thread - #11/INFO] [Console/]: <DonPichulaxdxd> QUE HAGOO??
+[18Dec2024 20:37:00.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no sé
+[18Dec2024 20:37:25.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] saca los mods xd
+[18Dec2024 20:37:27.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /summon minecraft:warden
+[18Dec2024 20:37:27.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonPichulaxdxd: Summoned new Warden]
+[18Dec2024 20:37:36.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /killall
+[18Dec2024 20:37:41.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /killall warder
+[18Dec2024 20:37:48.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /killall hostile
+[18Dec2024 20:37:51.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /gamemode survival
+[18Dec2024 20:38:08.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
+[18Dec2024 20:38:15.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
+[18Dec2024 20:38:23.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
+[18Dec2024 20:38:30.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
+[18Dec2024 20:38:33.702] [Async Chat Thread - #13/INFO] [Console/]: <Minecraft_Apixel> deja de papear
+[18Dec2024 20:38:34.778] [Async Chat Thread - #12/INFO] [Console/]: <Minecraft_Apixel> xD
+[18Dec2024 20:38:38.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
+[18Dec2024 20:38:45.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
