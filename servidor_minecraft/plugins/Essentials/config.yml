@@ -92,17 +92,17 @@ force-safe-teleport-location: false
 teleport-passenger-dismount: true
 
 # The delay, in seconds, required between /home, /tp, etc.
-teleport-cooldown: 0
+#teleport-cooldown: 0
 
 # The delay, in seconds, before a user actually teleports. If the user moves or gets attacked in this timeframe, the teleport is cancelled.
-teleport-delay: 0
+#teleport-delay: 0
 
 # The delay, in seconds, a player can't be attacked by other players after they have been teleported by a command.
 # This will also prevent the player attacking other players.
-teleport-invulnerability: 4
+#teleport-invulnerability: 4
 
 # Whether to make all teleportations go to the center of the block; where the x and z coordinates decimal become .5
-teleport-to-center: true
+#teleport-to-center: true
 
 # The delay, in seconds, required between /heal or /feed attempts.
 heal-cooldown: 60
@@ -147,7 +147,7 @@ drop-items-if-full: false
 
 # Essentials Mail Notification
 # Should we notify players if they have no new mail?
-notify-no-new-mail: true
+notify-no-new-mail: false
 
 # Specifies the duration (in seconds) between each time a player is notified of mail they have.
 # Useful for servers with a lot of mail traffic.
@@ -454,13 +454,13 @@ remove-god-on-disconnect: false
 # After this timeout in seconds, the user will be set as AFK.
 # This feature requires the player to have essentials.afk.auto node.
 # Set to -1 for no timeout.
-auto-afk: 300
+#auto-afk: 300
 
 # Auto-AFK Kick
 # After this timeout in seconds, the user will be kicked from the server.
 # essentials.afk.kickexempt node overrides this feature.
 # Set to -1 for no timeout.
-auto-afk-kick: -1
+#auto-afk-kick: -1
 
 # Set this to true, if you want to freeze the player, if the player is AFK.
 # Other players or monsters can't push the player out of AFK mode then.
@@ -474,12 +474,12 @@ disable-item-pickup-while-afk: false
 
 # This setting controls if a player is marked as active on interaction.
 # When this setting is false, the player would need to manually un-AFK using the /afk command.
-cancel-afk-on-interact: true
+#cancel-afk-on-interact: true
 
 # Should we automatically remove afk status when a player moves?
 # Player will be removed from AFK on chat/command regardless of this setting.
 # Disable this to reduce server lag.
-cancel-afk-on-move: true
+#cancel-afk-on-move: true
 
 # Should we automatically remove afk status when a player sends a chat message?
 cancel-afk-on-chat: true
@@ -497,7 +497,7 @@ sleep-ignores-vanished-player: true
 # Set the player's list name when they are AFK. This is none by default which specifies that Essentials 
 # should not interfere with the AFK player's list name.
 # You may use color codes, use {USERNAME} the player's name or {PLAYER} for the player's displayname.
-afk-list-name: "none"
+#afk-list-name: "none"
 
 # When a player enters or exits AFK mode, should the AFK notification be broadcast
 # to the entire server, or just to the player?
@@ -538,8 +538,8 @@ allow-silent-join-quit: false
 # {ONLINE} - The number of players online.
 # {UNIQUE} - The number of unique players to join the server.
 # {UPTIME} - The amount of time the server has been online.
-custom-join-message: "none"
-custom-quit-message: "none"
+custom-join-message: "&8[&a+&8]&"
+custom-quit-message: "&8[&4-&8]&"
 
 # You can set a custom join message for users who join with a new username here.
 # This message will only be used if a user has joined before and have since changed their username.
