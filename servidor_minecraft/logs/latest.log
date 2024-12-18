@@ -1,4 +1,4 @@
-[18Dec2024 19:38:35.950] [main/INFO] [Arclight/]: 
+[18Dec2024 21:52:12.984] [main/INFO] [Arclight/]: 
 
        ___           ___     __   /\
       /   | ________/ (_)__ / /  / /
@@ -10,65 +10,73 @@
     运行版本 顿顽 / arclight-1.20.1-1.0.5-1a8925b
     构建日期 2024-02-28 14:51:40
 
-[18Dec2024 19:38:36.004] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, arclightserver, --fml.forgeVersion, 47.2.20, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[18Dec2024 19:38:36.006] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[18Dec2024 19:38:36.100] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is arclightserver
-[18Dec2024 19:38:36.138] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/RetoCraft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2399!/ Service=ModLauncher Env=SERVER
-[18Dec2024 19:38:36.342] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.20/fmlcore-1.20.1-47.2.20.jar is missing mods.toml file
-[18Dec2024 19:38:36.344] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.20/javafmllanguage-1.20.1-47.2.20.jar is missing mods.toml file
-[18Dec2024 19:38:36.345] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.20/lowcodelanguage-1.20.1-47.2.20.jar is missing mods.toml file
-[18Dec2024 19:38:36.346] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.20/mclanguage-1.20.1-47.2.20.jar is missing mods.toml file
-[18Dec2024 19:38:36.406] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[18Dec2024 19:38:37.809] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.common.mod.ArclightConnector]
-[18Dec2024 19:38:37.858] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[18Dec2024 19:38:37.862] [main/INFO] [Arclight/]: 核心 Mixin 配置已加载
-[18Dec2024 19:38:37.864] [main/INFO] [Arclight/]: 服务端优化 Mixin 配置已加载
-[18Dec2024 19:38:37.869] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'arclightserver' with arguments [nogui]
-[18Dec2024 19:38:48.437] [modloading-worker-0/INFO] [Arclight/]: Arclight Mod 已加载
-[18Dec2024 19:38:48.462] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.20, for MC 1.20.1 with MCP 20230612.114412
-[18Dec2024 19:38:48.462] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.20 Initialized
-[18Dec2024 19:38:48.503] [modloading-worker-0/INFO] [Arclight/]: Arclight 事件系统已注册
-[18Dec2024 19:38:49.149] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[18Dec2024 19:38:49.621] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.20 Target: 47.3.0
-[18Dec2024 19:38:50.562] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18Dec2024 19:38:51.338] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/assets/.mcassetsroot' uses unexpected schema
-[18Dec2024 19:38:51.338] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23165!/data/.mcassetsroot' uses unexpected schema
-[18Dec2024 19:38:53.484] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[18Dec2024 19:38:53.625] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
-[18Dec2024 19:38:54.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[18Dec2024 19:38:54.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[18Dec2024 19:38:54.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[18Dec2024 19:38:54.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[18Dec2024 19:38:54.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[18Dec2024 19:38:54.304] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[18Dec2024 19:38:54.421] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18Dec2024 19:38:54.421] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[18Dec2024 19:38:54.421] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18Dec2024 19:38:54.421] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[18Dec2024 19:38:54.708] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.20.1-1.0.5-1a8925b (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT)
-[18Dec2024 19:38:55.489] [Server thread/INFO] [Arclight/]: 正在向 Bukkit 注册 ...
-[18Dec2024 19:38:55.535] [Server thread/INFO] [Arclight/]: 注册了 0 个材料，其中 0 个方块 0 个物品
-[18Dec2024 19:38:55.538] [Server thread/INFO] [Arclight/]: 注册了 1 个新的药水效果
-[18Dec2024 19:38:55.549] [Server thread/INFO] [Arclight/]: 注册了 39 个新的附魔
-[18Dec2024 19:38:55.550] [Server thread/INFO] [Arclight/]: 注册了 0 个新的生物类型
-[18Dec2024 19:38:55.551] [Server thread/INFO] [Arclight/]: 注册了 0 个新的村民职业
-[18Dec2024 19:38:55.552] [Server thread/INFO] [Arclight/]: 注册了 0 个新的生物群系
-[18Dec2024 19:38:55.589] [Server thread/INFO] [STDOUT/]: Server Ping Player Sample Count: 12
-[18Dec2024 19:38:55.594] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
-[18Dec2024 19:38:55.596] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
-[18Dec2024 19:38:55.861] [Server thread/INFO] [Arclight/]: 正在加载混淆数据 ...
-[18Dec2024 19:38:56.404] [Server thread/INFO] [Arclight/]: 正在加载 Plugin Patcher ...
-[18Dec2024 19:38:57.248] [Server thread/INFO] [WorldEdit/]: Loading WorldEdit v7.3.0+6678-55745ad
-[18Dec2024 19:38:57.807] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@73eb35a6]
-[18Dec2024 19:38:57.815] [Server thread/INFO] [Essentials/]: Loading Essentials v2.20.1
-[18Dec2024 19:38:57.817] [Server thread/INFO] [EssentialsSpawn/]: Loading EssentialsSpawn v2.20.1
-[18Dec2024 19:38:57.818] [Server thread/INFO] [PlaceholderAPI/]: Loading PlaceholderAPI v2.11.6
-[18Dec2024 19:38:57.819] [Server thread/INFO] [WorldGuard/]: Loading WorldGuard v7.0.9+5934e49
-[18Dec2024 19:38:57.820] [Server thread/INFO] [Multiverse-Core/]: Loading Multiverse-Core v4.3.11
-[18Dec2024 19:38:57.975] [Server thread/INFO] [WorldEdit/]: Enabling WorldEdit v7.3.0+6678-55745ad
-[18Dec2024 19:38:58.010] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[18Dec2024 19:38:58.089] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Using the Bukkit Permissions API.
-[18Dec2024 19:38:58.398] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: 
+[18Dec2024 21:52:13.064] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, arclightserver, --fml.forgeVersion, 47.2.20, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[18Dec2024 21:52:13.067] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[18Dec2024 21:52:14.025] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is arclightserver
+[18Dec2024 21:52:14.117] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/RetoCraft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2399!/ Service=ModLauncher Env=SERVER
+[18Dec2024 21:52:14.617] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.20/fmlcore-1.20.1-47.2.20.jar is missing mods.toml file
+[18Dec2024 21:52:14.621] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.20/javafmllanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[18Dec2024 21:52:14.622] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.20/lowcodelanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[18Dec2024 21:52:14.624] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.20/mclanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[18Dec2024 21:52:14.749] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[18Dec2024 21:52:17.559] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.common.mod.ArclightConnector]
+[18Dec2024 21:52:17.720] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[18Dec2024 21:52:17.725] [main/INFO] [Arclight/]: 核心 Mixin 配置已加载
+[18Dec2024 21:52:17.730] [main/INFO] [Arclight/]: 服务端优化 Mixin 配置已加载
+[18Dec2024 21:52:17.740] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'arclightserver' with arguments [nogui]
+[18Dec2024 21:52:31.633] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[18Dec2024 21:52:31.642] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.20, for MC 1.20.1 with MCP 20230612.114412
+[18Dec2024 21:52:31.645] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.20 Initialized
+[18Dec2024 21:52:31.750] [modloading-worker-0/INFO] [Arclight/]: Arclight Mod 已加载
+[18Dec2024 21:52:31.829] [modloading-worker-0/INFO] [Arclight/]: Arclight 事件系统已注册
+[18Dec2024 21:52:32.218] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[18Dec2024 21:52:32.219] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[18Dec2024 21:52:32.220] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[18Dec2024 21:52:32.220] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[18Dec2024 21:52:32.772] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[18Dec2024 21:52:33.263] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.20 Target: 47.3.0
+[18Dec2024 21:52:33.263] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[18Dec2024 21:52:33.332] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
+[18Dec2024 21:52:34.397] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18Dec2024 21:52:35.321] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23173!/assets/.mcassetsroot' uses unexpected schema
+[18Dec2024 21:52:35.321] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23173!/data/.mcassetsroot' uses unexpected schema
+[18Dec2024 21:52:37.867] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[18Dec2024 21:52:38.028] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1327 advancements
+[18Dec2024 21:52:38.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[18Dec2024 21:52:38.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[18Dec2024 21:52:38.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[18Dec2024 21:52:38.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18Dec2024 21:52:38.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[18Dec2024 21:52:38.876] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[18Dec2024 21:52:39.005] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18Dec2024 21:52:39.005] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[18Dec2024 21:52:39.005] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18Dec2024 21:52:39.005] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[18Dec2024 21:52:39.411] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.20.1-1.0.5-1a8925b (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT)
+[18Dec2024 21:52:40.392] [Server thread/INFO] [Arclight/]: 正在向 Bukkit 注册 ...
+[18Dec2024 21:52:40.474] [Server thread/INFO] [Arclight/]: 注册了 44 个材料，其中 4 个方块 40 个物品
+[18Dec2024 21:52:40.483] [Server thread/INFO] [Arclight/]: 注册了 13 个新的药水效果
+[18Dec2024 21:52:40.502] [Server thread/INFO] [Arclight/]: 注册了 39 个新的附魔
+[18Dec2024 21:52:40.503] [Server thread/INFO] [Arclight/]: 注册了 0 个新的生物类型
+[18Dec2024 21:52:40.504] [Server thread/INFO] [Arclight/]: 注册了 0 个新的村民职业
+[18Dec2024 21:52:40.505] [Server thread/INFO] [Arclight/]: 注册了 0 个新的生物群系
+[18Dec2024 21:52:40.542] [Server thread/INFO] [STDOUT/]: Server Ping Player Sample Count: 12
+[18Dec2024 21:52:40.548] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[18Dec2024 21:52:40.550] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[18Dec2024 21:52:41.399] [Server thread/INFO] [Arclight/]: 正在加载混淆数据 ...
+[18Dec2024 21:52:42.131] [Server thread/INFO] [Arclight/]: 正在加载 Plugin Patcher ...
+[18Dec2024 21:52:42.824] [Server thread/INFO] [WorldEdit/]: Loading WorldEdit v7.3.0+6678-55745ad
+[18Dec2024 21:52:43.588] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@741f6de7]
+[18Dec2024 21:52:43.595] [Server thread/INFO] [Essentials/]: Loading Essentials v2.20.1
+[18Dec2024 21:52:43.597] [Server thread/INFO] [EssentialsSpawn/]: Loading EssentialsSpawn v2.20.1
+[18Dec2024 21:52:43.597] [Server thread/INFO] [PlaceholderAPI/]: Loading PlaceholderAPI v2.11.6
+[18Dec2024 21:52:43.597] [Server thread/INFO] [WorldGuard/]: Loading WorldGuard v7.0.9+5934e49
+[18Dec2024 21:52:43.597] [Server thread/INFO] [Multiverse-Core/]: Loading Multiverse-Core v4.3.11
+[18Dec2024 21:52:43.633] [Server thread/INFO] [ConditionalEvents/]: Loading ConditionalEvents v4.59.1
+[18Dec2024 21:52:43.637] [Server thread/INFO] [WorldEdit/]: Enabling WorldEdit v7.3.0+6678-55745ad
+[18Dec2024 21:52:43.845] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[18Dec2024 21:52:43.977] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Using the Bukkit Permissions API.
+[18Dec2024 21:52:44.412] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: 
 **********************************************
 ** This WorldEdit version does not fully support your version of Bukkit.
 **
@@ -79,667 +87,188 @@
 ** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
 **********************************************
 
-[18Dec2024 19:38:58.969] [Server thread/INFO] [WorldEdit/]: ====================================================
-[18Dec2024 19:38:58.970] [Server thread/INFO] [WorldEdit/]:  WorldEdit works better if you use Paper 
-[18Dec2024 19:38:58.970] [Server thread/INFO] [WorldEdit/]:  as your server software. 
-[18Dec2024 19:38:58.971] [Server thread/INFO] [WorldEdit/]:   
-[18Dec2024 19:38:58.971] [Server thread/INFO] [WorldEdit/]:  Paper offers significant performance improvements,
-[18Dec2024 19:38:58.971] [Server thread/INFO] [WorldEdit/]:  bug fixes, security enhancements and optional
-[18Dec2024 19:38:58.972] [Server thread/INFO] [WorldEdit/]:  features for server owners to enhance their server.
-[18Dec2024 19:38:58.972] [Server thread/INFO] [WorldEdit/]:   
-[18Dec2024 19:38:58.973] [Server thread/INFO] [WorldEdit/]:  Paper includes Timings v2, which is significantly
-[18Dec2024 19:38:58.973] [Server thread/INFO] [WorldEdit/]:  better at diagnosing lag problems over v1.
-[18Dec2024 19:38:58.973] [Server thread/INFO] [WorldEdit/]:   
-[18Dec2024 19:38:58.973] [Server thread/INFO] [WorldEdit/]:  All of your plugins should still work, and the
-[18Dec2024 19:38:58.973] [Server thread/INFO] [WorldEdit/]:  Paper community will gladly help you fix any issues.
-[18Dec2024 19:38:58.973] [Server thread/INFO] [WorldEdit/]:   
-[18Dec2024 19:38:58.973] [Server thread/INFO] [WorldEdit/]:  Join the Paper Community @ https://papermc.io
-[18Dec2024 19:38:58.973] [Server thread/INFO] [WorldEdit/]: ====================================================
-[18Dec2024 19:38:59.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[18Dec2024 19:38:59.086] [Server thread/INFO] [Arclight/]: 注册了 0 个新的世界类型
-[18Dec2024 19:38:59.601] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
-[18Dec2024 19:38:59.601] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
-[18Dec2024 19:38:59.601] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
-[18Dec2024 19:38:59.601] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[18Dec2024 19:38:59.601] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
-[18Dec2024 19:38:59.601] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18Dec2024 19:38:59.602] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
-[18Dec2024 19:38:59.602] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
-[18Dec2024 19:38:59.602] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
-[18Dec2024 19:38:59.602] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
-[18Dec2024 19:38:59.602] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
-[18Dec2024 19:38:59.602] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
-[18Dec2024 19:38:59.602] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
-[18Dec2024 19:38:59.602] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
-[18Dec2024 19:38:59.602] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
-[18Dec2024 19:38:59.602] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
-[18Dec2024 19:38:59.602] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
-[18Dec2024 19:38:59.602] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
-[18Dec2024 19:38:59.602] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
-[18Dec2024 19:38:59.602] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
-[18Dec2024 19:38:59.602] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
-[18Dec2024 19:38:59.602] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
-[18Dec2024 19:38:59.602] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
-[18Dec2024 19:38:59.602] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
-[18Dec2024 19:38:59.602] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
-[18Dec2024 19:38:59.602] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[18Dec2024 19:38:59.603] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[18Dec2024 19:38:59.603] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[18Dec2024 19:38:59.603] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[18Dec2024 19:38:59.603] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
-[18Dec2024 19:38:59.603] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18Dec2024 19:38:59.603] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
-[18Dec2024 19:38:59.603] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
-[18Dec2024 19:38:59.603] [Server thread/INFO] [Minecraft/]: View Distance: 10
-[18Dec2024 19:38:59.603] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
-[18Dec2024 19:38:59.604] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
-[18Dec2024 19:39:02.039] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM1] --------
-[18Dec2024 19:39:02.040] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
-[18Dec2024 19:39:02.040] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
-[18Dec2024 19:39:02.040] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[18Dec2024 19:39:02.040] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
-[18Dec2024 19:39:02.041] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18Dec2024 19:39:02.041] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
-[18Dec2024 19:39:02.041] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
-[18Dec2024 19:39:02.041] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
-[18Dec2024 19:39:02.042] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
-[18Dec2024 19:39:02.042] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
-[18Dec2024 19:39:02.042] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
-[18Dec2024 19:39:02.042] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
-[18Dec2024 19:39:02.042] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
-[18Dec2024 19:39:02.043] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
-[18Dec2024 19:39:02.043] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
-[18Dec2024 19:39:02.044] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
-[18Dec2024 19:39:02.044] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
-[18Dec2024 19:39:02.045] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
-[18Dec2024 19:39:02.045] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
-[18Dec2024 19:39:02.045] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
-[18Dec2024 19:39:02.045] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
-[18Dec2024 19:39:02.045] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
-[18Dec2024 19:39:02.046] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
-[18Dec2024 19:39:02.046] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
-[18Dec2024 19:39:02.046] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[18Dec2024 19:39:02.046] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[18Dec2024 19:39:02.047] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[18Dec2024 19:39:02.047] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[18Dec2024 19:39:02.047] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
-[18Dec2024 19:39:02.047] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18Dec2024 19:39:02.048] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
-[18Dec2024 19:39:02.048] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
-[18Dec2024 19:39:02.048] [Server thread/INFO] [Minecraft/]: View Distance: 10
-[18Dec2024 19:39:02.048] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
-[18Dec2024 19:39:02.049] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
-[18Dec2024 19:39:02.080] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM-1] --------
-[18Dec2024 19:39:02.080] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
-[18Dec2024 19:39:02.080] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
-[18Dec2024 19:39:02.080] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[18Dec2024 19:39:02.080] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
-[18Dec2024 19:39:02.080] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
-[18Dec2024 19:39:02.081] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
-[18Dec2024 19:39:02.081] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
-[18Dec2024 19:39:02.081] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
-[18Dec2024 19:39:02.081] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
-[18Dec2024 19:39:02.081] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
-[18Dec2024 19:39:02.081] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
-[18Dec2024 19:39:02.081] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
-[18Dec2024 19:39:02.081] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
-[18Dec2024 19:39:02.081] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
-[18Dec2024 19:39:02.081] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
-[18Dec2024 19:39:02.081] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
-[18Dec2024 19:39:02.081] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
-[18Dec2024 19:39:02.081] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
-[18Dec2024 19:39:02.081] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
-[18Dec2024 19:39:02.081] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
-[18Dec2024 19:39:02.081] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
-[18Dec2024 19:39:02.081] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
-[18Dec2024 19:39:02.081] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
-[18Dec2024 19:39:02.081] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
-[18Dec2024 19:39:02.081] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[18Dec2024 19:39:02.081] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[18Dec2024 19:39:02.081] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[18Dec2024 19:39:02.082] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[18Dec2024 19:39:02.082] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
-[18Dec2024 19:39:02.082] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[18Dec2024 19:39:02.082] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
-[18Dec2024 19:39:02.082] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
-[18Dec2024 19:39:02.082] [Server thread/INFO] [Minecraft/]: View Distance: 10
-[18Dec2024 19:39:02.082] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
-[18Dec2024 19:39:02.082] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
-[18Dec2024 19:39:02.103] [Server thread/INFO] [Essentials/]: Enabling Essentials v2.20.1
-[18Dec2024 19:39:02.141] [Server thread/ERROR] [Essentials/]: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
-[18Dec2024 19:39:02.143] [Server thread/INFO] [Essentials/]: Status determining class: net.minecraftforge.common.MinecraftForge
-[18Dec2024 19:39:02.390] [Server thread/INFO] [Essentials/]: Attempting to convert old kits in config.yml to new kits.yml
-[18Dec2024 19:39:02.390] [Server thread/INFO] [Essentials/]: No kits found to migrate.
-[18Dec2024 19:39:02.533] [Server thread/INFO] [Essentials/]: Loaded 39094 items from items.json.
-[18Dec2024 19:39:02.546] [Server thread/INFO] [Essentials/]: Using locale en
-[18Dec2024 19:39:02.596] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
-[18Dec2024 19:39:02.620] [Server thread/INFO] [Essentials/]: Starting Metrics. Opt-out using the global bStats config.
-[18Dec2024 19:39:02.625] [Server thread/INFO] [Essentials/]: Using superperms-based permissions.
-[18Dec2024 19:39:02.626] [Server thread/INFO] [EssentialsSpawn/]: Enabling EssentialsSpawn v2.20.1
-[18Dec2024 19:39:02.634] [Server thread/INFO] [EssentialsSpawn/]: Starting Metrics. Opt-out using the global bStats config.
-[18Dec2024 19:39:02.636] [Server thread/INFO] [PlaceholderAPI/]: Enabling PlaceholderAPI v2.11.6
-[18Dec2024 19:39:03.768] [Server thread/INFO] [PlaceholderAPI/]: Fetching available expansion information...
-[18Dec2024 19:39:03.778] [Server thread/INFO] [WorldGuard/]: Enabling WorldGuard v7.0.9+5934e49
-[18Dec2024 19:39:04.169] [Server thread/INFO] [Multiverse-Core/]: Enabling Multiverse-Core v4.3.11
-[18Dec2024 19:39:04.237] [Server thread/WARN] [Multiverse-Core/]: "Multiverse-Core v4.3.11" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
-[18Dec2024 19:39:04.239] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
-[18Dec2024 19:39:04.363] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Cannot load worlds.yml
-[18Dec2024 19:39:04.389] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8992925256790176342
-[18Dec2024 19:39:05.999] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Loading World & Settings - 'world/DIM1' - Env: THE_END - Type: NORMAL & seed: -8992925256790176342
-[18Dec2024 19:39:06.761] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
-[18Dec2024 19:39:06.763] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Original Location: X: 64 Y: 65 Z: 128 P: 0 Y: 0 
-[18Dec2024 19:39:07.634] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] New Spawn for 'world/DIM1' is located at: world/DIM1:0.00,61.00,0.00:0.00:0.00
-[18Dec2024 19:39:07.646] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Loading World & Settings - 'world/DIM-1' - Env: NETHER - Type: NORMAL & seed: -8992925256790176342
-[18Dec2024 19:39:09.592] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
-[18Dec2024 19:39:09.592] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Original Location: X: 64 Y: 65 Z: 128 P: 0 Y: 0 
-[18Dec2024 19:39:10.757] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] New Spawn for 'world/DIM-1' is located at: world/DIM-1:0.00,66.00,0.00:0.00:0.00
-[18Dec2024 19:39:10.767] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] 3 - World(s) loaded.
-[18Dec2024 19:39:10.794] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
-[18Dec2024 19:39:10.823] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Version 4.3.11 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
-[18Dec2024 19:39:10.835] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
-[18Dec2024 19:39:10.927] [Server thread/INFO] [PlaceholderAPI/]: Placeholder expansion registration initializing...
-[18Dec2024 19:39:10.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[18Dec2024 19:39:10.954] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[18Dec2024 19:39:11.447] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[18Dec2024 19:39:12.898] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
-[18Dec2024 19:39:12.899] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
-[18Dec2024 19:39:12.933] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
-[18Dec2024 19:39:13.433] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[18Dec2024 19:39:13.969] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[18Dec2024 19:39:14.433] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[18Dec2024 19:39:14.933] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[18Dec2024 19:39:15.353] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4420 ms
-[18Dec2024 19:39:15.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.379s)! For help, type "help"
-[18Dec2024 19:39:15.405] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[18Dec2024 19:39:15.405] [Server thread/INFO] [Arclight/]: Forwarding forge permission[forge:default_handler] to bukkit
-[18Dec2024 19:39:15.442] [Craft Scheduler Thread - 0/INFO] [Essentials/]: Fetching version information...
-[18Dec2024 19:39:15.446] [Server thread/INFO] [Console/]: 0 placeholder hook(s) registered!
-[18Dec2024 19:39:25.333] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Minecraft_Apixel is 67bfdf0f-1495-38b9-baa1-a3d3621f83ab
-[18Dec2024 19:39:29.701] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Minecraft_Apixel[/127.130.66.250:35909] logged in with entity id 325 at (183.26063318838717, 78.49390748022948, 123.05780162331166)
-[18Dec2024 19:39:30.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minecraft_Apixel joined the game
-[18Dec2024 19:41:11.727] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /plugins
-[18Dec2024 20:22:05.599] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player DonPichulaxdxd is ac1e62ec-fcff-36ad-bfe4-5329d524ef4e
-[18Dec2024 20:22:05.668] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonPichulaxdxd[/127.227.4.37:45793] logged in with entity id 4385 at (59.5, 66.0, 119.5)
-[18Dec2024 20:22:05.684] [Server thread/INFO] [Essentials/]: Created a User for DonPichulaxdxd (ac1e62ec-fcff-36ad-bfe4-5329d524ef4e) for non Bukkit type: org.bukkit.craftbukkit.v1_20_R1.entity.CraftPlayer
-[18Dec2024 20:22:05.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonPichulaxdxd joined the game
-[18Dec2024 20:22:05.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonPichulaxdxd has made the advancement [Getting an Upgrade]
-[18Dec2024 20:22:31.847] [Async Chat Thread - #1/INFO] [Console/]: <Minecraft_Apixel> aea
-[18Dec2024 20:22:32.671] [Async Chat Thread - #0/INFO] [Console/]: <DonPichulaxdxd> yaa
-[18Dec2024 20:22:38.481] [Async Chat Thread - #1/INFO] [Console/]: <Minecraft_Apixel> tengo tu ip
-[18Dec2024 20:22:39.812] [Async Chat Thread - #0/INFO] [Console/]: <Minecraft_Apixel> >:D
-[18Dec2024 20:22:40.914] [Async Chat Thread - #1/INFO] [Console/]: <Minecraft_Apixel> XD
-[18Dec2024 20:22:52.817] [Async Chat Thread - #0/INFO] [Console/]: <DonPichulaxdxd> .-.
-[18Dec2024 20:23:01.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonPichulaxdxd has made the advancement [Monster Hunter]
-[18Dec2024 20:23:03.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gm 1 DonPichulaxdxd
-[18Dec2024 20:23:15.879] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /op DonPichulaxdxd
-[18Dec2024 20:23:15.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Minecraft_Apixel: Made DonPichulaxdxd a server operator]
-[18Dec2024 20:23:33.322] [Async Chat Thread - #1/INFO] [Console/]: <Minecraft_Apixel> que haces?
-[18Dec2024 20:23:34.171] [Async Chat Thread - #1/INFO] [Console/]: <Minecraft_Apixel> XD
-[18Dec2024 20:23:49.861] [Async Chat Thread - #0/INFO] [Console/]: <DonPichulaxdxd> nada xd
-[18Dec2024 20:23:57.582] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /reload confirm
-[18Dec2024 20:23:57.583] [Server thread/INFO] [Console/]: Minecraft_Apixel: Please note that this command is not supported and may cause issues when using some plugins.
-[18Dec2024 20:23:57.583] [Server thread/INFO] [Console/]: Minecraft_Apixel: If you encounter any issues please use the /stop command to restart your server.
-[18Dec2024 20:23:57.585] [Server thread/INFO] [Multiverse-Core/]: Disabling Multiverse-Core v4.3.11
-[18Dec2024 20:23:57.591] [Server thread/INFO] [WorldGuard/]: Disabling WorldGuard v7.0.9+5934e49
-[18Dec2024 20:23:57.593] [Server thread/INFO] [PlaceholderAPI/]: Disabling PlaceholderAPI v2.11.6
-[18Dec2024 20:23:57.595] [Server thread/INFO] [EssentialsSpawn/]: Disabling EssentialsSpawn v2.20.1
-[18Dec2024 20:23:57.595] [Server thread/INFO] [Essentials/]: Disabling Essentials v2.20.1
-[18Dec2024 20:23:57.596] [Server thread/ERROR] [Essentials/]: There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
-[18Dec2024 20:23:57.602] [Server thread/INFO] [WorldEdit/]: Disabling WorldEdit v7.3.0+6678-55745ad
-[18Dec2024 20:23:57.608] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[18Dec2024 20:23:57.695] [Async Chat Thread - #1/INFO] [Console/]: <DonPichulaxdxd> PVP?
-[18Dec2024 20:23:57.861] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[18Dec2024 20:23:57.892] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
-[18Dec2024 20:23:58.591] [Server thread/INFO] [WorldEdit/]: Loading WorldEdit v7.3.0+6678-55745ad
-[18Dec2024 20:23:59.008] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3bf66e7]
-[18Dec2024 20:23:59.013] [Server thread/INFO] [Essentials/]: Loading Essentials v2.20.1
-[18Dec2024 20:23:59.015] [Server thread/INFO] [EssentialsSpawn/]: Loading EssentialsSpawn v2.20.1
-[18Dec2024 20:23:59.015] [Server thread/INFO] [PlaceholderAPI/]: Loading PlaceholderAPI v2.11.6
-[18Dec2024 20:23:59.015] [Server thread/INFO] [WorldGuard/]: Loading WorldGuard v7.0.9+5934e49
-[18Dec2024 20:23:59.015] [Server thread/INFO] [Multiverse-Core/]: Loading Multiverse-Core v4.3.11
-[18Dec2024 20:23:59.041] [Server thread/INFO] [WorldEdit/]: Enabling WorldEdit v7.3.0+6678-55745ad
-[18Dec2024 20:23:59.045] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[18Dec2024 20:23:59.108] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Using the Bukkit Permissions API.
-[18Dec2024 20:23:59.111] [Server thread/WARN] [WorldEdit/]: Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
-[18Dec2024 20:23:59.315] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: 
-**********************************************
-** This WorldEdit version does not fully support your version of Bukkit.
-**
-** When working with blocks or undoing, chests will be empty, signs
-** will be blank, and so on. There will be no support for entity
-** and block property-related functions.
-**
-** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
-**********************************************
-
-[18Dec2024 20:23:59.495] [Server thread/INFO] [WorldEdit/]: ====================================================
-[18Dec2024 20:23:59.495] [Server thread/INFO] [WorldEdit/]:  WorldEdit works better if you use Paper 
-[18Dec2024 20:23:59.495] [Server thread/INFO] [WorldEdit/]:  as your server software. 
-[18Dec2024 20:23:59.495] [Server thread/INFO] [WorldEdit/]: ====================================================
-[18Dec2024 20:23:59.497] [Server thread/INFO] [Essentials/]: Enabling Essentials v2.20.1
-[18Dec2024 20:23:59.517] [Server thread/ERROR] [Essentials/]: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
-[18Dec2024 20:23:59.517] [Server thread/INFO] [Essentials/]: Status determining class: net.minecraftforge.common.MinecraftForge
-[18Dec2024 20:23:59.659] [Server thread/INFO] [Essentials/]: Attempting to convert old kits in config.yml to new kits.yml
-[18Dec2024 20:23:59.660] [Server thread/INFO] [Essentials/]: No kits found to migrate.
-[18Dec2024 20:23:59.790] [Server thread/INFO] [Essentials/]: Loaded 39094 items from items.json.
-[18Dec2024 20:23:59.792] [Server thread/INFO] [Essentials/]: Using locale en
-[18Dec2024 20:23:59.830] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
-[18Dec2024 20:23:59.846] [Server thread/INFO] [Essentials/]: Starting Metrics. Opt-out using the global bStats config.
-[18Dec2024 20:23:59.850] [Server thread/INFO] [Essentials/]: Using superperms-based permissions.
-[18Dec2024 20:23:59.851] [Server thread/INFO] [EssentialsSpawn/]: Enabling EssentialsSpawn v2.20.1
-[18Dec2024 20:23:59.857] [Server thread/INFO] [EssentialsSpawn/]: Starting Metrics. Opt-out using the global bStats config.
-[18Dec2024 20:23:59.860] [Server thread/INFO] [PlaceholderAPI/]: Enabling PlaceholderAPI v2.11.6
-[18Dec2024 20:24:00.039] [Server thread/INFO] [PlaceholderAPI/]: Fetching available expansion information...
-[18Dec2024 20:24:00.042] [Server thread/INFO] [WorldGuard/]: Enabling WorldGuard v7.0.9+5934e49
-[18Dec2024 20:24:00.317] [Server thread/INFO] [Multiverse-Core/]: Enabling Multiverse-Core v4.3.11
-[18Dec2024 20:24:00.326] [Server thread/WARN] [Multiverse-Core/]: "Multiverse-Core v4.3.11" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
-[18Dec2024 20:24:00.327] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
-[18Dec2024 20:24:00.432] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] 3 - World(s) loaded.
-[18Dec2024 20:24:00.443] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
-[18Dec2024 20:24:00.453] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Version 4.3.11 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
-[18Dec2024 20:24:00.497] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
-[18Dec2024 20:24:00.710] [Server thread/INFO] [PlaceholderAPI/]: Placeholder expansion registration initializing...
-[18Dec2024 20:24:00.715] [Server thread/INFO] [Console/]: 0 placeholder hook(s) registered!
-[18Dec2024 20:24:00.717] [Server thread/INFO] [Console/]: Minecraft_Apixel: Reload complete.
-[18Dec2024 20:24:00.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3107ms or 62 ticks behind
-[18Dec2024 20:24:00.730] [Craft Scheduler Thread - 6/INFO] [Essentials/]: Fetching version information...
-[18Dec2024 20:24:08.538] [Async Chat Thread - #0/INFO] [Console/]: <Minecraft_Apixel> XDDD
-[18Dec2024 20:24:14.658] [Async Chat Thread - #1/INFO] [Console/]: <Minecraft_Apixel> utiliza el /kit
-[18Dec2024 20:24:18.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /kits
-[18Dec2024 20:24:22.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /kit
-[18Dec2024 20:24:22.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /kit
-[18Dec2024 20:24:25.666] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /kitcreate
-[18Dec2024 20:24:30.865] [Async Chat Thread - #0/INFO] [Console/]: <Minecraft_Apixel> sale? XD
-[18Dec2024 20:24:36.583] [Async Chat Thread - #1/INFO] [Console/]: <DonPichulaxdxd> no
-[18Dec2024 20:24:38.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /pvp on
-[18Dec2024 20:24:42.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /kitcreate
-[18Dec2024 20:25:21.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /vanish
-[18Dec2024 20:25:25.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /vanish
-[18Dec2024 20:25:35.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /vanish
-[18Dec2024 20:25:37.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /vanish
-[18Dec2024 20:25:43.112] [Async Chat Thread - #3/INFO] [Console/]: <Minecraft_Apixel> ./vanish
-[18Dec2024 20:25:44.966] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /tp DonPichulaxdxd Minecraft_Apixel
-[18Dec2024 20:25:56.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /vanish
-[18Dec2024 20:27:01.314] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /gamemode creative
-[18Dec2024 20:27:02.707] [Async Chat Thread - #5/INFO] [Console/]: <Minecraft_Apixel> xd
-[18Dec2024 20:27:11.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /ver
-[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: java.io.IOException: Server returned HTTP response code: 401 for URL: https://hub.spigotmc.org/stash/rest/api/1.0/projects/SPIGOT/repos/craftbukkit/commits?since=1a8925b&withCounts=true
-[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2036)
-[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1625)
-[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
-[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at java.base/java.net.URL.openStream(URL.java:1161)
-[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/com.google.common@31.1-jre/com.google.common.io.Resources$UrlByteSource.openStream(Resources.java:68)
-[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/com.google.common@31.1-jre/com.google.common.io.ByteSource$AsCharSource.openStream(ByteSource.java:474)
-[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/com.google.common@31.1-jre/com.google.common.io.CharSource.openBufferedStream(CharSource.java:126)
-[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.command.defaults.VersionCommand.getDistance(VersionCommand.java:241)
-[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.command.defaults.VersionCommand.obtainVersion(VersionCommand.java:192)
-[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.command.defaults.VersionCommand.access$0(VersionCommand.java:187)
-[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.command.defaults.VersionCommand$1.run(VersionCommand.java:178)
-[18Dec2024 20:27:11.392] [Thread-87/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
-[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: java.io.IOException: Server returned HTTP response code: 401 for URL: https://hub.spigotmc.org/stash/rest/api/1.0/projects/SPIGOT/repos/spigot/commits?since=1.0.5&withCounts=true
-[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2036)
-[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1625)
-[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
-[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at java.base/java.net.URL.openStream(URL.java:1161)
-[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/com.google.common@31.1-jre/com.google.common.io.Resources$UrlByteSource.openStream(Resources.java:68)
-[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/com.google.common@31.1-jre/com.google.common.io.ByteSource$AsCharSource.openStream(ByteSource.java:474)
-[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at MC-BOOTSTRAP/com.google.common@31.1-jre/com.google.common.io.CharSource.openBufferedStream(CharSource.java:126)
-[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.command.defaults.VersionCommand.getDistance(VersionCommand.java:241)
-[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.command.defaults.VersionCommand.obtainVersion(VersionCommand.java:193)
-[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.command.defaults.VersionCommand.access$0(VersionCommand.java:187)
-[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.command.defaults.VersionCommand$1.run(VersionCommand.java:178)
-[18Dec2024 20:27:11.454] [Thread-87/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
-[18Dec2024 20:27:18.491] [Async Chat Thread - #4/INFO] [Console/]: <Minecraft_Apixel> que haces?
-[18Dec2024 20:27:22.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /vanish
-[18Dec2024 20:27:26.785] [Async Chat Thread - #5/INFO] [Console/]: <DonPichulaxdxd> NADA
-[18Dec2024 20:27:31.541] [Async Chat Thread - #4/INFO] [Console/]: <DonPichulaxdxd> Q HAGO??
-[18Dec2024 20:27:47.564] [Server thread/INFO] [Essentials/]: CONSOLE issued server command: /kill DonPichulaxdxd
-[18Dec2024 20:27:47.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonPichulaxdxd died
-[18Dec2024 20:27:47.573] [Server thread/INFO] [Console/]: Killed DonPichulaxdxd.
-[18Dec2024 20:27:51.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
-[18Dec2024 20:28:05.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /kill Minecraft_Apixel
-[18Dec2024 20:28:05.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minecraft_Apixel died
-[18Dec2024 20:28:08.797] [Async Chat Thread - #5/INFO] [Console/]: <Minecraft_Apixel> xddd
-[18Dec2024 20:28:12.882] [Async Chat Thread - #4/INFO] [Console/]: <Minecraft_Apixel> metemos 2 mods?
-[18Dec2024 20:28:16.902] [Async Chat Thread - #5/INFO] [Console/]: <DonPichulaxdxd> va
-[18Dec2024 20:28:21.614] [Async Chat Thread - #4/INFO] [Console/]: <Minecraft_Apixel> dime los mods
-[18Dec2024 20:28:26.358] [Async Chat Thread - #5/INFO] [Console/]: <Minecraft_Apixel> que quieres probrar
-[18Dec2024 20:28:29.548] [Async Chat Thread - #4/INFO] [Console/]: <Minecraft_Apixel> probar*
-[18Dec2024 20:28:32.465] [Async Chat Thread - #5/INFO] [Console/]: <DonPichulaxdxd> BACKPAKCS
-[18Dec2024 20:28:43.103] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /essentials reload
-[18Dec2024 20:28:43.181] [Server thread/INFO] [Essentials/]: Loaded 39097 items from items.json.
-[18Dec2024 20:28:43.182] [Server thread/INFO] [Essentials/]: Using locale en
-[18Dec2024 20:28:43.191] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
-[18Dec2024 20:28:46.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /kits
-[18Dec2024 20:28:50.644] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /kitshow
-[18Dec2024 20:28:55.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /kitshow aw
-[18Dec2024 20:28:56.738] [Async Chat Thread - #4/INFO] [Console/]: <DonPichulaxdxd> Y EL MAPA
-[18Dec2024 20:30:06.566] [Async Chat Thread - #7/INFO] [Console/]: <Minecraft_Apixel> mira esto
-[18Dec2024 20:30:16.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /tp DonPichulaxdxd Minecraft_Apixel
-[18Dec2024 20:30:17.457] [Server thread/ERROR] [STDERR/]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[18Dec2024 20:30:20.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2786ms or 55 ticks behind
-[18Dec2024 20:30:25.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /essentials reload
-[18Dec2024 20:30:25.303] [Server thread/INFO] [Essentials/]: Loaded 39097 items from items.json.
-[18Dec2024 20:30:25.304] [Server thread/INFO] [Essentials/]: Using locale en
-[18Dec2024 20:30:25.314] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
-[18Dec2024 20:30:27.363] [Async Chat Thread - #6/INFO] [Console/]: <Minecraft_Apixel> hola
-[18Dec2024 20:30:32.468] [Async Chat Thread - #7/INFO] [Console/]: <DonPichulaxdxd> ??
-[18Dec2024 20:30:32.793] [Async Chat Thread - #6/INFO] [Console/]: <Minecraft_Apixel> hol
-[18Dec2024 20:30:34.421] [Async Chat Thread - #7/INFO] [Console/]: <Minecraft_Apixel> aea
-[18Dec2024 20:30:48.417] [Async Chat Thread - #6/INFO] [Console/]: <DonPichulaxdxd> Q MIRO?
-[18Dec2024 20:30:58.327] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /reload confirm
-[18Dec2024 20:30:58.328] [Server thread/INFO] [Console/]: Minecraft_Apixel: Please note that this command is not supported and may cause issues when using some plugins.
-[18Dec2024 20:30:58.328] [Server thread/INFO] [Console/]: Minecraft_Apixel: If you encounter any issues please use the /stop command to restart your server.
-[18Dec2024 20:30:58.330] [Server thread/INFO] [Multiverse-Core/]: Disabling Multiverse-Core v4.3.11
-[18Dec2024 20:30:58.335] [Server thread/INFO] [WorldGuard/]: Disabling WorldGuard v7.0.9+5934e49
-[18Dec2024 20:30:58.336] [Server thread/INFO] [PlaceholderAPI/]: Disabling PlaceholderAPI v2.11.6
-[18Dec2024 20:30:58.337] [Server thread/INFO] [EssentialsSpawn/]: Disabling EssentialsSpawn v2.20.1
-[18Dec2024 20:30:58.338] [Server thread/INFO] [Essentials/]: Disabling Essentials v2.20.1
-[18Dec2024 20:30:58.338] [Server thread/ERROR] [Essentials/]: There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
-[18Dec2024 20:30:58.342] [Server thread/INFO] [WorldEdit/]: Disabling WorldEdit v7.3.0+6678-55745ad
-[18Dec2024 20:30:58.347] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[18Dec2024 20:30:58.584] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[18Dec2024 20:30:58.615] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
-[18Dec2024 20:30:59.299] [Server thread/INFO] [WorldEdit/]: Loading WorldEdit v7.3.0+6678-55745ad
-[18Dec2024 20:30:59.684] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6a6728e8]
-[18Dec2024 20:30:59.688] [Server thread/INFO] [Essentials/]: Loading Essentials v2.20.1
-[18Dec2024 20:30:59.688] [Server thread/INFO] [EssentialsSpawn/]: Loading EssentialsSpawn v2.20.1
-[18Dec2024 20:30:59.689] [Server thread/INFO] [PlaceholderAPI/]: Loading PlaceholderAPI v2.11.6
-[18Dec2024 20:30:59.689] [Server thread/INFO] [WorldGuard/]: Loading WorldGuard v7.0.9+5934e49
-[18Dec2024 20:30:59.689] [Server thread/INFO] [Multiverse-Core/]: Loading Multiverse-Core v4.3.11
-[18Dec2024 20:30:59.705] [Server thread/INFO] [WorldEdit/]: Enabling WorldEdit v7.3.0+6678-55745ad
-[18Dec2024 20:30:59.707] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[18Dec2024 20:30:59.760] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Using the Bukkit Permissions API.
-[18Dec2024 20:30:59.764] [Server thread/WARN] [WorldEdit/]: Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
-[18Dec2024 20:30:59.925] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: 
-**********************************************
-** This WorldEdit version does not fully support your version of Bukkit.
-**
-** When working with blocks or undoing, chests will be empty, signs
-** will be blank, and so on. There will be no support for entity
-** and block property-related functions.
-**
-** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
-**********************************************
-
-[18Dec2024 20:31:00.086] [Server thread/INFO] [WorldEdit/]: ====================================================
-[18Dec2024 20:31:00.086] [Server thread/INFO] [WorldEdit/]:  WorldEdit works better if you use Paper 
-[18Dec2024 20:31:00.086] [Server thread/INFO] [WorldEdit/]:  as your server software. 
-[18Dec2024 20:31:00.086] [Server thread/INFO] [WorldEdit/]: ====================================================
-[18Dec2024 20:31:00.088] [Server thread/INFO] [Essentials/]: Enabling Essentials v2.20.1
-[18Dec2024 20:31:00.103] [Server thread/ERROR] [Essentials/]: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
-[18Dec2024 20:31:00.103] [Server thread/INFO] [Essentials/]: Status determining class: net.minecraftforge.common.MinecraftForge
-[18Dec2024 20:31:00.246] [Server thread/INFO] [Essentials/]: Attempting to convert old kits in config.yml to new kits.yml
-[18Dec2024 20:31:00.246] [Server thread/INFO] [Essentials/]: No kits found to migrate.
-[18Dec2024 20:31:00.383] [Server thread/INFO] [Essentials/]: Loaded 39094 items from items.json.
-[18Dec2024 20:31:00.385] [Server thread/INFO] [Essentials/]: Using locale en
-[18Dec2024 20:31:00.409] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
-[18Dec2024 20:31:00.425] [Server thread/INFO] [Essentials/]: Starting Metrics. Opt-out using the global bStats config.
-[18Dec2024 20:31:00.428] [Server thread/INFO] [Essentials/]: Using superperms-based permissions.
-[18Dec2024 20:31:00.429] [Server thread/INFO] [EssentialsSpawn/]: Enabling EssentialsSpawn v2.20.1
-[18Dec2024 20:31:00.432] [Server thread/INFO] [EssentialsSpawn/]: Starting Metrics. Opt-out using the global bStats config.
-[18Dec2024 20:31:00.433] [Server thread/INFO] [PlaceholderAPI/]: Enabling PlaceholderAPI v2.11.6
-[18Dec2024 20:31:00.554] [Server thread/INFO] [PlaceholderAPI/]: Fetching available expansion information...
-[18Dec2024 20:31:00.557] [Server thread/INFO] [WorldGuard/]: Enabling WorldGuard v7.0.9+5934e49
-[18Dec2024 20:31:00.749] [Server thread/INFO] [Multiverse-Core/]: Enabling Multiverse-Core v4.3.11
-[18Dec2024 20:31:00.755] [Server thread/WARN] [Multiverse-Core/]: "Multiverse-Core v4.3.11" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
-[18Dec2024 20:31:00.756] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
-[18Dec2024 20:31:00.862] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] 3 - World(s) loaded.
-[18Dec2024 20:31:00.870] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
-[18Dec2024 20:31:00.877] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Version 4.3.11 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
-[18Dec2024 20:31:00.899] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
-[18Dec2024 20:31:01.103] [Server thread/INFO] [PlaceholderAPI/]: Placeholder expansion registration initializing...
-[18Dec2024 20:31:01.106] [Server thread/INFO] [Console/]: 0 placeholder hook(s) registered!
-[18Dec2024 20:31:01.106] [Server thread/INFO] [Console/]: Minecraft_Apixel: Reload complete.
-[18Dec2024 20:31:01.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2747ms or 54 ticks behind
-[18Dec2024 20:31:01.123] [Craft Scheduler Thread - 9/INFO] [Essentials/]: Fetching version information...
-[18Dec2024 20:31:03.846] [Async Chat Thread - #7/INFO] [Console/]: <Minecraft_Apixel> pto
-[18Dec2024 20:31:05.749] [Async Chat Thread - #6/INFO] [Console/]: <Minecraft_Apixel> tmr
-[18Dec2024 20:31:13.040] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /gamemode creative
-[18Dec2024 20:31:32.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
-[18Dec2024 20:31:56.979] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gm 0 DonPichulaxdxd
-[18Dec2024 20:32:04.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /essentials reload
-[18Dec2024 20:32:05.050] [Server thread/INFO] [Essentials/]: Loaded 39097 items from items.json.
-[18Dec2024 20:32:05.052] [Server thread/INFO] [Essentials/]: Using locale en
-[18Dec2024 20:32:05.058] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
-[18Dec2024 20:32:09.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /tp DonPichulaxdxd Minecraft_Apixel
-[18Dec2024 20:32:19.644] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gm 1 DonPichulaxdxd
-[18Dec2024 20:32:55.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gm 0 DonPichulaxdxd
-[18Dec2024 20:33:15.703] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /tp DonPichulaxdxd Minecraft_Apixel
-[18Dec2024 20:33:19.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /tp DonPichulaxdxd Minecraft_Apixel
-[18Dec2024 20:33:25.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /tp DonPichulaxdxd Minecraft_Apixel
-[18Dec2024 20:33:33.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minecraft_Apixel has made the advancement [Sneak 100]
-[18Dec2024 20:33:48.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonPichulaxdxd has reached the goal [Postmortal]
-[18Dec2024 20:33:48.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:33:54.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:33:55.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:33:56.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonPichulaxdxd was slain by Warden
-[18Dec2024 20:33:59.371] [Async Chat Thread - #9/INFO] [Console/]: <Minecraft_Apixel> XDDDD
-[18Dec2024 20:34:03.122] [Async Chat Thread - #9/INFO] [Console/]: <DonPichulaxdxd> xde
-[18Dec2024 20:34:10.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /gamemode creative
-[18Dec2024 20:34:21.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gm 0
-[18Dec2024 20:34:24.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
-[18Dec2024 20:34:25.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minecraft_Apixel was slain by Warden
-[18Dec2024 20:34:40.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode spectator
-[18Dec2024 20:34:50.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /gamemode survival
-[18Dec2024 20:34:51.231] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
-[18Dec2024 20:34:55.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode spectator
-[18Dec2024 20:34:57.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
-[18Dec2024 20:35:06.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:35:07.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:35:14.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minecraft_Apixel has made the advancement [Monster Hunter]
-[18Dec2024 20:35:30.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamerule announceAdvancements false
-[18Dec2024 20:35:30.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Minecraft_Apixel: Gamerule announceAdvancements is now set to: false]
-[18Dec2024 20:35:37.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamerule announceAdvancements true
-[18Dec2024 20:35:37.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Minecraft_Apixel: Gamerule announceAdvancements is now set to: true]
-[18Dec2024 20:35:54.648] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /gamemode creative
-[18Dec2024 20:36:24.630] [Async Chat Thread - #11/INFO] [Console/]: <DonPichulaxdxd> QUE HAGOO??
-[18Dec2024 20:37:00.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no sé
-[18Dec2024 20:37:25.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] saca los mods xd
-[18Dec2024 20:37:27.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /summon minecraft:warden
-[18Dec2024 20:37:27.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonPichulaxdxd: Summoned new Warden]
-[18Dec2024 20:37:36.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /killall
-[18Dec2024 20:37:41.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /killall warder
-[18Dec2024 20:37:48.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /killall hostile
-[18Dec2024 20:37:51.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /gamemode survival
-[18Dec2024 20:38:08.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:38:15.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:38:23.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:38:30.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:38:33.702] [Async Chat Thread - #13/INFO] [Console/]: <Minecraft_Apixel> deja de papear
-[18Dec2024 20:38:34.778] [Async Chat Thread - #12/INFO] [Console/]: <Minecraft_Apixel> xD
-[18Dec2024 20:38:38.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:38:45.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:38:53.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:39:00.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:39:08.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:39:15.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:39:23.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:39:30.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonPichulaxdxd was pricked to death
-[18Dec2024 20:39:43.391] [Async Chat Thread - #15/INFO] [Console/]: <Minecraft_Apixel> pero
-[18Dec2024 20:39:44.997] [Async Chat Thread - #14/INFO] [Console/]: <Minecraft_Apixel> xddd
-[18Dec2024 20:40:46.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonPichulaxdxd was slain by Husk
-[18Dec2024 20:40:56.877] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gm 1 DonPichulaxdxd
-[18Dec2024 20:40:59.630] [Async Chat Thread - #17/INFO] [Console/]: <Minecraft_Apixel> pero
-[18Dec2024 20:41:14.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamerule doImmediateRespawn true
-[18Dec2024 20:41:14.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Minecraft_Apixel: Gamerule doImmediateRespawn is now set to: true]
-[18Dec2024 20:41:20.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /kill DonPichulaxdxd
-[18Dec2024 20:41:20.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonPichulaxdxd died
-[18Dec2024 20:41:23.394] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /kill DonPichulaxdxd
-[18Dec2024 20:41:23.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonPichulaxdxd died
-[18Dec2024 20:41:24.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /kill DonPichulaxdxd
-[18Dec2024 20:41:24.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonPichulaxdxd died
-[18Dec2024 20:41:25.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /kill DonPichulaxdxd
-[18Dec2024 20:41:25.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonPichulaxdxd died
-[18Dec2024 20:41:26.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /kill DonPichulaxdxd
-[18Dec2024 20:41:26.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonPichulaxdxd died
-[18Dec2024 20:41:31.633] [Async Chat Thread - #16/INFO] [Console/]: <Minecraft_Apixel> ahora sí
-[18Dec2024 20:41:32.675] [Async Chat Thread - #17/INFO] [Console/]: <Minecraft_Apixel> xd
-[18Dec2024 20:41:48.493] [Async Chat Thread - #16/INFO] [Console/]: <Minecraft_Apixel> sabes que más falta?
-[18Dec2024 20:41:51.129] [Async Chat Thread - #17/INFO] [Console/]: <Minecraft_Apixel> sí los mods
-[18Dec2024 20:41:52.687] [Async Chat Thread - #16/INFO] [Console/]: <Minecraft_Apixel> XD
-[18Dec2024 20:41:53.772] [Async Chat Thread - #16/INFO] [Console/]: <DonPichulaxdxd> q
-[18Dec2024 20:41:57.026] [Async Chat Thread - #17/INFO] [Console/]: <DonPichulaxdxd> espera
-[18Dec2024 20:42:10.000] [Async Chat Thread - #16/INFO] [Console/]: <DonPichulaxdxd> los estoy descargando
-[18Dec2024 20:42:39.182] [Async Chat Thread - #17/INFO] [Console/]: <DonPichulaxdxd> ponme 64 totems y un warden haber quien gana
-[18Dec2024 20:44:51.157] [Async Chat Thread - #19/INFO] [Console/]: <Minecraft_Apixel> XDDDD
-[18Dec2024 20:45:05.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /give DonPichulaxdxd minecraft:totem_of_undying 64
-[18Dec2024 20:45:17.130] [Async Chat Thread - #18/INFO] [Console/]: <Minecraft_Apixel> quieres wardens?
-[18Dec2024 20:45:31.417] [Async Chat Thread - #19/INFO] [Console/]: <DonPichulaxdxd> SHI
-[18Dec2024 20:45:43.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /gamemode survival
-[18Dec2024 20:45:51.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:45:52.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:45:53.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:45:55.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:45:56.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:45:57.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:45:58.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:45:59.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:46:00.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:46:01.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:46:02.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:46:03.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:46:04.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:46:05.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:46:06.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:46:07.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:46:09.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:46:12.080] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /killall mobs
-[18Dec2024 20:46:21.423] [Async Chat Thread - #18/INFO] [Console/]: <Minecraft_Apixel> XDDD
-[18Dec2024 20:46:38.966] [Async Chat Thread - #19/INFO] [Console/]: <DonPichulaxdxd> OTRA VEEEZZZ
-[18Dec2024 20:47:08.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:09.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:10.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:11.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:12.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:13.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:14.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:15.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:16.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:17.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:18.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:19.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:20.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:21.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:22.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:24.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:25.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:26.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:27.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:28.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:29.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:30.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:31.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:32.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:33.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:34.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:35.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:36.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:37.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:38.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:39.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:39.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:40.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:41.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:42.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:43.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:44.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:45.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:46.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:47.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /give DonPichulaxdxd minecraft:totem_of_undying 64
-[18Dec2024 20:47:47.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:49.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:50.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:51.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:52.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:53.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:54.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:55.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:56.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:57.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:58.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:47:59.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:00.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:01.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:06.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:07.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:08.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:09.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:10.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:11.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:12.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:13.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:14.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:15.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:16.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:17.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:18.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:19.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:20.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:21.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:22.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:23.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:24.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:25.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:26.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:27.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:28.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:29.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:30.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:31.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:32.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:33.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:33.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:34.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:35.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:36.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:37.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:38.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:39.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:40.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:41.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:42.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:43.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:44.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:45.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:46.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:47.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:48.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:49.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:50.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:51.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:52.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:52.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:53.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:59.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:48:59.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:49:00.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:49:02.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:49:03.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:49:04.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:49:05.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:49:06.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for DonPichulaxdxd to 0]
-[18Dec2024 20:49:06.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonPichulaxdxd was slain by Warden
-[18Dec2024 20:49:08.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode spectator
-[18Dec2024 20:49:13.452] [Async Chat Thread - #21/INFO] [Console/]: <DonPichulaxdxd> CASIII
-[18Dec2024 20:49:14.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /killall mobs
-[18Dec2024 20:49:21.518] [Async Chat Thread - #20/INFO] [Console/]: <Minecraft_Apixel> mucho
-[18Dec2024 20:49:26.200] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
-[18Dec2024 20:49:33.036] [Async Chat Thread - #21/INFO] [Console/]: <DonPichulaxdxd> MAAAASS
-[18Dec2024 20:49:37.098] [Async Chat Thread - #20/INFO] [Console/]: <Minecraft_Apixel> XDDDD
-[18Dec2024 20:49:38.427] [Async Chat Thread - #21/INFO] [Console/]: <DonPichulaxdxd> 100 TOTEMMS
-[18Dec2024 20:49:41.046] [Async Chat Thread - #20/INFO] [Console/]: <Minecraft_Apixel> ya voy a meter
-[18Dec2024 20:49:42.661] [Async Chat Thread - #21/INFO] [Console/]: <Minecraft_Apixel> los mods
-[18Dec2024 20:49:48.858] [Async Chat Thread - #20/INFO] [Console/]: <Minecraft_Apixel> meteré 3 o 4 xd
-[18Dec2024 20:49:55.392] [Async Chat Thread - #21/INFO] [Console/]: <DonPichulaxdxd> VALE XD
-[18Dec2024 20:49:56.490] [Async Chat Thread - #20/INFO] [Console/]: <Minecraft_Apixel> wiiiiiiiiiii
-[18Dec2024 20:51:22.762] [Async Chat Thread - #23/INFO] [Console/]: <DonPichulaxdxd> xd
-[18Dec2024 20:53:12.280] [Async Chat Thread - #25/INFO] [Console/]: <Minecraft_Apixel> xxcdddd
-[18Dec2024 20:54:05.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /gamemode creative
-[18Dec2024 20:54:15.844] [Async Chat Thread - #27/INFO] [Console/]: <Minecraft_Apixel> jkaskjaskjsa
-[18Dec2024 20:54:40.113] [Async Chat Thread - #26/INFO] [Console/]: <Minecraft_Apixel> si te saca de la nada activa los mods que te diré xd
-[18Dec2024 20:54:48.010] [Async Chat Thread - #27/INFO] [Console/]: <DonPichulaxdxd> vale
-[18Dec2024 20:55:00.227] [Async Chat Thread - #26/INFO] [Console/]: <Minecraft_Apixel> no te tires
-[18Dec2024 20:55:01.383] [Async Chat Thread - #27/INFO] [Console/]: <Minecraft_Apixel> xddd
-[18Dec2024 20:55:45.753] [Async Chat Thread - #26/INFO] [Console/]: <Minecraft_Apixel> xddd
-[18Dec2024 20:55:49.300] [Async Chat Thread - #27/INFO] [Console/]: <Minecraft_Apixel> ya wey
+[18Dec2024 21:52:44.766] [Server thread/INFO] [WorldEdit/]: ====================================================
+[18Dec2024 21:52:44.766] [Server thread/INFO] [WorldEdit/]:  WorldEdit works better if you use Paper 
+[18Dec2024 21:52:44.766] [Server thread/INFO] [WorldEdit/]:  as your server software. 
+[18Dec2024 21:52:44.766] [Server thread/INFO] [WorldEdit/]:   
+[18Dec2024 21:52:44.766] [Server thread/INFO] [WorldEdit/]:  Paper offers significant performance improvements,
+[18Dec2024 21:52:44.766] [Server thread/INFO] [WorldEdit/]:  bug fixes, security enhancements and optional
+[18Dec2024 21:52:44.766] [Server thread/INFO] [WorldEdit/]:  features for server owners to enhance their server.
+[18Dec2024 21:52:44.767] [Server thread/INFO] [WorldEdit/]:   
+[18Dec2024 21:52:44.767] [Server thread/INFO] [WorldEdit/]:  Paper includes Timings v2, which is significantly
+[18Dec2024 21:52:44.767] [Server thread/INFO] [WorldEdit/]:  better at diagnosing lag problems over v1.
+[18Dec2024 21:52:44.767] [Server thread/INFO] [WorldEdit/]:   
+[18Dec2024 21:52:44.767] [Server thread/INFO] [WorldEdit/]:  All of your plugins should still work, and the
+[18Dec2024 21:52:44.767] [Server thread/INFO] [WorldEdit/]:  Paper community will gladly help you fix any issues.
+[18Dec2024 21:52:44.767] [Server thread/INFO] [WorldEdit/]:   
+[18Dec2024 21:52:44.767] [Server thread/INFO] [WorldEdit/]:  Join the Paper Community @ https://papermc.io
+[18Dec2024 21:52:44.767] [Server thread/INFO] [WorldEdit/]: ====================================================
+[18Dec2024 21:52:44.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[18Dec2024 21:52:44.855] [Server thread/INFO] [Arclight/]: 注册了 0 个新的世界类型
+[18Dec2024 21:52:45.436] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[18Dec2024 21:52:45.437] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[18Dec2024 21:52:45.438] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[18Dec2024 21:52:45.439] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18Dec2024 21:52:45.439] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[18Dec2024 21:52:45.440] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18Dec2024 21:52:45.441] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[18Dec2024 21:52:45.441] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[18Dec2024 21:52:45.441] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[18Dec2024 21:52:45.441] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[18Dec2024 21:52:45.441] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[18Dec2024 21:52:45.441] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[18Dec2024 21:52:45.441] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[18Dec2024 21:52:45.441] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[18Dec2024 21:52:45.441] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[18Dec2024 21:52:45.441] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[18Dec2024 21:52:45.441] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[18Dec2024 21:52:45.441] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[18Dec2024 21:52:45.441] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[18Dec2024 21:52:45.441] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[18Dec2024 21:52:45.441] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[18Dec2024 21:52:45.441] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[18Dec2024 21:52:45.441] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[18Dec2024 21:52:45.441] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[18Dec2024 21:52:45.442] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[18Dec2024 21:52:45.442] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18Dec2024 21:52:45.442] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[18Dec2024 21:52:45.443] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18Dec2024 21:52:45.443] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18Dec2024 21:52:45.443] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[18Dec2024 21:52:45.443] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18Dec2024 21:52:45.443] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[18Dec2024 21:52:45.443] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[18Dec2024 21:52:45.443] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[18Dec2024 21:52:45.443] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[18Dec2024 21:52:45.443] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[18Dec2024 21:52:48.776] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM-1] --------
+[18Dec2024 21:52:48.777] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[18Dec2024 21:52:48.777] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[18Dec2024 21:52:48.778] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18Dec2024 21:52:48.778] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[18Dec2024 21:52:48.778] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18Dec2024 21:52:48.779] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[18Dec2024 21:52:48.779] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[18Dec2024 21:52:48.779] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[18Dec2024 21:52:48.779] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[18Dec2024 21:52:48.779] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[18Dec2024 21:52:48.779] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[18Dec2024 21:52:48.779] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[18Dec2024 21:52:48.779] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[18Dec2024 21:52:48.779] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[18Dec2024 21:52:48.779] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[18Dec2024 21:52:48.779] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[18Dec2024 21:52:48.779] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[18Dec2024 21:52:48.779] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[18Dec2024 21:52:48.779] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[18Dec2024 21:52:48.779] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[18Dec2024 21:52:48.779] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[18Dec2024 21:52:48.779] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[18Dec2024 21:52:48.779] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[18Dec2024 21:52:48.779] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[18Dec2024 21:52:48.779] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18Dec2024 21:52:48.779] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[18Dec2024 21:52:48.779] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18Dec2024 21:52:48.780] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18Dec2024 21:52:48.780] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[18Dec2024 21:52:48.780] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18Dec2024 21:52:48.780] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[18Dec2024 21:52:48.780] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[18Dec2024 21:52:48.780] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[18Dec2024 21:52:48.780] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[18Dec2024 21:52:48.780] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[18Dec2024 21:52:48.842] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM1] --------
+[18Dec2024 21:52:48.843] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[18Dec2024 21:52:48.843] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[18Dec2024 21:52:48.843] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18Dec2024 21:52:48.844] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[18Dec2024 21:52:48.844] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18Dec2024 21:52:48.844] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[18Dec2024 21:52:48.845] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[18Dec2024 21:52:48.845] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[18Dec2024 21:52:48.845] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[18Dec2024 21:52:48.845] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[18Dec2024 21:52:48.846] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[18Dec2024 21:52:48.846] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[18Dec2024 21:52:48.846] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[18Dec2024 21:52:48.846] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[18Dec2024 21:52:48.847] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[18Dec2024 21:52:48.847] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[18Dec2024 21:52:48.847] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[18Dec2024 21:52:48.847] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[18Dec2024 21:52:48.848] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[18Dec2024 21:52:48.848] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[18Dec2024 21:52:48.848] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[18Dec2024 21:52:48.848] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[18Dec2024 21:52:48.849] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[18Dec2024 21:52:48.849] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[18Dec2024 21:52:48.849] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18Dec2024 21:52:48.849] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[18Dec2024 21:52:48.850] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18Dec2024 21:52:48.850] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18Dec2024 21:52:48.850] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[18Dec2024 21:52:48.851] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18Dec2024 21:52:48.851] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[18Dec2024 21:52:48.851] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[18Dec2024 21:52:48.851] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[18Dec2024 21:52:48.852] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[18Dec2024 21:52:48.852] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[18Dec2024 21:52:48.875] [Server thread/INFO] [Essentials/]: Enabling Essentials v2.20.1
+[18Dec2024 21:52:48.925] [Server thread/ERROR] [Essentials/]: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
+[18Dec2024 21:52:48.925] [Server thread/INFO] [Essentials/]: Status determining class: net.minecraftforge.common.MinecraftForge
+[18Dec2024 21:52:49.208] [Server thread/INFO] [Essentials/]: Attempting to convert old kits in config.yml to new kits.yml
+[18Dec2024 21:52:49.209] [Server thread/INFO] [Essentials/]: No kits found to migrate.
+[18Dec2024 21:52:49.559] [Server thread/INFO] [Essentials/]: Loaded 39094 items from items.json.
+[18Dec2024 21:52:49.577] [Server thread/INFO] [Essentials/]: Using locale en
+[18Dec2024 21:52:49.640] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
+[18Dec2024 21:52:49.663] [Server thread/INFO] [Essentials/]: Starting Metrics. Opt-out using the global bStats config.
+[18Dec2024 21:52:49.672] [Server thread/INFO] [Essentials/]: Using superperms-based permissions.
+[18Dec2024 21:52:49.675] [Server thread/INFO] [EssentialsSpawn/]: Enabling EssentialsSpawn v2.20.1
+[18Dec2024 21:52:49.715] [Server thread/INFO] [EssentialsSpawn/]: Starting Metrics. Opt-out using the global bStats config.
+[18Dec2024 21:52:49.717] [Server thread/INFO] [PlaceholderAPI/]: Enabling PlaceholderAPI v2.11.6
+[18Dec2024 21:52:50.644] [Server thread/INFO] [PlaceholderAPI/]: Fetching available expansion information...
+[18Dec2024 21:52:50.648] [Server thread/INFO] [WorldGuard/]: Enabling WorldGuard v7.0.9+5934e49
+[18Dec2024 21:52:51.077] [Server thread/INFO] [Multiverse-Core/]: Enabling Multiverse-Core v4.3.11
+[18Dec2024 21:52:51.086] [Server thread/WARN] [Multiverse-Core/]: "Multiverse-Core v4.3.11" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[18Dec2024 21:52:51.088] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[18Dec2024 21:52:51.179] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] 3 - World(s) loaded.
+[18Dec2024 21:52:51.191] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[18Dec2024 21:52:51.203] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Version 4.3.11 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[18Dec2024 21:52:51.206] [Server thread/INFO] [ConditionalEvents/]: Enabling ConditionalEvents v4.59.1
+[18Dec2024 21:52:51.263] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: conditionalevents [4.59.1]
+[18Dec2024 21:52:51.268] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been enabled! Version: 4.59.1
+[18Dec2024 21:52:51.268] [Server thread/INFO] [Console/]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[18Dec2024 21:52:51.542] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[18Dec2024 21:52:51.687] [Server thread/INFO] [PlaceholderAPI/]: Placeholder expansion registration initializing...
+[18Dec2024 21:52:51.693] [Server thread/INFO] [Console/]: 0 placeholder hook(s) registered!
+[18Dec2024 21:52:51.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18Dec2024 21:52:55.945] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 21:52:55.985] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 21:52:56.000] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 21:52:56.014] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 21:52:56.061] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 21:52:56.079] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 21:52:56.095] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 21:52:56.105] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 21:52:56.129] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 21:52:56.204] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 21:52:56.696] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 21:52:57.195] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 21:52:57.695] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 21:52:58.454] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 41%
+[18Dec2024 21:52:58.694] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 56%
+[18Dec2024 21:52:59.194] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[18Dec2024 21:52:59.939] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[18Dec2024 21:53:00.203] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[18Dec2024 21:53:00.714] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[18Dec2024 21:53:01.196] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[18Dec2024 21:53:02.066] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[18Dec2024 21:53:02.241] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[18Dec2024 21:53:02.494] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10800 ms
+[18Dec2024 21:53:02.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.727s)! For help, type "help"
+[18Dec2024 21:53:02.572] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[18Dec2024 21:53:02.574] [Server thread/INFO] [Arclight/]: Forwarding forge permission[forge:default_handler] to bukkit
+[18Dec2024 21:53:02.595] [Craft Scheduler Thread - 0/INFO] [Essentials/]: Fetching version information...
+[18Dec2024 22:01:01.540] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Minecraft_Apixel is 67bfdf0f-1495-38b9-baa1-a3d3621f83ab
+[18Dec2024 22:01:05.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Minecraft_Apixel[/127.130.66.250:46505] logged in with entity id 244 at (182.72600220529634, 77.49506601944698, 116.67819327949339)
+[18Dec2024 22:01:05.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minecraft_Apixel joined the game

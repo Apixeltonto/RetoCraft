@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1734553555659
-  login: 1734553325802
+  logout: 1734558019061
+  login: 1734556289999
 money: '0'
 last-account-name: DonPichulaxdxd
 lastlocation:
@@ -28,3 +28,11 @@ lastlocation:
   z: 175.34076321667294
   yaw: 178.7128448486328
   pitch: 0.7500390410423279
+logoutlocation:
+  world: 52133184-a1a7-4172-b353-47a9299a1224
+  world-name: world
+  x: 192.72478147192237
+  y: 73.0
+  z: 85.49078469700224
+  yaw: 64.20501708984375
+  pitch: 22.949871063232422
