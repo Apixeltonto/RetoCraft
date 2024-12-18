@@ -411,3 +411,94 @@ java.lang.NumberFormatException: For input string: "%death_x%"
 [18Dec2024 22:18:38.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
 [18Dec2024 22:19:22.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /mods
 [18Dec2024 22:19:29.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /plugins
+[18Dec2024 22:22:40.082] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel lost connection: Disconnected
+[18Dec2024 22:22:40.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minecraft_Apixel left the game
+[18Dec2024 22:22:43.580] [Server thread/INFO] [Console/]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[18Dec2024 22:22:43.581] [Server thread/INFO] [Console/]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[18Dec2024 22:22:43.582] [Server thread/INFO] [ConditionalEvents/]: Disabling ConditionalEvents v4.59.1
+[18Dec2024 22:22:43.584] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been disabled! Version: 4.59.1
+[18Dec2024 22:22:43.584] [Server thread/INFO] [Multiverse-Core/]: Disabling Multiverse-Core v4.3.11
+[18Dec2024 22:22:43.590] [Server thread/INFO] [WorldGuard/]: Disabling WorldGuard v7.0.9+5934e49
+[18Dec2024 22:22:43.591] [Server thread/INFO] [PlaceholderAPI/]: Disabling PlaceholderAPI v2.11.6
+[18Dec2024 22:22:43.592] [Server thread/INFO] [EssentialsSpawn/]: Disabling EssentialsSpawn v2.20.1
+[18Dec2024 22:22:43.592] [Server thread/INFO] [Essentials/]: Disabling Essentials v2.20.1
+[18Dec2024 22:22:43.593] [Server thread/ERROR] [Essentials/]: There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[18Dec2024 22:22:43.594] [Server thread/INFO] [WorldEdit/]: Disabling WorldEdit v7.3.0+6678-55745ad
+[18Dec2024 22:22:43.598] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[18Dec2024 22:22:43.886] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[18Dec2024 22:22:43.920] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1327 advancements
+[18Dec2024 22:22:44.390] [Server thread/INFO] [WorldEdit/]: Loading WorldEdit v7.3.0+6678-55745ad
+[18Dec2024 22:22:44.696] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1775026a]
+[18Dec2024 22:22:44.699] [Server thread/INFO] [Essentials/]: Loading Essentials v2.20.1
+[18Dec2024 22:22:44.700] [Server thread/INFO] [EssentialsSpawn/]: Loading EssentialsSpawn v2.20.1
+[18Dec2024 22:22:44.700] [Server thread/INFO] [PlaceholderAPI/]: Loading PlaceholderAPI v2.11.6
+[18Dec2024 22:22:44.700] [Server thread/INFO] [WorldGuard/]: Loading WorldGuard v7.0.9+5934e49
+[18Dec2024 22:22:44.700] [Server thread/INFO] [Multiverse-Core/]: Loading Multiverse-Core v4.3.11
+[18Dec2024 22:22:44.716] [Server thread/INFO] [ConditionalEvents/]: Loading ConditionalEvents v4.59.1
+[18Dec2024 22:22:44.717] [Server thread/INFO] [WorldEdit/]: Enabling WorldEdit v7.3.0+6678-55745ad
+[18Dec2024 22:22:44.720] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[18Dec2024 22:22:44.766] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Using the Bukkit Permissions API.
+[18Dec2024 22:22:44.768] [Server thread/WARN] [WorldEdit/]: Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[18Dec2024 22:22:44.935] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and block property-related functions.
+**
+** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
+**********************************************
+
+[18Dec2024 22:22:45.074] [Server thread/INFO] [WorldEdit/]: ====================================================
+[18Dec2024 22:22:45.074] [Server thread/INFO] [WorldEdit/]:  WorldEdit works better if you use Paper 
+[18Dec2024 22:22:45.074] [Server thread/INFO] [WorldEdit/]:  as your server software. 
+[18Dec2024 22:22:45.074] [Server thread/INFO] [WorldEdit/]: ====================================================
+[18Dec2024 22:22:45.076] [Server thread/INFO] [Essentials/]: Enabling Essentials v2.20.1
+[18Dec2024 22:22:45.089] [Server thread/ERROR] [Essentials/]: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
+[18Dec2024 22:22:45.089] [Server thread/INFO] [Essentials/]: Status determining class: net.minecraftforge.common.MinecraftForge
+[18Dec2024 22:22:45.227] [Server thread/INFO] [Essentials/]: Attempting to convert old kits in config.yml to new kits.yml
+[18Dec2024 22:22:45.228] [Server thread/INFO] [Essentials/]: No kits found to migrate.
+[18Dec2024 22:22:45.335] [Server thread/INFO] [Essentials/]: Loaded 39094 items from items.json.
+[18Dec2024 22:22:45.337] [Server thread/INFO] [Essentials/]: Using locale en
+[18Dec2024 22:22:45.362] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
+[18Dec2024 22:22:45.376] [Server thread/INFO] [Essentials/]: Starting Metrics. Opt-out using the global bStats config.
+[18Dec2024 22:22:45.379] [Server thread/INFO] [Essentials/]: Using superperms-based permissions.
+[18Dec2024 22:22:45.379] [Server thread/INFO] [EssentialsSpawn/]: Enabling EssentialsSpawn v2.20.1
+[18Dec2024 22:22:45.382] [Server thread/INFO] [EssentialsSpawn/]: Starting Metrics. Opt-out using the global bStats config.
+[18Dec2024 22:22:45.383] [Server thread/INFO] [PlaceholderAPI/]: Enabling PlaceholderAPI v2.11.6
+[18Dec2024 22:22:45.491] [Server thread/INFO] [PlaceholderAPI/]: Fetching available expansion information...
+[18Dec2024 22:22:45.493] [Server thread/INFO] [WorldGuard/]: Enabling WorldGuard v7.0.9+5934e49
+[18Dec2024 22:22:45.647] [Server thread/INFO] [Multiverse-Core/]: Enabling Multiverse-Core v4.3.11
+[18Dec2024 22:22:45.652] [Server thread/WARN] [Multiverse-Core/]: "Multiverse-Core v4.3.11" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[18Dec2024 22:22:45.653] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[18Dec2024 22:22:45.708] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] 3 - World(s) loaded.
+[18Dec2024 22:22:45.714] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[18Dec2024 22:22:45.720] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Version 4.3.11 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[18Dec2024 22:22:45.722] [Server thread/INFO] [ConditionalEvents/]: Enabling ConditionalEvents v4.59.1
+[18Dec2024 22:22:45.748] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: conditionalevents [4.59.1]
+[18Dec2024 22:22:45.752] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been enabled! Version: 4.59.1
+[18Dec2024 22:22:45.752] [Server thread/INFO] [Console/]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[18Dec2024 22:22:45.827] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[18Dec2024 22:22:45.895] [Server thread/INFO] [PlaceholderAPI/]: Placeholder expansion registration initializing...
+[18Dec2024 22:22:45.898] [Server thread/INFO] [Console/]: 0 placeholder hook(s) registered!
+[18Dec2024 22:22:45.898] [Server thread/INFO] [Console/]: CONSOLE: Reload complete.
+[18Dec2024 22:22:45.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2271ms or 45 ticks behind
+[18Dec2024 22:22:45.899] [Craft Scheduler Thread - 10/INFO] [Essentials/]: Fetching version information...
+[18Dec2024 22:22:49.146] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Minecraft_Apixel is 67bfdf0f-1495-38b9-baa1-a3d3621f83ab
+[18Dec2024 22:22:52.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Minecraft_Apixel[/127.130.66.250:34189] logged in with entity id 2192 at (179.60496319289888, 76.0, 117.0772247834979)
+[18Dec2024 22:22:52.197] [Server thread/INFO] [Console/]: [+] Minecraft_Apixel
+[18Dec2024 22:23:27.032] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /ac reload
+[18Dec2024 22:23:27.033] [Server thread/INFO] [Essentials/]: [HelpOp] Minecraft_Apixel: reload
+[18Dec2024 22:23:33.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /essentials reload
+[18Dec2024 22:23:33.530] [Server thread/INFO] [Essentials/]: Loaded 39097 items from items.json.
+[18Dec2024 22:23:33.532] [Server thread/INFO] [Essentials/]: Using locale en
+[18Dec2024 22:23:33.542] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
+[18Dec2024 22:23:40.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel lost connection: Disconnected
+[18Dec2024 22:23:40.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [-] Minecraft_Apixel se salió
+[18Dec2024 22:23:43.778] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Minecraft_Apixel is 67bfdf0f-1495-38b9-baa1-a3d3621f83ab
+[18Dec2024 22:24:13.383] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e0165f7[id=67bfdf0f-1495-38b9-baa1-a3d3621f83ab,name=Minecraft_Apixel,properties={},legacy=false] (/127.130.66.250:57253) lost connection: Disconnected
+[18Dec2024 22:25:05.501] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Minecraft_Apixel is 67bfdf0f-1495-38b9-baa1-a3d3621f83ab
+[18Dec2024 22:25:09.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Minecraft_Apixel[/127.130.66.250:36017] logged in with entity id 2305 at (180.81754024538375, 76.0, 118.33787981313057)
+[18Dec2024 22:25:09.248] [Server thread/INFO] [Console/]: [+] Minecraft_Apixel se unió
+[18Dec2024 22:25:38.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative

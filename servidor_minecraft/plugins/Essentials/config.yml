@@ -538,8 +538,8 @@ allow-silent-join-quit: false
 # {ONLINE} - The number of players online.
 # {UNIQUE} - The number of unique players to join the server.
 # {UPTIME} - The amount of time the server has been online.
-custom-join-message: "&8[&a+&8]&"
-custom-quit-message: "&8[&4-&8]&"
+custom-join-message: "&7[&a+&7] &f{USERNAME} &7se unió"
+custom-quit-message: "&7[&4-&7] &f{USERNAME} &7se salió"
 
 # You can set a custom join message for users who join with a new username here.
 # This message will only be used if a user has joined before and have since changed their username.
@@ -693,7 +693,7 @@ default-enabled-confirm-commands:
 # Where should Essentials teleport players when they are freed from jail?
 # You can set to "back" to have them teleported to where they were before they were jailed, "spawn" to have them
 # teleport to spawn, or "off" to not have them teleport.
-teleport-when-freed: back
+#teleport-when-freed: back
 
 # Whether or not jail time should only be counted while the user is online.
 # If true, a jailed player's time will only decrement when they are online.
@@ -735,7 +735,7 @@ max-projectile-speed: 8
 # Should EssentialsX check for updates?
 # If set to true, EssentialsX will show notifications when a new version is available.
 # This uses the public GitHub API and no identifying information is sent or stored.
-update-check: true
+update-check: false
 
 ############################################################
 # +------------------------------------------------------+ #
@@ -760,9 +760,9 @@ world-home-permissions: false
 # Create the 'home-rank' below, and give the matching permission: essentials.sethome.multiple.<home-rank>
 # For more information, visit http://wiki.ess3.net/wiki/Multihome
 sethome-multiple:
-  default: 3
-  vip: 5
-  staff: 10
+  #default: 3
+  #vip: 5
+  #staff: 10
 
 # In this example someone with 'essentials.sethome.multiple' and 'essentials.sethome.multiple.vip' will have 5 homes.
 # Remember, they MUST have both permission nodes in order to be able to set multiple homes.
@@ -903,7 +903,7 @@ chat:
   # {TEAMPREFIX} - The sender's scoreboard team prefix.
   # {TEAMSUFFIX} - The sender's scoreboard team suffix.
 
-  format: '{DISPLAYNAME}: &l{MESSAGE}'
+  format: '&f{DISPLAYNAME}: &l{MESSAGE}'
   #format: '&7[{GROUP}]&r {DISPLAYNAME}&7:&r {MESSAGE}'
   #format: '&7{PREFIX}&r {DISPLAYNAME}&r &7{SUFFIX}&r: {MESSAGE}'
 
