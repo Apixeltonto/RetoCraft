@@ -272,3 +272,11 @@
 [18Dec2024 22:01:01.540] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Minecraft_Apixel is 67bfdf0f-1495-38b9-baa1-a3d3621f83ab
 [18Dec2024 22:01:05.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Minecraft_Apixel[/127.130.66.250:46505] logged in with entity id 244 at (182.72600220529634, 77.49506601944698, 116.67819327949339)
 [18Dec2024 22:01:05.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minecraft_Apixel joined the game
+[18Dec2024 22:06:01.483] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode spectator
+[18Dec2024 22:06:04.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[18Dec2024 22:09:21.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /essentials reload
+[18Dec2024 22:09:21.178] [Server thread/INFO] [Essentials/]: Loaded 39097 items from items.json.
+[18Dec2024 22:09:21.180] [Server thread/INFO] [Essentials/]: Using locale en
+[18Dec2024 22:09:21.194] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
+[18Dec2024 22:09:29.411] [Async Chat Thread - #1/INFO] [Console/]: <Minecraft_Apixel> a
+[18Dec2024 22:09:32.435] [Async Chat Thread - #0/INFO] [Console/]: <Minecraft_Apixel> nice

@@ -3852,3 +3852,23 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Dec2024 22:01:24.576] [Server thread/DEBUG] [Materials/]: Missing material definition for item ADVANCEDNETHERITE_NETHERITE_GOLD_SWORD
 [18Dec2024 22:01:24.576] [Server thread/DEBUG] [Materials/]: Missing material definition for item ADVANCEDNETHERITE_NETHERITE_EMERALD_SWORD
 [18Dec2024 22:01:24.576] [Server thread/DEBUG] [Materials/]: Missing material definition for item ADVANCEDNETHERITE_NETHERITE_DIAMOND_SWORD
+[18Dec2024 22:03:02.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 22:03:02.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 22:05:26.732] [Netty Epoll Server IO #5/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/network/FriendlyByteBuf$1
+[18Dec2024 22:05:46.881] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/Level$2
+[18Dec2024 22:05:46.897] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/damagesource/DamageSource$1
+[18Dec2024 22:05:51.025] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/server/network/ServerGamePacketListenerImpl$2
+[18Dec2024 22:05:51.277] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$org$bukkit$FluidCollisionMode()[I class org/bukkit/craftbukkit/v1_20_R1/CraftFluidCollisionMode
+[18Dec2024 22:05:56.981] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Filling switch table for class org.bukkit.entity.EntityType
+[18Dec2024 22:06:01.483] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode spectator
+[18Dec2024 22:06:04.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[18Dec2024 22:06:06.125] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/network/ServerPlayNetHandlerMixin$2
+[18Dec2024 22:06:09.766] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraftforge/event/entity/player/PlayerInteractEvent$1
+[18Dec2024 22:08:02.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 22:08:02.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 22:09:21.096] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /essentials reload
+[18Dec2024 22:09:21.178] [Server thread/INFO] [Essentials/]: Loaded 39097 items from items.json.
+[18Dec2024 22:09:21.180] [Server thread/INFO] [Essentials/]: Using locale en
+[18Dec2024 22:09:21.194] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
+[18Dec2024 22:09:29.411] [Async Chat Thread - #1/INFO] [Console/]: <Minecraft_Apixel> a
+[18Dec2024 22:09:32.435] [Async Chat Thread - #0/INFO] [Console/]: <Minecraft_Apixel> nice
