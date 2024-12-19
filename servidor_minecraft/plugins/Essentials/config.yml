@@ -445,7 +445,7 @@ debug: false
 # For example, to set language to English, set locale to en, to use the file "messages_en.properties".
 # Don't forget to remove the # in front of the line.
 # For more information, visit http://wiki.ess3.net/wiki/Locale
-#locale: en
+locale: es
 
 # Turn off god mode when people leave the server.
 remove-god-on-disconnect: false
@@ -538,8 +538,8 @@ allow-silent-join-quit: false
 # {ONLINE} - The number of players online.
 # {UNIQUE} - The number of unique players to join the server.
 # {UPTIME} - The amount of time the server has been online.
-custom-join-message: "&7[&a+&7] &f{USERNAME} &7se unió"
-custom-quit-message: "&7[&4-&7] &f{USERNAME} &7se salió"
+custom-join-message: "&7[&a+&7] &f{USERNAME} &7ha ingresado"
+custom-quit-message: "&7[&4-&7] &f{USERNAME} &7se ha ido"
 
 # You can set a custom join message for users who join with a new username here.
 # This message will only be used if a user has joined before and have since changed their username.
@@ -857,7 +857,7 @@ show-zero-baltop: true
 ############################################################
 
 # Show other plugins commands in help.
-non-ess-in-help: true
+non-ess-in-help: false
 
 # Hide plugins which do not give a permission.
 # You can override a true value here for a single plugin by adding a permission to a user/group.
@@ -903,7 +903,7 @@ chat:
   # {TEAMPREFIX} - The sender's scoreboard team prefix.
   # {TEAMSUFFIX} - The sender's scoreboard team suffix.
 
-  format: '&f{DISPLAYNAME}: &l{MESSAGE}'
+  format: '&f{DISPLAYNAME}: &8{MESSAGE}'
   #format: '&7[{GROUP}]&r {DISPLAYNAME}&7:&r {MESSAGE}'
   #format: '&7{PREFIX}&r {DISPLAYNAME}&r &7{SUFFIX}&r: {MESSAGE}'
 
@@ -1092,7 +1092,7 @@ protect:
     # Should people without the essentials.build permission be allowed to build?
     # Set true to disable building for those people.
     # Setting to false means EssentialsAntiBuild will never prevent you from building.
-    build: true
+    build: false
 
     # Should people without the essentials.build permission be allowed to use items?
     # Set true to disable using for those people.
