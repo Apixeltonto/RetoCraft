@@ -16,17 +16,17 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1734656961553
+  logout: 1734659634244
   login: 1734656969126
 money: '0'
 logoutlocation:
   world: 52133184-a1a7-4172-b353-47a9299a1224
   world-name: world
-  x: 190.0185087599344
-  y: 74.0
-  z: 91.63117918969742
-  yaw: -154.8955078125
-  pitch: -5.184786319732666
+  x: 179.86837734039187
+  y: 76.0
+  z: 114.47636241098623
+  yaw: 100.35092163085938
+  pitch: 66.45008087158203
 last-account-name: Minecraft_Apixel
 lastlocation:
   world: 52133184-a1a7-4172-b353-47a9299a1224
