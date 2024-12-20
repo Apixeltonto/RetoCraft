@@ -14210,3 +14210,135 @@ java.lang.NumberFormatException: For input string: "%death_x%"
 [20Dec2024 01:31:35.824] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
 [20Dec2024 01:31:35.824] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
 [20Dec2024 01:31:35.824] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Dec2024 01:31:35.870] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 15
+[20Dec2024 01:31:35.919] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 16
+[20Dec2024 01:31:35.942] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[20Dec2024 01:31:35.942] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Dec2024 01:31:35.942] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Dec2024 01:31:35.942] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[20Dec2024 01:31:35.943] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Dec2024 01:31:35.943] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Dec2024 01:31:35.971] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 17
+[20Dec2024 01:31:36.019] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[20Dec2024 01:31:36.019] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Dec2024 01:31:36.019] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Dec2024 01:31:36.020] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 18
+[20Dec2024 01:31:36.066] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[20Dec2024 01:31:36.066] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Dec2024 01:31:36.066] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Dec2024 01:31:36.070] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 19
+[20Dec2024 01:31:36.122] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 20
+[20Dec2024 01:31:36.124] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[20Dec2024 01:31:36.124] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Dec2024 01:31:36.124] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Dec2024 01:31:36.167] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[20Dec2024 01:31:36.167] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Dec2024 01:31:36.167] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Dec2024 01:31:36.170] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config advancednetherite-server.toml' to 'fml:handshake' sequence 21
+[20Dec2024 01:31:36.216] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[20Dec2024 01:31:36.216] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Dec2024 01:31:36.216] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Dec2024 01:31:36.220] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config pehkui-server.toml' to 'fml:handshake' sequence 22
+[20Dec2024 01:31:36.270] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 23
+[20Dec2024 01:31:36.923] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[20Dec2024 01:31:36.923] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Dec2024 01:31:36.923] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Dec2024 01:31:36.965] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[20Dec2024 01:31:36.965] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Dec2024 01:31:36.965] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Dec2024 01:31:36.965] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[20Dec2024 01:31:36.965] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Dec2024 01:31:36.965] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Dec2024 01:31:36.965] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[20Dec2024 01:31:36.965] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[20Dec2024 01:31:36.965] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[20Dec2024 01:31:36.972] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[20Dec2024 01:31:37.032] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alvforever01[/127.100.119.51:47629] logged in with entity id 5561 at (181.88134541302384, 76.0, 120.10579522738266)
+[20Dec2024 01:31:37.032] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@1b3e14be into net.minecraft.network.Connection@1413ef7
+[20Dec2024 01:31:37.130] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Alvforever01: {disabled=false, disconnected=true, uuid=9bcbb254-0179-35b7-b338-e062cc537c4f, name=Alvforever01, group=null}
+[20Dec2024 01:31:37.134] [Craft Scheduler Thread - 21/DEBUG] [EssentialsSpawn/]: Old player join
+[20Dec2024 01:31:37.135] [Server thread/INFO] [Console/]: [+] Alvforever01 ha ingresado
+[20Dec2024 01:31:37.737] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Alvforever01 (18)
+[20Dec2024 01:31:37.737] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Alvforever01
+[20Dec2024 01:31:37.737] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Alvforever01
+[20Dec2024 01:31:37.737] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Alvforever01
+[20Dec2024 01:31:37.737] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Alvforever01
+[20Dec2024 01:32:00.132] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=181, y=74, z=123}
+[20Dec2024 01:32:03.423] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=181, y=75, z=124}
+[20Dec2024 01:32:03.570] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=181, y=75, z=124}
+[20Dec2024 01:32:03.770] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=181, y=75, z=124}
+[20Dec2024 01:32:04.220] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=181, y=75, z=124}
+[20Dec2024 01:32:04.275] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=181, y=75, z=125}
+[20Dec2024 01:32:04.523] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=181, y=75, z=124}
+[20Dec2024 01:32:04.721] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=181, y=75, z=125}
+[20Dec2024 01:32:05.075] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=181, y=74, z=125}
+[20Dec2024 01:32:05.370] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=180, y=75, z=124}
+[20Dec2024 01:32:05.622] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=180, y=75, z=124}
+[20Dec2024 01:32:05.973] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=180, y=74, z=125}
+[20Dec2024 01:32:07.570] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=179, y=74, z=123}
+[20Dec2024 01:32:21.334] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /scale set 0.0001
+[20Dec2024 01:32:31.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /scale set 2
+[20Dec2024 01:32:47.620] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=145, y=70, z=125}
+[20Dec2024 01:32:47.677] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=146, y=70, z=126}
+[20Dec2024 01:32:47.921] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=143, y=70, z=127}
+[20Dec2024 01:33:00.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 01:33:00.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 01:33:00.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundonuevo
+[20Dec2024 01:33:00.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundonuevo
+[20Dec2024 01:33:01.519] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /kill Alvforever01
+[20Dec2024 01:33:01.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alvforever01 was shot by Skeleton
+[20Dec2024 01:33:01.765] [Server thread/WARN] [ConditionalEvents/]: Task #194 for ConditionalEvents v4.59.1 generated an exception
+java.lang.NumberFormatException: For input string: "%death_x%"
+	at jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054) ~[?:?] {}
+	at jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110) ~[?:?] {}
+	at java.lang.Double.parseDouble(Double.java:651) ~[?:?] {re:mixin,re:mixin}
+	at java.lang.Double.valueOf(Double.java:614) ~[?:?] {re:mixin,re:mixin}
+	at ce.ajneb97.utils.ActionUtils.teleport(ActionUtils.java:95) ~[?:?] {}
+	at ce.ajneb97.model.internal.ExecutedEvent.executeAction(ExecutedEvent.java:335) ~[?:?] {}
+	at ce.ajneb97.model.internal.ExecutedEvent.executeActionsFinal(ExecutedEvent.java:206) ~[?:?] {}
+	at ce.ajneb97.model.internal.ExecutedEvent.continueWithActions(ExecutedEvent.java:116) ~[?:?] {}
+	at ce.ajneb97.utils.ActionUtils$2.run(ActionUtils.java:764) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23186!/:arclight-1.20.1-1.0.5-1a8925b] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftSchedulerMixin.java:415) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23186!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftSchedulerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.handler$zkd000$arclight$runScheduler(MinecraftServerMixin.java:2309) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.dedicated.DedicatedServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin,re:mixin}
+[20Dec2024 01:33:16.005] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative Alvforever01
+[20Dec2024 01:33:23.884] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode0 Alvforever01
+[20Dec2024 01:33:26.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode 0 Alvforever01
+[20Dec2024 01:33:49.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /mv tp mundonuevo
+[20Dec2024 01:33:52.230] [Worker-Main-42/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/state/properties/ChestType$1
+[20Dec2024 01:34:00.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /tp Alvforever01 Minecraft_Apixel
+[20Dec2024 01:34:11.055] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /time set day
+[20Dec2024 01:34:14.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /scale set 3
+[20Dec2024 01:34:25.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /tp DonPichulaxdxd Alvforever01
+[20Dec2024 01:34:34.637] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /scale set 4
+[20Dec2024 01:35:13.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /scale set 0.65
+[20Dec2024 01:35:55.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[20Dec2024 01:36:43.371] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd lost connection: Disconnected
+[20Dec2024 01:36:43.371] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of DonPichulaxdxd
+[20Dec2024 01:36:43.372] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DonPichulaxdxd
+[20Dec2024 01:36:43.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [-] DonPichulaxdxd se ha ido
+[20Dec2024 01:36:56.008] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=58, y=53, z=204}
+[20Dec2024 01:36:56.209] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=58, y=53, z=204}
+[20Dec2024 01:36:56.460] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=59, y=54, z=204}
+[20Dec2024 01:36:57.309] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=59, y=54, z=205}
+[20Dec2024 01:36:57.510] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=59, y=54, z=205}
+[20Dec2024 01:36:57.809] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=59, y=54, z=206}
+[20Dec2024 01:36:58.760] [Server thread/DEBUG] [Arclight/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=59, y=54, z=206}
+[20Dec2024 01:37:58.743] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /mv tp world
+[20Dec2024 01:38:00.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 01:38:00.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 01:38:00.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save mundonuevo
+[20Dec2024 01:38:00.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete mundonuevo
+[20Dec2024 01:38:05.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[20Dec2024 01:40:03.801] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /tp Alvforever01
+[20Dec2024 01:40:27.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /scale set 1
+[20Dec2024 01:40:35.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alvforever01 lost connection: Disconnected
+[20Dec2024 01:40:35.220] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Alvforever01
+[20Dec2024 01:40:35.221] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Alvforever01
+[20Dec2024 01:40:35.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [-] Alvforever01 se ha ido

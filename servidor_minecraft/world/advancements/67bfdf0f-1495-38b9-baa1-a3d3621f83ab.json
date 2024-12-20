@@ -804,5 +804,25 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2024-12-20 01:33:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "saguaro_desert": "2024-12-20 01:33:49 +0000",
+      "baobab_savanna": "2024-12-20 01:37:15 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "saguaro_desert": "2024-12-20 01:33:49 +0000",
+      "baobab_savanna": "2024-12-20 01:37:15 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
