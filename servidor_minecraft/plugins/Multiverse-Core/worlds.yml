@@ -2,7 +2,7 @@ worlds:
   world:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: world
     color: WHITE
     style: NORMAL
     pvp: 'false'
@@ -49,7 +49,7 @@ worlds:
   world/DIM1:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: world/DIM1
     color: WHITE
     style: NORMAL
     pvp: 'false'
@@ -96,7 +96,7 @@ worlds:
   world/DIM-1:
     ==: MVWorld
     hidden: 'false'
-    alias: ''
+    alias: world/DIM-1
     color: WHITE
     style: NORMAL
     pvp: 'false'

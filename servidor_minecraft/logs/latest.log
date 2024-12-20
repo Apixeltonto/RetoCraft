@@ -1,4 +1,4 @@
-[19Dec2024 12:15:47.640] [main/INFO] [Arclight/]: 
+[20Dec2024 01:01:22.243] [main/INFO] [Arclight/]: 
 
        ___           ___     __   /\
       /   | ________/ (_)__ / /  / /
@@ -10,120 +10,320 @@
     运行版本 顿顽 / arclight-1.20.1-1.0.5-1a8925b
     构建日期 2024-02-28 14:51:40
 
-[19Dec2024 12:15:47.700] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, arclightserver, --fml.forgeVersion, 47.2.20, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[19Dec2024 12:15:47.703] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[19Dec2024 12:15:49.242] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is arclightserver
-[19Dec2024 12:15:49.310] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/RetoCraft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2399!/ Service=ModLauncher Env=SERVER
-[19Dec2024 12:15:49.664] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.20/fmlcore-1.20.1-47.2.20.jar is missing mods.toml file
-[19Dec2024 12:15:49.666] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.20/javafmllanguage-1.20.1-47.2.20.jar is missing mods.toml file
-[19Dec2024 12:15:49.667] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.20/lowcodelanguage-1.20.1-47.2.20.jar is missing mods.toml file
-[19Dec2024 12:15:49.668] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.20/mclanguage-1.20.1-47.2.20.jar is missing mods.toml file
-[19Dec2024 12:15:49.858] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[19Dec2024 12:15:52.377] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[19Dec2024 12:15:52.509] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.common.mod.ArclightConnector]
-[19Dec2024 12:15:52.588] [main/INFO] [Arclight/]: 核心 Mixin 配置已加载
-[19Dec2024 12:15:52.590] [main/INFO] [Arclight/]: 服务端优化 Mixin 配置已加载
-[19Dec2024 12:15:52.595] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'arclightserver' with arguments [nogui]
-[19Dec2024 12:15:52.960] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/inventory/AbstractContainerScreen for invalid dist DEDICATED_SERVER
-[19Dec2024 12:15:52.966] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/inventory/AbstractContainerScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/inventory/AbstractContainerScreen for invalid dist DEDICATED_SERVER)
-[19Dec2024 12:15:52.968] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.inventory.AbstractContainerScreen was not found itemborders.mixins.json:AbstractContainerScreenMixin
-[19Dec2024 12:15:52.975] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER
-[19Dec2024 12:15:52.977] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/Gui (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER)
-[19Dec2024 12:15:52.977] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.Gui was not found itemborders.mixins.json:GuiMixin
-[19Dec2024 12:15:56.896] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[19Dec2024 12:16:08.237] [modloading-worker-0/INFO] [Arclight/]: Arclight Mod 已加载
-[19Dec2024 12:16:08.325] [modloading-worker-0/INFO] [Arclight/]: Arclight 事件系统已注册
-[19Dec2024 12:16:08.332] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.20, for MC 1.20.1 with MCP 20230612.114412
-[19Dec2024 12:16:08.332] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.20 Initialized
-[19Dec2024 12:16:08.449] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
-[19Dec2024 12:16:08.449] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.85.
-[19Dec2024 12:16:09.542] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[19Dec2024 12:16:09.555] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[19Dec2024 12:16:09.560] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[19Dec2024 12:16:09.564] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[19Dec2024 12:16:09.843] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[19Dec2024 12:16:09.957] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models Initialized
-[19Dec2024 12:16:09.988] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[19Dec2024 12:16:10.002] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[19Dec2024 12:16:10.002] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[19Dec2024 12:16:10.002] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[19Dec2024 12:16:10.743] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Starting version check at https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/version-check.json
-[19Dec2024 12:16:11.104] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[19Dec2024 12:16:11.106] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[19Dec2024 12:16:11.108] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[19Dec2024 12:16:11.108] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[19Dec2024 12:16:11.124] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models API initialized: Loaded plugins: (0)
+[20Dec2024 01:01:22.281] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, arclightserver, --fml.forgeVersion, 47.2.20, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[20Dec2024 01:01:22.283] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[20Dec2024 01:01:22.734] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is arclightserver
+[20Dec2024 01:01:22.772] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/RetoCraft/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2399!/ Service=ModLauncher Env=SERVER
+[20Dec2024 01:01:23.067] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.20/fmlcore-1.20.1-47.2.20.jar is missing mods.toml file
+[20Dec2024 01:01:23.069] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.20/javafmllanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[20Dec2024 01:01:23.071] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.20/lowcodelanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[20Dec2024 01:01:23.072] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.20/mclanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[20Dec2024 01:01:23.187] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[20Dec2024 01:01:25.163] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[20Dec2024 01:01:25.263] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.common.mod.ArclightConnector]
+[20Dec2024 01:01:25.291] [main/INFO] [Arclight/]: 核心 Mixin 配置已加载
+[20Dec2024 01:01:25.293] [main/INFO] [Arclight/]: 服务端优化 Mixin 配置已加载
+[20Dec2024 01:01:25.298] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'arclightserver' with arguments [nogui]
+[20Dec2024 01:01:25.348] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[20Dec2024 01:01:26.796] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/inventory/AbstractContainerScreen for invalid dist DEDICATED_SERVER
+[20Dec2024 01:01:26.801] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/inventory/AbstractContainerScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/inventory/AbstractContainerScreen for invalid dist DEDICATED_SERVER)
+[20Dec2024 01:01:26.801] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.inventory.AbstractContainerScreen was not found itemborders.mixins.json:AbstractContainerScreenMixin
+[20Dec2024 01:01:26.805] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER
+[20Dec2024 01:01:26.805] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/Gui (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/Gui for invalid dist DEDICATED_SERVER)
+[20Dec2024 01:01:26.806] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.Gui was not found itemborders.mixins.json:GuiMixin
+[20Dec2024 01:01:28.635] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[20Dec2024 01:01:36.380] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.85.
+[20Dec2024 01:01:36.449] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[20Dec2024 01:01:36.593] [modloading-worker-0/INFO] [Arclight/]: Arclight Mod 已加载
+[20Dec2024 01:01:36.675] [modloading-worker-0/INFO] [Arclight/]: Arclight 事件系统已注册
+[20Dec2024 01:01:36.697] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.20, for MC 1.20.1 with MCP 20230612.114412
+[20Dec2024 01:01:36.697] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.20 Initialized
+[20Dec2024 01:01:37.903] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[20Dec2024 01:01:37.912] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[20Dec2024 01:01:37.915] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[20Dec2024 01:01:37.916] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[20Dec2024 01:01:38.053] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/RetoCraft/servidor_minecraft/config/travelersbackpack-common.toml is not correct. Correcting
+[20Dec2024 01:01:38.053] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Dec2024 01:01:38.053] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Dec2024 01:01:38.053] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.leatherTierBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Dec2024 01:01:38.053] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.leatherTierBackpack.inventorySlotCount was corrected from null to its default, 27. 
+[20Dec2024 01:01:38.053] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.leatherTierBackpack.toolSlotCount was corrected from null to its default, 2. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.leatherTierBackpack.tankCapacity was corrected from null to its default, 3000. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.ironTierBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.ironTierBackpack.inventorySlotCount was corrected from null to its default, 36. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.ironTierBackpack.toolSlotCount was corrected from null to its default, 3. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.ironTierBackpack.tankCapacity was corrected from null to its default, 4000. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.goldTierBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.goldTierBackpack.inventorySlotCount was corrected from null to its default, 45. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.goldTierBackpack.toolSlotCount was corrected from null to its default, 4. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.goldTierBackpack.tankCapacity was corrected from null to its default, 5000. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.diamondTierBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.diamondTierBackpack.inventorySlotCount was corrected from null to its default, 54. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.diamondTierBackpack.toolSlotCount was corrected from null to its default, 5. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.diamondTierBackpack.tankCapacity was corrected from null to its default, 6000. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.netheriteTierBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.netheriteTierBackpack.inventorySlotCount was corrected from null to its default, 63. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.netheriteTierBackpack.toolSlotCount was corrected from null to its default, 6. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.netheriteTierBackpack.tankCapacity was corrected from null to its default, 7000. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.enableTierUpgrades was corrected from null to its default, true. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.enableCraftingUpgrade was corrected from null to its default, true. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.craftingUpgradeByDefault was corrected from null to its default, false. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.craftingSavesItems was corrected from null to its default, true. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.enableBackpackBlockWearable was corrected from null to its default, true. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.enableBackpackRightClickUnequip was corrected from null to its default, false. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.allowOnlyEquippedBackpack was corrected from null to its default, false. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.invulnerableBackpack was corrected from null to its default, true. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.toolSlotsAcceptSwords was corrected from null to its default, true. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.toolSlotsAcceptableItems was corrected from null to its default, []. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.toolSlotsAcceptEverything was corrected from null to its default, false. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.blacklistedItems was corrected from null to its default, []. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.allowShulkerBoxes was corrected from null to its default, false. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.voidProtection was corrected from null to its default, true. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.backpackDeathPlace was corrected from null to its default, true. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.backpackForceDeathPlace was corrected from null to its default, false. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.enableSleepingBagSpawnPoint was corrected from null to its default, false. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.curiosIntegration was corrected from null to its default, false. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.enableLoot was corrected from null to its default, true. 
+[20Dec2024 01:01:38.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.spawnEntitiesWithBackpack was corrected from null to its default, true. 
+[20Dec2024 01:01:38.055] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.chance was corrected from null to its default, 0.005. 
+[20Dec2024 01:01:38.055] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.possibleOverworldEntityTypes was corrected from null to its default, [minecraft:zombie, minecraft:skeleton, minecraft:enderman]. 
+[20Dec2024 01:01:38.055] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.possibleNetherEntityTypes was corrected from null to its default, [minecraft:wither_skeleton, minecraft:piglin]. 
+[20Dec2024 01:01:38.055] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.overworldBackpacks was corrected from null to its default, [travelersbackpack:standard, travelersbackpack:diamond, travelersbackpack:gold, travelersbackpack:emerald, travelersbackpack:iron, travelersbackpack:lapis, travelersbackpack:redstone, travelersbackpack:coal, travelersbackpack:bookshelf, travelersbackpack:sandstone, travelersbackpack:snow, travelersbackpack:sponge, travelersbackpack:cake, travelersbackpack:cactus, travelersbackpack:hay, travelersbackpack:melon, travelersbackpack:pumpkin, travelersbackpack:creeper, travelersbackpack:enderman, travelersbackpack:skeleton, travelersbackpack:spider, travelersbackpack:bee, travelersbackpack:wolf, travelersbackpack:fox, travelersbackpack:ocelot, travelersbackpack:horse, travelersbackpack:cow, travelersbackpack:pig, travelersbackpack:sheep, travelersbackpack:chicken, travelersbackpack:squid]. 
+[20Dec2024 01:01:38.055] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.netherBackpacks was corrected from null to its default, [travelersbackpack:quartz, travelersbackpack:nether, travelersbackpack:blaze, travelersbackpack:ghast, travelersbackpack:magma_cube, travelersbackpack:wither]. 
+[20Dec2024 01:01:38.055] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.enableVillagerTrade was corrected from null to its default, true. 
+[20Dec2024 01:01:38.055] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackAbilities was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Dec2024 01:01:38.055] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackAbilities.enableBackpackAbilities was corrected from null to its default, true. 
+[20Dec2024 01:01:38.055] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackAbilities.forceAbilityEnabled was corrected from null to its default, true. 
+[20Dec2024 01:01:38.055] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackAbilities.allowedAbilities was corrected from null to its default, [travelersbackpack:netherite, travelersbackpack:diamond, travelersbackpack:gold, travelersbackpack:emerald, travelersbackpack:iron, travelersbackpack:lapis, travelersbackpack:redstone, travelersbackpack:bookshelf, travelersbackpack:sponge, travelersbackpack:cake, travelersbackpack:cactus, travelersbackpack:melon, travelersbackpack:pumpkin, travelersbackpack:creeper, travelersbackpack:dragon, travelersbackpack:enderman, travelersbackpack:blaze, travelersbackpack:ghast, travelersbackpack:magma_cube, travelersbackpack:spider, travelersbackpack:wither, travelersbackpack:bat, travelersbackpack:bee, travelersbackpack:ocelot, travelersbackpack:cow, travelersbackpack:chicken, travelersbackpack:squid]. 
+[20Dec2024 01:01:38.055] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.slownessDebuff was corrected from null to its default, SimpleCommentedConfig:{}. 
+[20Dec2024 01:01:38.055] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.slownessDebuff.tooManyBackpacksSlowness was corrected from null to its default, false. 
+[20Dec2024 01:01:38.055] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.slownessDebuff.maxNumberOfBackpacks was corrected from null to its default, 3. 
+[20Dec2024 01:01:38.055] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.slownessDebuff.slownessPerExcessedBackpack was corrected from null to its default, 1.0. 
+[20Dec2024 01:01:38.113] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[20Dec2024 01:01:38.196] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[20Dec2024 01:01:38.207] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models Initialized
+[20Dec2024 01:01:38.213] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[20Dec2024 01:01:38.213] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[20Dec2024 01:01:38.214] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[20Dec2024 01:01:38.435] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[20Dec2024 01:01:38.780] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[20Dec2024 01:01:38.780] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[20Dec2024 01:01:38.780] [main/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
+[20Dec2024 01:01:38.780] [main/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
+[20Dec2024 01:01:38.780] [main/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[20Dec2024 01:01:38.808] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[20Dec2024 01:01:38.808] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[20Dec2024 01:01:38.810] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[20Dec2024 01:01:38.810] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[20Dec2024 01:01:38.825] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[20Dec2024 01:01:38.825] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[20Dec2024 01:01:38.827] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[20Dec2024 01:01:38.827] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[20Dec2024 01:01:38.832] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models API initialized: Loaded plugins: (0)
 
-[19Dec2024 12:16:11.178] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Found status: BETA Current: 0.6.19a Target: 0.6.19a
-[19Dec2024 12:16:11.179] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Starting version check at https://mc-update-check.anthonyhilyard.com/513769
-[19Dec2024 12:16:11.463] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Found status: UP_TO_DATE Current: 1.2.2 Target: null
-[19Dec2024 12:16:11.463] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[19Dec2024 12:16:11.987] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.27 Target: null
-[19Dec2024 12:16:11.987] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[19Dec2024 12:16:12.198] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.20 Target: 47.3.0
-[19Dec2024 12:16:12.198] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[19Dec2024 12:16:12.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
-[19Dec2024 12:16:12.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
-[19Dec2024 12:16:12.243] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
-[19Dec2024 12:16:12.243] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[19Dec2024 12:16:12.518] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[19Dec2024 12:16:12.518] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
-[19Dec2024 12:16:12.550] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Found status: UP_TO_DATE Current: 1.0.5 Target: null
-[19Dec2024 12:16:13.419] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19Dec2024 12:16:14.523] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23197!/assets/.mcassetsroot' uses unexpected schema
-[19Dec2024 12:16:14.523] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23197!/data/.mcassetsroot' uses unexpected schema
-[19Dec2024 12:16:17.039] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[19Dec2024 12:16:17.214] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1702 advancements
-[19Dec2024 12:16:17.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[19Dec2024 12:16:17.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[19Dec2024 12:16:17.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[19Dec2024 12:16:17.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[19Dec2024 12:16:17.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[19Dec2024 12:16:17.982] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[19Dec2024 12:16:18.153] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19Dec2024 12:16:18.153] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[19Dec2024 12:16:18.153] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19Dec2024 12:16:18.153] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[19Dec2024 12:16:18.492] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.20.1-1.0.5-1a8925b (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT)
-[19Dec2024 12:16:19.250] [Server thread/INFO] [Arclight/]: 正在向 Bukkit 注册 ...
-[19Dec2024 12:16:19.367] [Server thread/INFO] [Arclight/]: 注册了 601 个材料，其中 136 个方块 465 个物品
-[19Dec2024 12:16:19.374] [Server thread/INFO] [Arclight/]: 注册了 13 个新的药水效果
-[19Dec2024 12:16:19.386] [Server thread/INFO] [Arclight/]: 注册了 39 个新的附魔
-[19Dec2024 12:16:19.399] [Server thread/INFO] [Arclight/]: 注册了 58 个新的生物类型
-[19Dec2024 12:16:19.401] [Server thread/INFO] [Arclight/]: 注册了 1 个新的村民职业
-[19Dec2024 12:16:19.402] [Server thread/INFO] [Arclight/]: 注册了 0 个新的生物群系
-[19Dec2024 12:16:19.430] [Server thread/INFO] [STDOUT/]: Server Ping Player Sample Count: 12
-[19Dec2024 12:16:19.432] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
-[19Dec2024 12:16:19.433] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
-[19Dec2024 12:16:19.691] [Server thread/INFO] [Arclight/]: 正在加载混淆数据 ...
-[19Dec2024 12:16:20.296] [Server thread/INFO] [Arclight/]: 正在加载 Plugin Patcher ...
-[19Dec2024 12:16:20.892] [Server thread/INFO] [LuckPerms/]: Loading LuckPerms v5.4.131
-[19Dec2024 12:16:21.379] [Server thread/INFO] [WorldEdit/]: Loading WorldEdit v7.3.0+6678-55745ad
-[19Dec2024 12:16:21.957] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1547e8de]
-[19Dec2024 12:16:21.962] [Server thread/INFO] [Essentials/]: Loading Essentials v2.20.1
-[19Dec2024 12:16:21.963] [Server thread/INFO] [EssentialsProtect/]: Loading EssentialsProtect v2.20.1
-[19Dec2024 12:16:21.964] [Server thread/INFO] [EssentialsSpawn/]: Loading EssentialsSpawn v2.20.1
-[19Dec2024 12:16:21.964] [Server thread/INFO] [EssentialsChat/]: Loading EssentialsChat v2.20.1
-[19Dec2024 12:16:21.964] [Server thread/INFO] [PlaceholderAPI/]: Loading PlaceholderAPI v2.11.6
-[19Dec2024 12:16:21.964] [Server thread/INFO] [WorldGuard/]: Loading WorldGuard v7.0.9+5934e49
-[19Dec2024 12:16:21.964] [Server thread/INFO] [Multiverse-Core/]: Loading Multiverse-Core v4.3.11
-[19Dec2024 12:16:21.992] [Server thread/INFO] [EssentialsAntiBuild/]: Loading EssentialsAntiBuild v2.20.1
-[19Dec2024 12:16:21.992] [Server thread/INFO] [SkinsRestorer/]: Loading SkinsRestorer v15.5.0
-[19Dec2024 12:16:21.992] [Server thread/INFO] [ConditionalEvents/]: Loading ConditionalEvents v4.59.1
-[19Dec2024 12:16:21.995] [Server thread/INFO] [LuckPerms/]: Enabling LuckPerms v5.4.131
-[19Dec2024 12:16:23.218] [Server thread/INFO] [Console/]:         __    
-[19Dec2024 12:16:23.219] [Server thread/INFO] [Console/]:   |    |__)   LuckPerms v5.4.131
-[19Dec2024 12:16:23.220] [Server thread/INFO] [Console/]:   |___ |      Running on Bukkit - Arclight
-[19Dec2024 12:16:23.220] [Server thread/INFO] [Console/]: 
-[19Dec2024 12:16:23.224] [Server thread/INFO] [LuckPerms/]: Loading configuration...
-[19Dec2024 12:16:23.619] [Server thread/INFO] [LuckPerms/]: Loading storage provider... [H2]
-[19Dec2024 12:16:25.660] [Server thread/INFO] [LuckPerms/]: Loading internal permission managers...
-[19Dec2024 12:16:25.957] [Server thread/INFO] [LuckPerms/]: Performing initial data load...
-[19Dec2024 12:16:26.216] [Server thread/INFO] [LuckPerms/]: Successfully enabled. (took 4220ms)
-[19Dec2024 12:16:26.226] [Server thread/INFO] [WorldEdit/]: Enabling WorldEdit v7.3.0+6678-55745ad
-[19Dec2024 12:16:26.273] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[19Dec2024 12:16:26.409] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Using the Bukkit Permissions API.
-[19Dec2024 12:16:26.932] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: 
+[20Dec2024 01:01:39.038] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.27 Target: null
+[20Dec2024 01:01:39.038] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[20Dec2024 01:01:39.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
+[20Dec2024 01:01:39.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[20Dec2024 01:01:39.374] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
+[20Dec2024 01:01:39.374] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
+[20Dec2024 01:01:39.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Found status: UP_TO_DATE Current: 1.0.5 Target: null
+[20Dec2024 01:01:39.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[20Dec2024 01:01:39.465] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.16 Target: null
+[20Dec2024 01:01:39.465] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[20Dec2024 01:01:39.647] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[20Dec2024 01:01:39.647] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Starting version check at https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/version-check.json
+[20Dec2024 01:01:39.702] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Found status: BETA Current: 0.6.19a Target: 0.6.19a
+[20Dec2024 01:01:39.703] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Starting version check at https://mc-update-check.anthonyhilyard.com/513769
+[20Dec2024 01:01:39.734] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [itemborders] Found status: UP_TO_DATE Current: 1.2.2 Target: null
+[20Dec2024 01:01:39.734] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[20Dec2024 01:01:39.895] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.20 Target: 47.3.0
+[20Dec2024 01:01:39.895] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[20Dec2024 01:01:40.223] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[20Dec2024 01:01:41.121] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20Dec2024 01:01:41.301] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:standard Expected: 1842 Got: 1973
+[20Dec2024 01:01:41.301] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:netherite Expected: 1843 Got: 1974
+[20Dec2024 01:01:41.301] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:diamond Expected: 1844 Got: 1975
+[20Dec2024 01:01:41.301] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:gold Expected: 1845 Got: 1976
+[20Dec2024 01:01:41.301] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:emerald Expected: 1846 Got: 1977
+[20Dec2024 01:01:41.301] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:iron Expected: 1847 Got: 1978
+[20Dec2024 01:01:41.301] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:lapis Expected: 1848 Got: 1979
+[20Dec2024 01:01:41.301] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:redstone Expected: 1849 Got: 1980
+[20Dec2024 01:01:41.301] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:coal Expected: 1850 Got: 1981
+[20Dec2024 01:01:41.301] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:quartz Expected: 1851 Got: 1982
+[20Dec2024 01:01:41.301] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:bookshelf Expected: 1852 Got: 1983
+[20Dec2024 01:01:41.301] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:end Expected: 1853 Got: 1984
+[20Dec2024 01:01:41.301] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:nether Expected: 1854 Got: 1985
+[20Dec2024 01:01:41.301] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:sandstone Expected: 1855 Got: 1986
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:snow Expected: 1856 Got: 1987
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:sponge Expected: 1857 Got: 1988
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:cake Expected: 1858 Got: 1989
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:cactus Expected: 1859 Got: 1990
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:hay Expected: 1860 Got: 1991
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:melon Expected: 1861 Got: 1992
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:pumpkin Expected: 1862 Got: 1993
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:creeper Expected: 1863 Got: 1994
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:dragon Expected: 1864 Got: 1995
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:enderman Expected: 1865 Got: 1996
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:blaze Expected: 1866 Got: 1997
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:ghast Expected: 1867 Got: 1998
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:magma_cube Expected: 1868 Got: 1999
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:skeleton Expected: 1869 Got: 2000
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:spider Expected: 1870 Got: 2001
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:wither Expected: 1871 Got: 2002
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:bat Expected: 1872 Got: 2003
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:bee Expected: 1873 Got: 2004
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:wolf Expected: 1874 Got: 2005
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:fox Expected: 1875 Got: 2006
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:ocelot Expected: 1876 Got: 2007
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:horse Expected: 1877 Got: 2008
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:cow Expected: 1878 Got: 2009
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:pig Expected: 1879 Got: 2010
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:sheep Expected: 1880 Got: 2011
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:chicken Expected: 1881 Got: 2012
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:squid Expected: 1882 Got: 2013
+[20Dec2024 01:01:41.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:villager Expected: 1883 Got: 2014
+[20Dec2024 01:01:41.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:iron_golem Expected: 1884 Got: 2015
+[20Dec2024 01:01:41.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:white_sleeping_bag Expected: 1885 Got: 2016
+[20Dec2024 01:01:41.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:orange_sleeping_bag Expected: 1886 Got: 2017
+[20Dec2024 01:01:41.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:magenta_sleeping_bag Expected: 1887 Got: 2018
+[20Dec2024 01:01:41.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:light_blue_sleeping_bag Expected: 1888 Got: 2019
+[20Dec2024 01:01:41.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:yellow_sleeping_bag Expected: 1889 Got: 2020
+[20Dec2024 01:01:41.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:lime_sleeping_bag Expected: 1890 Got: 2021
+[20Dec2024 01:01:41.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:pink_sleeping_bag Expected: 1891 Got: 2022
+[20Dec2024 01:01:41.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:gray_sleeping_bag Expected: 1892 Got: 2023
+[20Dec2024 01:01:41.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:light_gray_sleeping_bag Expected: 1893 Got: 2024
+[20Dec2024 01:01:41.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:cyan_sleeping_bag Expected: 1894 Got: 2025
+[20Dec2024 01:01:41.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:purple_sleeping_bag Expected: 1895 Got: 2026
+[20Dec2024 01:01:41.304] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:blue_sleeping_bag Expected: 1896 Got: 2027
+[20Dec2024 01:01:41.304] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:brown_sleeping_bag Expected: 1897 Got: 2028
+[20Dec2024 01:01:41.304] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:green_sleeping_bag Expected: 1898 Got: 2029
+[20Dec2024 01:01:41.304] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:red_sleeping_bag Expected: 1899 Got: 2030
+[20Dec2024 01:01:41.304] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:black_sleeping_bag Expected: 1900 Got: 2031
+[20Dec2024 01:01:41.306] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:standard Expected: 2027 Got: 2576
+[20Dec2024 01:01:41.306] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:netherite Expected: 2028 Got: 2577
+[20Dec2024 01:01:41.306] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:diamond Expected: 2029 Got: 2578
+[20Dec2024 01:01:41.306] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:gold Expected: 2030 Got: 2579
+[20Dec2024 01:01:41.306] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:emerald Expected: 2031 Got: 2580
+[20Dec2024 01:01:41.306] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:iron Expected: 2032 Got: 2581
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:lapis Expected: 2033 Got: 2582
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:redstone Expected: 2034 Got: 2583
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:coal Expected: 2035 Got: 2584
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:quartz Expected: 2036 Got: 2585
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:bookshelf Expected: 2037 Got: 2586
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:end Expected: 2038 Got: 2587
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:nether Expected: 2039 Got: 2588
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:sandstone Expected: 2040 Got: 2589
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:snow Expected: 2041 Got: 2590
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:sponge Expected: 2042 Got: 2591
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:cake Expected: 2043 Got: 2592
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:cactus Expected: 2044 Got: 2593
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:hay Expected: 2045 Got: 2594
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:melon Expected: 2046 Got: 2595
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:pumpkin Expected: 2047 Got: 2596
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:creeper Expected: 2048 Got: 2597
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:dragon Expected: 2049 Got: 2598
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:enderman Expected: 2050 Got: 2599
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:blaze Expected: 2051 Got: 2600
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:ghast Expected: 2052 Got: 2601
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:magma_cube Expected: 2053 Got: 2602
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:skeleton Expected: 2054 Got: 2603
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:spider Expected: 2055 Got: 2604
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:wither Expected: 2056 Got: 2605
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:bat Expected: 2057 Got: 2606
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:bee Expected: 2058 Got: 2607
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:wolf Expected: 2059 Got: 2608
+[20Dec2024 01:01:41.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:fox Expected: 2060 Got: 2609
+[20Dec2024 01:01:41.308] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:ocelot Expected: 2061 Got: 2610
+[20Dec2024 01:01:41.308] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:horse Expected: 2062 Got: 2611
+[20Dec2024 01:01:41.308] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:cow Expected: 2063 Got: 2612
+[20Dec2024 01:01:41.308] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:pig Expected: 2064 Got: 2613
+[20Dec2024 01:01:41.308] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:sheep Expected: 2065 Got: 2614
+[20Dec2024 01:01:41.308] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:chicken Expected: 2066 Got: 2615
+[20Dec2024 01:01:41.308] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:squid Expected: 2067 Got: 2616
+[20Dec2024 01:01:41.308] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:villager Expected: 2068 Got: 2617
+[20Dec2024 01:01:41.308] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:iron_golem Expected: 2069 Got: 2618
+[20Dec2024 01:01:41.308] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:white_sleeping_bag Expected: 2070 Got: 2619
+[20Dec2024 01:01:41.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:orange_sleeping_bag Expected: 2071 Got: 2620
+[20Dec2024 01:01:41.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:magenta_sleeping_bag Expected: 2072 Got: 2621
+[20Dec2024 01:01:41.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:light_blue_sleeping_bag Expected: 2073 Got: 2622
+[20Dec2024 01:01:41.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:yellow_sleeping_bag Expected: 2074 Got: 2623
+[20Dec2024 01:01:41.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:lime_sleeping_bag Expected: 2075 Got: 2624
+[20Dec2024 01:01:41.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:pink_sleeping_bag Expected: 2076 Got: 2625
+[20Dec2024 01:01:41.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:gray_sleeping_bag Expected: 2077 Got: 2626
+[20Dec2024 01:01:41.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:light_gray_sleeping_bag Expected: 2078 Got: 2627
+[20Dec2024 01:01:41.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:cyan_sleeping_bag Expected: 2079 Got: 2628
+[20Dec2024 01:01:41.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:purple_sleeping_bag Expected: 2080 Got: 2629
+[20Dec2024 01:01:41.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:blue_sleeping_bag Expected: 2081 Got: 2630
+[20Dec2024 01:01:41.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:brown_sleeping_bag Expected: 2082 Got: 2631
+[20Dec2024 01:01:41.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:green_sleeping_bag Expected: 2083 Got: 2632
+[20Dec2024 01:01:41.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:red_sleeping_bag Expected: 2084 Got: 2633
+[20Dec2024 01:01:41.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:black_sleeping_bag Expected: 2085 Got: 2634
+[20Dec2024 01:01:41.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:backpack_tank Expected: 2086 Got: 2635
+[20Dec2024 01:01:41.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:hose Expected: 2087 Got: 2636
+[20Dec2024 01:01:41.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:hose_nozzle Expected: 2088 Got: 2637
+[20Dec2024 01:01:41.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:blank_upgrade Expected: 2089 Got: 2638
+[20Dec2024 01:01:41.310] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:iron_tier_upgrade Expected: 2090 Got: 2639
+[20Dec2024 01:01:41.310] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:gold_tier_upgrade Expected: 2091 Got: 2640
+[20Dec2024 01:01:41.310] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:diamond_tier_upgrade Expected: 2092 Got: 2641
+[20Dec2024 01:01:41.310] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:netherite_tier_upgrade Expected: 2093 Got: 2642
+[20Dec2024 01:01:41.310] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:crafting_upgrade Expected: 2094 Got: 2643
+[20Dec2024 01:01:41.311] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: travelersbackpack:backpack Expected: 126 Got: 184
+[20Dec2024 01:01:42.229] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23211!/assets/.mcassetsroot' uses unexpected schema
+[20Dec2024 01:01:42.230] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/RetoCraft/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23211!/data/.mcassetsroot' uses unexpected schema
+[20Dec2024 01:01:45.197] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[20Dec2024 01:01:45.383] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2557 advancements
+[20Dec2024 01:01:46.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[20Dec2024 01:01:46.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[20Dec2024 01:01:46.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[20Dec2024 01:01:46.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[20Dec2024 01:01:46.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[20Dec2024 01:01:46.493] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[20Dec2024 01:01:46.589] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20Dec2024 01:01:46.590] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[20Dec2024 01:01:46.590] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20Dec2024 01:01:46.590] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[20Dec2024 01:01:46.844] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.20.1-1.0.5-1a8925b (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT)
+[20Dec2024 01:01:47.464] [Server thread/INFO] [Arclight/]: 正在向 Bukkit 注册 ...
+[20Dec2024 01:01:47.673] [Server thread/INFO] [Arclight/]: 注册了 1538 个材料，其中 1029 个方块 509 个物品
+[20Dec2024 01:01:47.676] [Server thread/INFO] [Arclight/]: 注册了 13 个新的药水效果
+[20Dec2024 01:01:47.682] [Server thread/INFO] [Arclight/]: 注册了 39 个新的附魔
+[20Dec2024 01:01:47.690] [Server thread/INFO] [Arclight/]: 注册了 61 个新的生物类型
+[20Dec2024 01:01:47.691] [Server thread/INFO] [Arclight/]: 注册了 1 个新的村民职业
+[20Dec2024 01:01:47.697] [Server thread/INFO] [Arclight/]: 注册了 72 个新的生物群系
+[20Dec2024 01:01:47.739] [Server thread/INFO] [STDOUT/]: Server Ping Player Sample Count: 12
+[20Dec2024 01:01:47.745] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[20Dec2024 01:01:47.747] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[20Dec2024 01:01:48.012] [Server thread/INFO] [Arclight/]: 正在加载混淆数据 ...
+[20Dec2024 01:01:48.563] [Server thread/INFO] [Arclight/]: 正在加载 Plugin Patcher ...
+[20Dec2024 01:01:49.127] [Server thread/INFO] [LuckPerms/]: Loading LuckPerms v5.4.131
+[20Dec2024 01:01:49.426] [Server thread/INFO] [WorldEdit/]: Loading WorldEdit v7.3.0+6678-55745ad
+[20Dec2024 01:01:49.915] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@35d5846b]
+[20Dec2024 01:01:49.920] [Server thread/INFO] [Essentials/]: Loading Essentials v2.20.1
+[20Dec2024 01:01:49.921] [Server thread/INFO] [EssentialsProtect/]: Loading EssentialsProtect v2.20.1
+[20Dec2024 01:01:49.921] [Server thread/INFO] [EssentialsSpawn/]: Loading EssentialsSpawn v2.20.1
+[20Dec2024 01:01:49.921] [Server thread/INFO] [EssentialsChat/]: Loading EssentialsChat v2.20.1
+[20Dec2024 01:01:49.921] [Server thread/INFO] [PlaceholderAPI/]: Loading PlaceholderAPI v2.11.6
+[20Dec2024 01:01:49.922] [Server thread/INFO] [WorldGuard/]: Loading WorldGuard v7.0.9+5934e49
+[20Dec2024 01:01:49.922] [Server thread/INFO] [Multiverse-Core/]: Loading Multiverse-Core v4.3.11
+[20Dec2024 01:01:49.950] [Server thread/INFO] [EssentialsAntiBuild/]: Loading EssentialsAntiBuild v2.20.1
+[20Dec2024 01:01:49.950] [Server thread/INFO] [SkinsRestorer/]: Loading SkinsRestorer v15.5.0
+[20Dec2024 01:01:49.950] [Server thread/INFO] [ConditionalEvents/]: Loading ConditionalEvents v4.59.1
+[20Dec2024 01:01:49.953] [Server thread/INFO] [LuckPerms/]: Enabling LuckPerms v5.4.131
+[20Dec2024 01:01:51.278] [Server thread/INFO] [Console/]:         __    
+[20Dec2024 01:01:51.278] [Server thread/INFO] [Console/]:   |    |__)   LuckPerms v5.4.131
+[20Dec2024 01:01:51.279] [Server thread/INFO] [Console/]:   |___ |      Running on Bukkit - Arclight
+[20Dec2024 01:01:51.279] [Server thread/INFO] [Console/]: 
+[20Dec2024 01:01:51.284] [Server thread/INFO] [LuckPerms/]: Loading configuration...
+[20Dec2024 01:01:51.639] [Server thread/INFO] [LuckPerms/]: Loading storage provider... [H2]
+[20Dec2024 01:01:53.495] [Server thread/INFO] [LuckPerms/]: Loading internal permission managers...
+[20Dec2024 01:01:53.663] [Server thread/INFO] [LuckPerms/]: Performing initial data load...
+[20Dec2024 01:01:53.853] [Server thread/INFO] [LuckPerms/]: Successfully enabled. (took 3900ms)
+[20Dec2024 01:01:53.854] [Server thread/INFO] [WorldEdit/]: Enabling WorldEdit v7.3.0+6678-55745ad
+[20Dec2024 01:01:53.904] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[20Dec2024 01:01:53.976] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Using the Bukkit Permissions API.
+[20Dec2024 01:01:54.452] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: 
 **********************************************
 ** This WorldEdit version does not fully support your version of Bukkit.
 **
@@ -134,357 +334,284 @@
 ** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
 **********************************************
 
-[19Dec2024 12:16:27.455] [Server thread/INFO] [WorldEdit/]: ====================================================
-[19Dec2024 12:16:27.455] [Server thread/INFO] [WorldEdit/]:  WorldEdit works better if you use Paper 
-[19Dec2024 12:16:27.455] [Server thread/INFO] [WorldEdit/]:  as your server software. 
-[19Dec2024 12:16:27.455] [Server thread/INFO] [WorldEdit/]:   
-[19Dec2024 12:16:27.455] [Server thread/INFO] [WorldEdit/]:  Paper offers significant performance improvements,
-[19Dec2024 12:16:27.455] [Server thread/INFO] [WorldEdit/]:  bug fixes, security enhancements and optional
-[19Dec2024 12:16:27.456] [Server thread/INFO] [WorldEdit/]:  features for server owners to enhance their server.
-[19Dec2024 12:16:27.456] [Server thread/INFO] [WorldEdit/]:   
-[19Dec2024 12:16:27.456] [Server thread/INFO] [WorldEdit/]:  Paper includes Timings v2, which is significantly
-[19Dec2024 12:16:27.456] [Server thread/INFO] [WorldEdit/]:  better at diagnosing lag problems over v1.
-[19Dec2024 12:16:27.456] [Server thread/INFO] [WorldEdit/]:   
-[19Dec2024 12:16:27.456] [Server thread/INFO] [WorldEdit/]:  All of your plugins should still work, and the
-[19Dec2024 12:16:27.456] [Server thread/INFO] [WorldEdit/]:  Paper community will gladly help you fix any issues.
-[19Dec2024 12:16:27.456] [Server thread/INFO] [WorldEdit/]:   
-[19Dec2024 12:16:27.456] [Server thread/INFO] [WorldEdit/]:  Join the Paper Community @ https://papermc.io
-[19Dec2024 12:16:27.456] [Server thread/INFO] [WorldEdit/]: ====================================================
-[19Dec2024 12:16:27.457] [Server thread/INFO] [SkinsRestorer/]: Enabling SkinsRestorer v15.5.0
-[19Dec2024 12:16:27.774] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-[19Dec2024 12:16:28.075] [Server thread/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.20.1[32;1m.[0;39m
-[19Dec2024 12:16:28.609] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: skinsrestorer [15.5.0]
-[19Dec2024 12:16:28.611] [Server thread/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mPlaceholderAPI expansion registered![0;39m
-[19Dec2024 12:16:28.622] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your Java runtime to at least Java 21 (your version is 17).[0;39m
-[19Dec2024 12:16:28.622] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mAt some point in the future, SkinsRestorer will no longer be compatible with this version of Java.[0;39m
-[19Dec2024 12:16:28.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[19Dec2024 12:16:28.795] [Server thread/INFO] [Arclight/]: 注册了 0 个新的世界类型
-[19Dec2024 12:16:29.227] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
-[19Dec2024 12:16:29.227] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
-[19Dec2024 12:16:29.227] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[19Dec2024 12:16:29.228] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[19Dec2024 12:16:29.229] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
-[19Dec2024 12:16:29.229] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[19Dec2024 12:16:29.229] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
-[19Dec2024 12:16:29.229] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
-[19Dec2024 12:16:29.229] [Server thread/INFO] [Minecraft/]: View Distance: 10
-[19Dec2024 12:16:29.229] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
-[19Dec2024 12:16:29.229] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
-[19Dec2024 12:16:31.873] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM-1] --------
-[19Dec2024 12:16:31.877] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
-[19Dec2024 12:16:31.878] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
-[19Dec2024 12:16:31.878] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[19Dec2024 12:16:31.879] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[19Dec2024 12:16:31.880] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[19Dec2024 12:16:31.880] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
-[19Dec2024 12:16:31.880] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[19Dec2024 12:16:31.880] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
-[19Dec2024 12:16:31.880] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
-[19Dec2024 12:16:31.880] [Server thread/INFO] [Minecraft/]: View Distance: 10
-[19Dec2024 12:16:31.880] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
-[19Dec2024 12:16:31.880] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
-[19Dec2024 12:16:31.920] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM1] --------
-[19Dec2024 12:16:31.921] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
-[19Dec2024 12:16:31.921] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
-[19Dec2024 12:16:31.921] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[19Dec2024 12:16:31.922] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
-[19Dec2024 12:16:31.922] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
-[19Dec2024 12:16:31.923] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
-[19Dec2024 12:16:31.923] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
-[19Dec2024 12:16:31.924] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
-[19Dec2024 12:16:31.926] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
-[19Dec2024 12:16:31.926] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
-[19Dec2024 12:16:31.927] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
-[19Dec2024 12:16:31.927] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
-[19Dec2024 12:16:31.927] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
-[19Dec2024 12:16:31.928] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
-[19Dec2024 12:16:31.929] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
-[19Dec2024 12:16:31.929] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
-[19Dec2024 12:16:31.929] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
-[19Dec2024 12:16:31.929] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
-[19Dec2024 12:16:31.929] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
-[19Dec2024 12:16:31.930] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
-[19Dec2024 12:16:31.930] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
-[19Dec2024 12:16:31.930] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
-[19Dec2024 12:16:31.930] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
-[19Dec2024 12:16:31.931] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
-[19Dec2024 12:16:31.931] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[19Dec2024 12:16:31.931] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[19Dec2024 12:16:31.932] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[19Dec2024 12:16:31.933] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[19Dec2024 12:16:31.934] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
-[19Dec2024 12:16:31.934] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[19Dec2024 12:16:31.934] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
-[19Dec2024 12:16:31.934] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
-[19Dec2024 12:16:31.935] [Server thread/INFO] [Minecraft/]: View Distance: 10
-[19Dec2024 12:16:31.935] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
-[19Dec2024 12:16:31.935] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
-[19Dec2024 12:16:31.947] [Server thread/INFO] [Essentials/]: Enabling Essentials v2.20.1
-[19Dec2024 12:16:31.970] [Server thread/ERROR] [Essentials/]: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
-[19Dec2024 12:16:31.970] [Server thread/INFO] [Essentials/]: Status determining class: net.minecraftforge.common.MinecraftForge
-[19Dec2024 12:16:32.139] [Server thread/INFO] [Essentials/]: Attempting to convert old kits in config.yml to new kits.yml
-[19Dec2024 12:16:32.139] [Server thread/INFO] [Essentials/]: No kits found to migrate.
-[19Dec2024 12:16:32.287] [Server thread/INFO] [Essentials/]: Loaded 39094 items from items.json.
-[19Dec2024 12:16:32.303] [Server thread/INFO] [Essentials/]: Using locale es
-[19Dec2024 12:16:32.363] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
-[19Dec2024 12:16:32.402] [Server thread/INFO] [Essentials/]: Starting Metrics. Opt-out using the global bStats config.
-[19Dec2024 12:16:32.407] [Server thread/WARN] [Essentials/]: Detected supported permissions plugin LuckPerms without Vault installed.
-[19Dec2024 12:16:32.407] [Server thread/WARN] [Essentials/]: Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[19Dec2024 12:16:32.407] [Server thread/INFO] [Essentials/]: Using superperms-based permissions.
-[19Dec2024 12:16:32.408] [Server thread/INFO] [EssentialsProtect/]: Enabling EssentialsProtect v2.20.1
-[19Dec2024 12:16:32.409] [Server thread/INFO] [EssentialsProtect/]: Continuing to enable Protect.
-[19Dec2024 12:16:32.422] [Server thread/INFO] [EssentialsProtect/]: Starting Metrics. Opt-out using the global bStats config.
-[19Dec2024 12:16:32.423] [Server thread/INFO] [EssentialsSpawn/]: Enabling EssentialsSpawn v2.20.1
-[19Dec2024 12:16:32.429] [Server thread/INFO] [EssentialsSpawn/]: Starting Metrics. Opt-out using the global bStats config.
-[19Dec2024 12:16:32.430] [Server thread/INFO] [EssentialsChat/]: Enabling EssentialsChat v2.20.1
-[19Dec2024 12:16:32.438] [Server thread/INFO] [EssentialsChat/]: Starting Metrics. Opt-out using the global bStats config.
-[19Dec2024 12:16:32.439] [Server thread/INFO] [PlaceholderAPI/]: Enabling PlaceholderAPI v2.11.6
-[19Dec2024 12:16:32.567] [Server thread/INFO] [PlaceholderAPI/]: Fetching available expansion information...
-[19Dec2024 12:16:32.570] [Server thread/INFO] [WorldGuard/]: Enabling WorldGuard v7.0.9+5934e49
-[19Dec2024 12:16:32.840] [Server thread/INFO] [Multiverse-Core/]: Enabling Multiverse-Core v4.3.11
-[19Dec2024 12:16:32.846] [Server thread/WARN] [Multiverse-Core/]: "Multiverse-Core v4.3.11" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
-[19Dec2024 12:16:32.847] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
-[19Dec2024 12:16:32.993] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] 3 - World(s) loaded.
-[19Dec2024 12:16:33.002] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
-[19Dec2024 12:16:33.010] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Version 4.3.11 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
-[19Dec2024 12:16:33.013] [Server thread/INFO] [EssentialsAntiBuild/]: Enabling EssentialsAntiBuild v2.20.1
-[19Dec2024 12:16:33.021] [Server thread/INFO] [EssentialsAntiBuild/]: Starting Metrics. Opt-out using the global bStats config.
-[19Dec2024 12:16:33.022] [Server thread/INFO] [ConditionalEvents/]: Enabling ConditionalEvents v4.59.1
-[19Dec2024 12:16:33.070] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: conditionalevents [4.59.1]
-[19Dec2024 12:16:33.075] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been enabled! Version: 4.59.1
-[19Dec2024 12:16:33.075] [Server thread/INFO] [Console/]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
-[19Dec2024 12:16:33.184] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
-[19Dec2024 12:16:33.291] [Server thread/INFO] [PlaceholderAPI/]: Placeholder expansion registration initializing...
-[19Dec2024 12:16:33.294] [Server thread/INFO] [Console/]: 0 placeholder hook(s) registered!
-[19Dec2024 12:16:33.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[19Dec2024 12:16:38.571] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 12:16:38.571] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 12:16:38.571] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 12:16:38.571] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 12:16:38.571] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 12:16:38.571] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 12:16:38.572] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 12:16:38.572] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 12:16:38.572] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 12:16:38.572] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 12:16:38.572] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 12:16:38.796] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 12:16:39.296] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 12:16:39.795] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
-[19Dec2024 12:16:40.295] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 66%
-[19Dec2024 12:16:41.530] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[19Dec2024 12:16:41.530] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[19Dec2024 12:16:41.798] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[19Dec2024 12:16:42.314] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[19Dec2024 12:16:42.795] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[19Dec2024 12:16:43.295] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[19Dec2024 12:16:43.808] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[19Dec2024 12:16:44.329] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[19Dec2024 12:16:44.472] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11177 ms
-[19Dec2024 12:16:44.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.848s)! For help, type "help"
-[19Dec2024 12:16:44.565] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[19Dec2024 12:16:44.565] [Server thread/INFO] [Arclight/]: Forwarding forge permission[forge:default_handler] to bukkit
-[19Dec2024 12:16:44.573] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[19Dec2024 12:16:44.573] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[19Dec2024 12:16:44.574] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[19Dec2024 12:16:44.600] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[19Dec2024 12:16:44.614] [Craft Scheduler Thread - 2/INFO] [Essentials/]: Obteniendo información de versión...
-[19Dec2024 12:16:44.614] [Craft Scheduler Thread - 2/INFO] [Essentials/]: Comprobación de actualización desactivada en config.
-[19Dec2024 12:16:44.686] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[19Dec2024 12:16:44.687] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[19Dec2024 12:16:44.687] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-[19Dec2024 12:16:44.687] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-[19Dec2024 12:16:44.687] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-[19Dec2024 12:16:44.687] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[19Dec2024 12:16:44.688] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[19Dec2024 12:16:44.688] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.0[0;39m
-[19Dec2024 12:16:44.688] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1mad418e4[0;39m
-[19Dec2024 12:16:44.688] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-[19Dec2024 12:16:44.689] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[19Dec2024 12:16:44.689] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-[19Dec2024 12:16:44.689] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-[19Dec2024 12:19:04.596] [Server thread/INFO] [Console/]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[19Dec2024 12:19:04.596] [Server thread/INFO] [Console/]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[19Dec2024 12:19:04.598] [Server thread/INFO] [ConditionalEvents/]: Disabling ConditionalEvents v4.59.1
-[19Dec2024 12:19:04.599] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been disabled! Version: 4.59.1
-[19Dec2024 12:19:04.601] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.5.0
-[19Dec2024 12:19:04.604] [Server thread/INFO] [EssentialsAntiBuild/]: Disabling EssentialsAntiBuild v2.20.1
-[19Dec2024 12:19:04.605] [Server thread/INFO] [Multiverse-Core/]: Disabling Multiverse-Core v4.3.11
-[19Dec2024 12:19:04.614] [Server thread/INFO] [WorldGuard/]: Disabling WorldGuard v7.0.9+5934e49
-[19Dec2024 12:19:04.615] [Server thread/INFO] [PlaceholderAPI/]: Disabling PlaceholderAPI v2.11.6
-[19Dec2024 12:19:04.616] [Server thread/INFO] [EssentialsChat/]: Disabling EssentialsChat v2.20.1
-[19Dec2024 12:19:04.617] [Server thread/INFO] [EssentialsSpawn/]: Disabling EssentialsSpawn v2.20.1
-[19Dec2024 12:19:04.618] [Server thread/INFO] [EssentialsProtect/]: Disabling EssentialsProtect v2.20.1
-[19Dec2024 12:19:04.618] [Server thread/INFO] [Essentials/]: Disabling Essentials v2.20.1
-[19Dec2024 12:19:04.619] [Server thread/ERROR] [Essentials/]: Hay una buena probabilidad de que estés recargando tu servidor en este momento. Si ese es el caso, ¿por qué te odias? No esperes soporte del equipo de EssentialsX al usar /reload.
-[19Dec2024 12:19:04.621] [Server thread/INFO] [WorldEdit/]: Disabling WorldEdit v7.3.0+6678-55745ad
-[19Dec2024 12:19:04.625] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[19Dec2024 12:19:04.628] [Server thread/INFO] [LuckPerms/]: Disabling LuckPerms v5.4.131
-[19Dec2024 12:19:04.628] [Server thread/INFO] [LuckPerms/]: Starting shutdown process...
-[19Dec2024 12:19:04.636] [Server thread/INFO] [LuckPerms/]: Closing storage...
-[19Dec2024 12:19:04.656] [Server thread/INFO] [LuckPerms/]: Goodbye!
-[19Dec2024 12:19:04.974] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[19Dec2024 12:19:05.016] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1702 advancements
-[19Dec2024 12:19:05.762] [Server thread/INFO] [LuckPerms/]: Loading LuckPerms v5.4.131
-[19Dec2024 12:19:05.956] [Server thread/INFO] [WorldEdit/]: Loading WorldEdit v7.3.0+6678-55745ad
-[19Dec2024 12:19:06.333] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@29b76c9e]
-[19Dec2024 12:19:06.338] [Server thread/INFO] [Essentials/]: Loading Essentials v2.20.1
-[19Dec2024 12:19:06.339] [Server thread/INFO] [EssentialsProtect/]: Loading EssentialsProtect v2.20.1
-[19Dec2024 12:19:06.339] [Server thread/INFO] [EssentialsSpawn/]: Loading EssentialsSpawn v2.20.1
-[19Dec2024 12:19:06.339] [Server thread/INFO] [EssentialsChat/]: Loading EssentialsChat v2.20.1
-[19Dec2024 12:19:06.339] [Server thread/INFO] [PlaceholderAPI/]: Loading PlaceholderAPI v2.11.6
-[19Dec2024 12:19:06.339] [Server thread/INFO] [WorldGuard/]: Loading WorldGuard v7.0.9+5934e49
-[19Dec2024 12:19:06.339] [Server thread/INFO] [Multiverse-Core/]: Loading Multiverse-Core v4.3.11
-[19Dec2024 12:19:06.357] [Server thread/INFO] [EssentialsAntiBuild/]: Loading EssentialsAntiBuild v2.20.1
-[19Dec2024 12:19:06.357] [Server thread/INFO] [SkinsRestorer/]: Loading SkinsRestorer v15.5.0
-[19Dec2024 12:19:06.358] [Server thread/INFO] [ConditionalEvents/]: Loading ConditionalEvents v4.59.1
-[19Dec2024 12:19:06.360] [Server thread/INFO] [LuckPerms/]: Enabling LuckPerms v5.4.131
-[19Dec2024 12:19:07.066] [Server thread/INFO] [Console/]:         __    
-[19Dec2024 12:19:07.066] [Server thread/INFO] [Console/]:   |    |__)   LuckPerms v5.4.131
-[19Dec2024 12:19:07.066] [Server thread/INFO] [Console/]:   |___ |      Running on Bukkit - Arclight
-[19Dec2024 12:19:07.066] [Server thread/INFO] [Console/]: 
-[19Dec2024 12:19:07.070] [Server thread/INFO] [LuckPerms/]: Loading configuration...
-[19Dec2024 12:19:07.335] [Server thread/INFO] [LuckPerms/]: Loading storage provider... [H2]
-[19Dec2024 12:19:08.427] [Server thread/INFO] [LuckPerms/]: Loading internal permission managers...
-[19Dec2024 12:19:08.540] [Server thread/INFO] [LuckPerms/]: Performing initial data load...
-[19Dec2024 12:19:08.668] [Server thread/INFO] [LuckPerms/]: Successfully enabled. (took 2307ms)
-[19Dec2024 12:19:08.669] [Server thread/INFO] [WorldEdit/]: Enabling WorldEdit v7.3.0+6678-55745ad
-[19Dec2024 12:19:08.672] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[19Dec2024 12:19:08.719] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Using the Bukkit Permissions API.
-[19Dec2024 12:19:08.722] [Server thread/WARN] [WorldEdit/]: Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
-[19Dec2024 12:19:08.874] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: 
-**********************************************
-** This WorldEdit version does not fully support your version of Bukkit.
-**
-** When working with blocks or undoing, chests will be empty, signs
-** will be blank, and so on. There will be no support for entity
-** and block property-related functions.
-**
-** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
-**********************************************
-
-[19Dec2024 12:19:09.115] [Server thread/INFO] [WorldEdit/]: ====================================================
-[19Dec2024 12:19:09.115] [Server thread/INFO] [WorldEdit/]:  WorldEdit works better if you use Paper 
-[19Dec2024 12:19:09.115] [Server thread/INFO] [WorldEdit/]:  as your server software. 
-[19Dec2024 12:19:09.115] [Server thread/INFO] [WorldEdit/]: ====================================================
-[19Dec2024 12:19:09.116] [Server thread/INFO] [SkinsRestorer/]: Enabling SkinsRestorer v15.5.0
-[19Dec2024 12:19:09.302] [Server thread/ERROR] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mSkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.[0;39m
-[19Dec2024 12:19:09.393] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-[19Dec2024 12:19:09.645] [Server thread/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.20.1[32;1m.[0;39m
-[19Dec2024 12:19:09.999] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: skinsrestorer [15.5.0]
-[19Dec2024 12:19:10.001] [Server thread/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mPlaceholderAPI expansion registered![0;39m
-[19Dec2024 12:19:10.009] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your Java runtime to at least Java 21 (your version is 17).[0;39m
-[19Dec2024 12:19:10.009] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mAt some point in the future, SkinsRestorer will no longer be compatible with this version of Java.[0;39m
-[19Dec2024 12:19:10.016] [Server thread/INFO] [Essentials/]: Enabling Essentials v2.20.1
-[19Dec2024 12:19:10.035] [Server thread/ERROR] [Essentials/]: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
-[19Dec2024 12:19:10.035] [Server thread/INFO] [Essentials/]: Status determining class: net.minecraftforge.common.MinecraftForge
-[19Dec2024 12:19:10.181] [Server thread/INFO] [Essentials/]: Attempting to convert old kits in config.yml to new kits.yml
-[19Dec2024 12:19:10.181] [Server thread/INFO] [Essentials/]: No kits found to migrate.
-[19Dec2024 12:19:10.333] [Server thread/INFO] [Essentials/]: Loaded 39094 items from items.json.
-[19Dec2024 12:19:10.335] [Server thread/INFO] [Essentials/]: Using locale es
-[19Dec2024 12:19:10.374] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
-[19Dec2024 12:19:10.414] [Server thread/INFO] [Essentials/]: Starting Metrics. Opt-out using the global bStats config.
-[19Dec2024 12:19:10.419] [Server thread/WARN] [Essentials/]: Detected supported permissions plugin LuckPerms without Vault installed.
-[19Dec2024 12:19:10.419] [Server thread/WARN] [Essentials/]: Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[19Dec2024 12:19:10.419] [Server thread/INFO] [Essentials/]: Using superperms-based permissions.
-[19Dec2024 12:19:10.420] [Server thread/INFO] [EssentialsProtect/]: Enabling EssentialsProtect v2.20.1
-[19Dec2024 12:19:10.421] [Server thread/INFO] [EssentialsProtect/]: Continuing to enable Protect.
-[19Dec2024 12:19:10.431] [Server thread/INFO] [EssentialsProtect/]: Starting Metrics. Opt-out using the global bStats config.
-[19Dec2024 12:19:10.432] [Server thread/INFO] [EssentialsSpawn/]: Enabling EssentialsSpawn v2.20.1
-[19Dec2024 12:19:10.437] [Server thread/INFO] [EssentialsSpawn/]: Starting Metrics. Opt-out using the global bStats config.
-[19Dec2024 12:19:10.439] [Server thread/INFO] [EssentialsChat/]: Enabling EssentialsChat v2.20.1
-[19Dec2024 12:19:10.446] [Server thread/INFO] [EssentialsChat/]: Starting Metrics. Opt-out using the global bStats config.
-[19Dec2024 12:19:10.447] [Server thread/INFO] [PlaceholderAPI/]: Enabling PlaceholderAPI v2.11.6
-[19Dec2024 12:19:10.630] [Server thread/INFO] [PlaceholderAPI/]: Fetching available expansion information...
-[19Dec2024 12:19:10.633] [Server thread/INFO] [WorldGuard/]: Enabling WorldGuard v7.0.9+5934e49
-[19Dec2024 12:19:10.842] [Server thread/INFO] [Multiverse-Core/]: Enabling Multiverse-Core v4.3.11
-[19Dec2024 12:19:10.850] [Server thread/WARN] [Multiverse-Core/]: "Multiverse-Core v4.3.11" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
-[19Dec2024 12:19:10.851] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
-[19Dec2024 12:19:11.003] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] 3 - World(s) loaded.
-[19Dec2024 12:19:11.009] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
-[19Dec2024 12:19:11.015] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Version 4.3.11 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
-[19Dec2024 12:19:11.018] [Server thread/INFO] [EssentialsAntiBuild/]: Enabling EssentialsAntiBuild v2.20.1
-[19Dec2024 12:19:11.024] [Server thread/INFO] [EssentialsAntiBuild/]: Starting Metrics. Opt-out using the global bStats config.
-[19Dec2024 12:19:11.025] [Server thread/INFO] [ConditionalEvents/]: Enabling ConditionalEvents v4.59.1
-[19Dec2024 12:19:11.060] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: conditionalevents [4.59.1]
-[19Dec2024 12:19:11.064] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been enabled! Version: 4.59.1
-[19Dec2024 12:19:11.064] [Server thread/INFO] [Console/]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
-[19Dec2024 12:19:11.140] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
-[19Dec2024 12:19:11.216] [Server thread/INFO] [PlaceholderAPI/]: Placeholder expansion registration initializing...
-[19Dec2024 12:19:11.219] [Server thread/INFO] [Console/]: 0 placeholder hook(s) registered!
-[19Dec2024 12:19:11.225] [Server thread/INFO] [Console/]: CONSOLE: Reload complete.
-[19Dec2024 12:19:11.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6586ms or 131 ticks behind
-[19Dec2024 12:19:11.228] [Craft Scheduler Thread - 7/INFO] [Essentials/]: Obteniendo información de versión...
-[19Dec2024 12:19:11.228] [Craft Scheduler Thread - 7/INFO] [Essentials/]: Comprobación de actualización desactivada en config.
-[19Dec2024 12:19:11.353] [Craft Scheduler Thread - 6/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[19Dec2024 12:19:11.354] [Craft Scheduler Thread - 6/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[19Dec2024 12:19:11.354] [Craft Scheduler Thread - 6/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-[19Dec2024 12:19:11.355] [Craft Scheduler Thread - 6/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-[19Dec2024 12:19:11.355] [Craft Scheduler Thread - 6/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-[19Dec2024 12:19:11.355] [Craft Scheduler Thread - 6/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[19Dec2024 12:19:11.356] [Craft Scheduler Thread - 6/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[19Dec2024 12:19:11.357] [Craft Scheduler Thread - 6/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.0[0;39m
-[19Dec2024 12:19:11.357] [Craft Scheduler Thread - 6/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1mad418e4[0;39m
-[19Dec2024 12:19:11.358] [Craft Scheduler Thread - 6/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-[19Dec2024 12:19:11.358] [Craft Scheduler Thread - 6/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[19Dec2024 12:19:11.359] [Craft Scheduler Thread - 6/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-[19Dec2024 12:19:11.360] [Craft Scheduler Thread - 6/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-[19Dec2024 12:19:39.162] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Minecraft_Apixel is 67bfdf0f-1495-38b9-baa1-a3d3621f83ab
-[19Dec2024 12:19:42.313] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Minecraft_Apixel[/127.130.66.250:45037] logged in with entity id 756 at (179.95955938260798, 76.0, 112.68664645062779)
-[19Dec2024 12:19:42.901] [Server thread/INFO] [Console/]: [+] Minecraft_Apixel ha ingresado
-[19Dec2024 12:19:43.161] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Minecraft_Apixel (18)
-[19Dec2024 12:19:43.163] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Minecraft_Apixel
-[19Dec2024 12:20:41.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
-[19Dec2024 12:20:43.275] [Server thread/ERROR] [STDERR/]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[19Dec2024 12:20:45.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2374ms or 47 ticks behind
-[19Dec2024 12:20:52.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
-[19Dec2024 12:21:07.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
-[19Dec2024 12:22:57.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[20Dec2024 01:01:55.096] [Server thread/INFO] [WorldEdit/]: ====================================================
+[20Dec2024 01:01:55.096] [Server thread/INFO] [WorldEdit/]:  WorldEdit works better if you use Paper 
+[20Dec2024 01:01:55.097] [Server thread/INFO] [WorldEdit/]:  as your server software. 
+[20Dec2024 01:01:55.097] [Server thread/INFO] [WorldEdit/]:   
+[20Dec2024 01:01:55.098] [Server thread/INFO] [WorldEdit/]:  Paper offers significant performance improvements,
+[20Dec2024 01:01:55.098] [Server thread/INFO] [WorldEdit/]:  bug fixes, security enhancements and optional
+[20Dec2024 01:01:55.099] [Server thread/INFO] [WorldEdit/]:  features for server owners to enhance their server.
+[20Dec2024 01:01:55.099] [Server thread/INFO] [WorldEdit/]:   
+[20Dec2024 01:01:55.100] [Server thread/INFO] [WorldEdit/]:  Paper includes Timings v2, which is significantly
+[20Dec2024 01:01:55.100] [Server thread/INFO] [WorldEdit/]:  better at diagnosing lag problems over v1.
+[20Dec2024 01:01:55.101] [Server thread/INFO] [WorldEdit/]:   
+[20Dec2024 01:01:55.101] [Server thread/INFO] [WorldEdit/]:  All of your plugins should still work, and the
+[20Dec2024 01:01:55.102] [Server thread/INFO] [WorldEdit/]:  Paper community will gladly help you fix any issues.
+[20Dec2024 01:01:55.102] [Server thread/INFO] [WorldEdit/]:   
+[20Dec2024 01:01:55.103] [Server thread/INFO] [WorldEdit/]:  Join the Paper Community @ https://papermc.io
+[20Dec2024 01:01:55.103] [Server thread/INFO] [WorldEdit/]: ====================================================
+[20Dec2024 01:01:55.104] [Server thread/INFO] [SkinsRestorer/]: Enabling SkinsRestorer v15.5.0
+[20Dec2024 01:01:55.539] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[20Dec2024 01:01:55.823] [Server thread/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.20.1[32;1m.[0;39m
+[20Dec2024 01:01:56.252] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: skinsrestorer [15.5.0]
+[20Dec2024 01:01:56.254] [Server thread/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mPlaceholderAPI expansion registered![0;39m
+[20Dec2024 01:01:56.262] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your Java runtime to at least Java 21 (your version is 17).[0;39m
+[20Dec2024 01:01:56.263] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mAt some point in the future, SkinsRestorer will no longer be compatible with this version of Java.[0;39m
+[20Dec2024 01:01:56.874] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[20Dec2024 01:01:56.874] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[20Dec2024 01:01:56.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[20Dec2024 01:01:56.921] [Server thread/INFO] [Arclight/]: 注册了 0 个新的世界类型
+[20Dec2024 01:01:57.321] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[20Dec2024 01:01:57.321] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[20Dec2024 01:01:57.321] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[20Dec2024 01:01:57.321] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20Dec2024 01:01:57.321] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[20Dec2024 01:01:57.321] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20Dec2024 01:01:57.321] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[20Dec2024 01:01:57.322] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[20Dec2024 01:01:57.322] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[20Dec2024 01:01:57.322] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[20Dec2024 01:01:57.322] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[20Dec2024 01:01:57.322] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[20Dec2024 01:01:57.322] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[20Dec2024 01:01:57.322] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[20Dec2024 01:01:57.322] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[20Dec2024 01:01:57.322] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[20Dec2024 01:01:57.322] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[20Dec2024 01:01:57.322] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[20Dec2024 01:01:57.322] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[20Dec2024 01:01:57.322] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[20Dec2024 01:01:57.322] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[20Dec2024 01:01:57.322] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[20Dec2024 01:01:57.322] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[20Dec2024 01:01:57.322] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[20Dec2024 01:01:57.322] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[20Dec2024 01:01:57.322] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[20Dec2024 01:01:57.322] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[20Dec2024 01:01:57.323] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[20Dec2024 01:01:57.323] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20Dec2024 01:01:57.323] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[20Dec2024 01:01:57.323] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20Dec2024 01:01:57.323] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[20Dec2024 01:01:57.323] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[20Dec2024 01:01:57.323] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[20Dec2024 01:01:57.323] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[20Dec2024 01:01:57.324] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[20Dec2024 01:01:59.930] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM-1] --------
+[20Dec2024 01:01:59.931] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[20Dec2024 01:01:59.932] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[20Dec2024 01:01:59.932] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20Dec2024 01:01:59.933] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[20Dec2024 01:01:59.933] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[20Dec2024 01:01:59.934] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[20Dec2024 01:01:59.990] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM1] --------
+[20Dec2024 01:01:59.990] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[20Dec2024 01:01:59.990] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[20Dec2024 01:01:59.991] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20Dec2024 01:01:59.991] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[20Dec2024 01:01:59.992] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20Dec2024 01:01:59.993] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[20Dec2024 01:01:59.993] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[20Dec2024 01:01:59.994] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[20Dec2024 01:01:59.994] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[20Dec2024 01:01:59.995] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[20Dec2024 01:01:59.995] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[20Dec2024 01:01:59.995] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[20Dec2024 01:01:59.995] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[20Dec2024 01:01:59.995] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[20Dec2024 01:01:59.995] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[20Dec2024 01:01:59.995] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[20Dec2024 01:01:59.995] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[20Dec2024 01:01:59.995] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[20Dec2024 01:01:59.995] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[20Dec2024 01:01:59.995] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[20Dec2024 01:01:59.995] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[20Dec2024 01:01:59.995] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[20Dec2024 01:01:59.995] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[20Dec2024 01:01:59.995] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[20Dec2024 01:01:59.995] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[20Dec2024 01:01:59.995] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[20Dec2024 01:01:59.995] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[20Dec2024 01:01:59.995] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[20Dec2024 01:01:59.996] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[20Dec2024 01:01:59.996] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20Dec2024 01:01:59.996] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[20Dec2024 01:01:59.996] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[20Dec2024 01:01:59.996] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[20Dec2024 01:01:59.996] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[20Dec2024 01:01:59.996] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[20Dec2024 01:02:00.009] [Server thread/INFO] [Essentials/]: Enabling Essentials v2.20.1
+[20Dec2024 01:02:00.033] [Server thread/ERROR] [Essentials/]: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
+[20Dec2024 01:02:00.033] [Server thread/INFO] [Essentials/]: Status determining class: net.minecraftforge.common.MinecraftForge
+[20Dec2024 01:02:00.257] [Server thread/INFO] [Essentials/]: Attempting to convert old kits in config.yml to new kits.yml
+[20Dec2024 01:02:00.257] [Server thread/INFO] [Essentials/]: No kits found to migrate.
+[20Dec2024 01:02:00.439] [Server thread/INFO] [Essentials/]: Loaded 39094 items from items.json.
+[20Dec2024 01:02:00.451] [Server thread/INFO] [Essentials/]: Using locale es
+[20Dec2024 01:02:00.515] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
+[20Dec2024 01:02:00.563] [Server thread/INFO] [Essentials/]: Starting Metrics. Opt-out using the global bStats config.
+[20Dec2024 01:02:00.567] [Server thread/WARN] [Essentials/]: Detected supported permissions plugin LuckPerms without Vault installed.
+[20Dec2024 01:02:00.567] [Server thread/WARN] [Essentials/]: Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[20Dec2024 01:02:00.567] [Server thread/INFO] [Essentials/]: Using superperms-based permissions.
+[20Dec2024 01:02:00.568] [Server thread/INFO] [EssentialsProtect/]: Enabling EssentialsProtect v2.20.1
+[20Dec2024 01:02:00.570] [Server thread/INFO] [EssentialsProtect/]: Continuing to enable Protect.
+[20Dec2024 01:02:00.583] [Server thread/INFO] [EssentialsProtect/]: Starting Metrics. Opt-out using the global bStats config.
+[20Dec2024 01:02:00.584] [Server thread/INFO] [EssentialsSpawn/]: Enabling EssentialsSpawn v2.20.1
+[20Dec2024 01:02:00.591] [Server thread/INFO] [EssentialsSpawn/]: Starting Metrics. Opt-out using the global bStats config.
+[20Dec2024 01:02:00.592] [Server thread/INFO] [EssentialsChat/]: Enabling EssentialsChat v2.20.1
+[20Dec2024 01:02:00.602] [Server thread/INFO] [EssentialsChat/]: Starting Metrics. Opt-out using the global bStats config.
+[20Dec2024 01:02:00.603] [Server thread/INFO] [PlaceholderAPI/]: Enabling PlaceholderAPI v2.11.6
+[20Dec2024 01:02:00.787] [Server thread/INFO] [PlaceholderAPI/]: Fetching available expansion information...
+[20Dec2024 01:02:00.791] [Server thread/INFO] [WorldGuard/]: Enabling WorldGuard v7.0.9+5934e49
+[20Dec2024 01:02:01.100] [Server thread/INFO] [Multiverse-Core/]: Enabling Multiverse-Core v4.3.11
+[20Dec2024 01:02:01.108] [Server thread/WARN] [Multiverse-Core/]: "Multiverse-Core v4.3.11" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[20Dec2024 01:02:01.109] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[20Dec2024 01:02:01.286] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] 3 - World(s) loaded.
+[20Dec2024 01:02:01.295] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[20Dec2024 01:02:01.302] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Version 4.3.11 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[20Dec2024 01:02:01.305] [Server thread/INFO] [EssentialsAntiBuild/]: Enabling EssentialsAntiBuild v2.20.1
+[20Dec2024 01:02:01.314] [Server thread/INFO] [EssentialsAntiBuild/]: Starting Metrics. Opt-out using the global bStats config.
+[20Dec2024 01:02:01.316] [Server thread/INFO] [ConditionalEvents/]: Enabling ConditionalEvents v4.59.1
+[20Dec2024 01:02:01.359] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: conditionalevents [4.59.1]
+[20Dec2024 01:02:01.363] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been enabled! Version: 4.59.1
+[20Dec2024 01:02:01.363] [Server thread/INFO] [Console/]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[20Dec2024 01:02:01.486] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[20Dec2024 01:02:01.592] [Server thread/INFO] [PlaceholderAPI/]: Placeholder expansion registration initializing...
+[20Dec2024 01:02:01.595] [Server thread/INFO] [Console/]: 0 placeholder hook(s) registered!
+[20Dec2024 01:02:01.600] [Server thread/INFO] [net.regions_unexplored.RegionsUnexploredMod/]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
+[20Dec2024 01:02:01.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[20Dec2024 01:02:07.106] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 01:02:07.111] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 01:02:07.112] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 01:02:07.112] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 01:02:07.112] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 01:02:07.114] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 01:02:07.114] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 01:02:07.115] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 01:02:07.115] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 01:02:07.116] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 01:02:07.116] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 01:02:07.117] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 01:02:07.602] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 01:02:08.103] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Dec2024 01:02:08.601] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
+[20Dec2024 01:02:10.154] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[20Dec2024 01:02:10.154] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[20Dec2024 01:02:10.154] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[20Dec2024 01:02:10.601] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[20Dec2024 01:02:11.173] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[20Dec2024 01:02:12.507] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[20Dec2024 01:02:12.508] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[20Dec2024 01:02:12.521] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10921 ms
+[20Dec2024 01:02:12.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.256s)! For help, type "help"
+[20Dec2024 01:02:12.588] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[20Dec2024 01:02:12.588] [Server thread/INFO] [Arclight/]: Forwarding forge permission[forge:default_handler] to bukkit
+[20Dec2024 01:02:12.595] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[20Dec2024 01:02:12.595] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[20Dec2024 01:02:12.596] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[20Dec2024 01:02:12.654] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[20Dec2024 01:02:12.713] [Craft Scheduler Thread - 0/INFO] [Essentials/]: Obteniendo información de versión...
+[20Dec2024 01:02:12.714] [Craft Scheduler Thread - 0/INFO] [Essentials/]: Comprobación de actualización desactivada en config.
+[20Dec2024 01:02:12.792] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[20Dec2024 01:02:12.792] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[20Dec2024 01:02:12.792] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[20Dec2024 01:02:12.792] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[20Dec2024 01:02:12.793] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[20Dec2024 01:02:12.793] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[20Dec2024 01:02:12.793] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[20Dec2024 01:02:12.793] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.0[0;39m
+[20Dec2024 01:02:12.793] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1mad418e4[0;39m
+[20Dec2024 01:02:12.793] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[20Dec2024 01:02:12.793] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[20Dec2024 01:02:12.793] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[20Dec2024 01:02:12.793] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[20Dec2024 01:02:21.206] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Minecraft_Apixel is 67bfdf0f-1495-38b9-baa1-a3d3621f83ab
+[20Dec2024 01:02:26.633] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Minecraft_Apixel[/127.130.66.250:53283] logged in with entity id 483 at (0.5, 0.0, 0.5)
+[20Dec2024 01:02:27.251] [Server thread/INFO] [Console/]: [+] Minecraft_Apixel ha ingresado
+[20Dec2024 01:02:30.313] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Minecraft_Apixel (18)
+[20Dec2024 01:02:30.315] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Minecraft_Apixel
+[20Dec2024 01:02:48.089] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /kill Minecraft_Apixel
+[20Dec2024 01:02:48.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minecraft_Apixel died
+[20Dec2024 01:02:48.309] [Server thread/WARN] [ConditionalEvents/]: Task #32 for ConditionalEvents v4.59.1 generated an exception
+java.lang.NumberFormatException: For input string: "%death_x%"
+	at jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054) ~[?:?] {}
+	at jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110) ~[?:?] {}
+	at java.lang.Double.parseDouble(Double.java:651) ~[?:?] {re:mixin,re:mixin}
+	at java.lang.Double.valueOf(Double.java:614) ~[?:?] {re:mixin,re:mixin}
+	at ce.ajneb97.utils.ActionUtils.teleport(ActionUtils.java:95) ~[?:?] {}
+	at ce.ajneb97.model.internal.ExecutedEvent.executeAction(ExecutedEvent.java:335) ~[?:?] {}
+	at ce.ajneb97.model.internal.ExecutedEvent.executeActionsFinal(ExecutedEvent.java:206) ~[?:?] {}
+	at ce.ajneb97.model.internal.ExecutedEvent.continueWithActions(ExecutedEvent.java:116) ~[?:?] {}
+	at ce.ajneb97.utils.ActionUtils$2.run(ActionUtils.java:764) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23186!/:arclight-1.20.1-1.0.5-1a8925b] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftSchedulerMixin.java:415) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23186!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftSchedulerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.handler$zkd000$arclight$runScheduler(MinecraftServerMixin.java:2309) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.dedicated.DedicatedServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin,re:mixin}
+[20Dec2024 01:02:56.783] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[20Dec2024 01:04:39.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel lost connection: Disconnected
+[20Dec2024 01:04:39.907] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Minecraft_Apixel
+[20Dec2024 01:04:39.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [-] Minecraft_Apixel se ha ido
+[20Dec2024 01:04:58.849] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Minecraft_Apixel is 67bfdf0f-1495-38b9-baa1-a3d3621f83ab
+[20Dec2024 01:05:02.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Minecraft_Apixel[/127.130.66.250:45983] logged in with entity id 1108 at (181.26450970746743, 77.13923560769291, 125.84435240356804)
+[20Dec2024 01:05:02.354] [Server thread/INFO] [Console/]: [+] Minecraft_Apixel ha ingresado
+[20Dec2024 01:05:02.906] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Minecraft_Apixel (18)
+[20Dec2024 01:05:02.907] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Minecraft_Apixel
+[20Dec2024 01:05:11.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[20Dec2024 01:06:54.034] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Alvforever01 is 9bcbb254-0179-35b7-b338-e062cc537c4f
+[20Dec2024 01:06:54.307] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7f576427[id=9bcbb254-0179-35b7-b338-e062cc537c4f,name=Alvforever01,properties={},legacy=false] (/127.100.119.51:39943) lost connection: Disconnected
+[20Dec2024 01:08:35.400] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player DonPichulaxdxd is ac1e62ec-fcff-36ad-bfe4-5329d524ef4e
+[20Dec2024 01:08:37.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonPichulaxdxd[/127.227.4.37:60775] logged in with entity id 1730 at (192.72478147192237, 73.0, 85.49078469700224)
+[20Dec2024 01:08:37.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonPichulaxdxd has made the advancement [Ice and Fire]
+[20Dec2024 01:08:37.326] [Server thread/INFO] [Console/]: [+] DonPichulaxdxd ha ingresado
+[20Dec2024 01:08:37.956] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DonPichulaxdxd (18)
+[20Dec2024 01:08:37.956] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DonPichulaxdxd
+[20Dec2024 01:09:21.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel lost connection: Disconnected
+[20Dec2024 01:09:21.553] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Minecraft_Apixel
+[20Dec2024 01:09:21.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [-] Minecraft_Apixel se ha ido
+[20Dec2024 01:09:26.229] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Minecraft_Apixel is 67bfdf0f-1495-38b9-baa1-a3d3621f83ab
+[20Dec2024 01:09:28.992] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Alvforever01 is 9bcbb254-0179-35b7-b338-e062cc537c4f
+[20Dec2024 01:09:29.067] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Minecraft_Apixel[/127.130.66.250:46407] logged in with entity id 1837 at (190.0185087599344, 74.0, 91.63117918969742)
+[20Dec2024 01:09:29.128] [Server thread/INFO] [Console/]: [+] Minecraft_Apixel ha ingresado
+[20Dec2024 01:09:29.420] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Minecraft_Apixel (18)
+[20Dec2024 01:09:29.421] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Minecraft_Apixel
+[20Dec2024 01:09:30.907] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alvforever01[/127.100.119.51:38889] logged in with entity id 1844 at (58.5, 66.0, 125.5)
+[20Dec2024 01:09:30.921] [Server thread/INFO] [Essentials/]: Created a User for Alvforever01 (9bcbb254-0179-35b7-b338-e062cc537c4f) for non Bukkit type: org.bukkit.craftbukkit.v1_20_R1.entity.CraftPlayer
+[20Dec2024 01:09:30.972] [Server thread/INFO] [Console/]: [+] Alvforever01 ha ingresado
+[20Dec2024 01:09:30.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alvforever01 has made the advancement [Ice and Fire]
+[20Dec2024 01:09:31.621] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Alvforever01 (18)
+[20Dec2024 01:09:31.622] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Alvforever01
+[20Dec2024 01:10:01.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[20Dec2024 01:10:36.515] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /gamemode creative
