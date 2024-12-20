@@ -16,15 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
-  login: 1734656970970
+  logout: 1734657559705
+  login: 1734657461118
 money: '0'
 last-account-name: Alvforever01
 lastlocation:
   world: 52133184-a1a7-4172-b353-47a9299a1224
   world-name: world
-  x: 64.0
-  y: 65.0
-  z: 128.0
-  yaw: 0.0
-  pitch: 0.0
+  x: 172.4453126581745
+  y: 75.0
+  z: 118.74035160280644
+  yaw: 109.65050506591797
+  pitch: 26.249954223632812
+logoutlocation:
+  world: 52133184-a1a7-4172-b353-47a9299a1224
+  world-name: world
+  x: 181.88134541302384
+  y: 76.0
+  z: 120.10579522738266
+  yaw: -5.8490309715271
+  pitch: 18.150110244750977

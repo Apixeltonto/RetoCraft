@@ -615,3 +615,292 @@ java.lang.NumberFormatException: For input string: "%death_x%"
 [20Dec2024 01:09:31.622] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Alvforever01
 [20Dec2024 01:10:01.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
 [20Dec2024 01:10:36.515] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /gamemode creative
+[20Dec2024 01:12:31.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /give Alvforever01 minecraft:totem_of_undying 64
+[20Dec2024 01:12:41.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alvforever01 has reached the goal [Postmortal]
+[20Dec2024 01:12:41.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Alvforever01 to 0]
+[20Dec2024 01:12:42.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Alvforever01 to 0]
+[20Dec2024 01:12:49.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Alvforever01 to 0]
+[20Dec2024 01:12:50.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alvforever01 was slain by Warden
+[20Dec2024 01:12:50.299] [Server thread/WARN] [ConditionalEvents/]: Task #94 for ConditionalEvents v4.59.1 generated an exception
+java.lang.NumberFormatException: For input string: "%death_x%"
+	at jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054) ~[?:?] {}
+	at jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110) ~[?:?] {}
+	at java.lang.Double.parseDouble(Double.java:651) ~[?:?] {re:mixin,re:mixin}
+	at java.lang.Double.valueOf(Double.java:614) ~[?:?] {re:mixin,re:mixin}
+	at ce.ajneb97.utils.ActionUtils.teleport(ActionUtils.java:95) ~[?:?] {}
+	at ce.ajneb97.model.internal.ExecutedEvent.executeAction(ExecutedEvent.java:335) ~[?:?] {}
+	at ce.ajneb97.model.internal.ExecutedEvent.executeActionsFinal(ExecutedEvent.java:206) ~[?:?] {}
+	at ce.ajneb97.model.internal.ExecutedEvent.continueWithActions(ExecutedEvent.java:116) ~[?:?] {}
+	at ce.ajneb97.utils.ActionUtils$2.run(ActionUtils.java:764) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23186!/:arclight-1.20.1-1.0.5-1a8925b] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftSchedulerMixin.java:415) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23186!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftSchedulerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.handler$zkd000$arclight$runScheduler(MinecraftServerMixin.java:2309) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.dedicated.DedicatedServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin,re:mixin}
+[20Dec2024 01:13:11.563] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative Alvforever01
+[20Dec2024 01:13:20.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode 0 Alvforever01
+[20Dec2024 01:13:23.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alvforever01 lost connection: Disconnected
+[20Dec2024 01:13:23.554] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Alvforever01
+[20Dec2024 01:13:23.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [-] Alvforever01 se ha ido
+[20Dec2024 01:13:58.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /give Minecraft_Apixel minecraft:totem_of_undying 64
+[20Dec2024 01:14:46.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gm 0
+[20Dec2024 01:14:50.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[20Dec2024 01:14:52.323] [Server thread/ERROR] [STDERR/]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[20Dec2024 01:14:54.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2529ms or 50 ticks behind
+[20Dec2024 01:14:54.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd moved too quickly! 9.939456209081953,-0.24601379826124514,8.477419022901046
+[20Dec2024 01:14:55.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[20Dec2024 01:14:56.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[20Dec2024 01:14:57.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[20Dec2024 01:15:02.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[20Dec2024 01:15:08.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[20Dec2024 01:15:09.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[20Dec2024 01:15:10.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[20Dec2024 01:15:11.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minecraft_Apixel was slain by Warden
+[20Dec2024 01:15:11.449] [Server thread/WARN] [ConditionalEvents/]: Task #104 for ConditionalEvents v4.59.1 generated an exception
+java.lang.NumberFormatException: For input string: "%death_x%"
+	at jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054) ~[?:?] {}
+	at jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110) ~[?:?] {}
+	at java.lang.Double.parseDouble(Double.java:651) ~[?:?] {re:mixin,re:mixin}
+	at java.lang.Double.valueOf(Double.java:614) ~[?:?] {re:mixin,re:mixin}
+	at ce.ajneb97.utils.ActionUtils.teleport(ActionUtils.java:95) ~[?:?] {}
+	at ce.ajneb97.model.internal.ExecutedEvent.executeAction(ExecutedEvent.java:335) ~[?:?] {}
+	at ce.ajneb97.model.internal.ExecutedEvent.executeActionsFinal(ExecutedEvent.java:206) ~[?:?] {}
+	at ce.ajneb97.model.internal.ExecutedEvent.continueWithActions(ExecutedEvent.java:116) ~[?:?] {}
+	at ce.ajneb97.utils.ActionUtils$2.run(ActionUtils.java:764) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23186!/:arclight-1.20.1-1.0.5-1a8925b] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftSchedulerMixin.java:415) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23186!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftSchedulerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.handler$zkd000$arclight$runScheduler(MinecraftServerMixin.java:2309) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.dedicated.DedicatedServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin,re:mixin}
+[20Dec2024 01:15:20.903] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[20Dec2024 01:15:26.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gm 0
+[20Dec2024 01:15:27.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[20Dec2024 01:15:29.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[20Dec2024 01:15:31.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[20Dec2024 01:15:32.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[20Dec2024 01:15:33.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[20Dec2024 01:15:34.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[20Dec2024 01:15:35.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[20Dec2024 01:15:44.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[20Dec2024 01:15:45.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[20Dec2024 01:15:46.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minecraft_Apixel was slain by Warden
+[20Dec2024 01:15:46.698] [Server thread/WARN] [ConditionalEvents/]: Task #108 for ConditionalEvents v4.59.1 generated an exception
+java.lang.NumberFormatException: For input string: "%death_x%"
+	at jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054) ~[?:?] {}
+	at jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110) ~[?:?] {}
+	at java.lang.Double.parseDouble(Double.java:651) ~[?:?] {re:mixin,re:mixin}
+	at java.lang.Double.valueOf(Double.java:614) ~[?:?] {re:mixin,re:mixin}
+	at ce.ajneb97.utils.ActionUtils.teleport(ActionUtils.java:95) ~[?:?] {}
+	at ce.ajneb97.model.internal.ExecutedEvent.executeAction(ExecutedEvent.java:335) ~[?:?] {}
+	at ce.ajneb97.model.internal.ExecutedEvent.executeActionsFinal(ExecutedEvent.java:206) ~[?:?] {}
+	at ce.ajneb97.model.internal.ExecutedEvent.continueWithActions(ExecutedEvent.java:116) ~[?:?] {}
+	at ce.ajneb97.utils.ActionUtils$2.run(ActionUtils.java:764) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23186!/:arclight-1.20.1-1.0.5-1a8925b] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftSchedulerMixin.java:415) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23186!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftSchedulerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.handler$zkd000$arclight$runScheduler(MinecraftServerMixin.java:2309) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.dedicated.DedicatedServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin,re:mixin}
+[20Dec2024 01:15:54.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode survival
+[20Dec2024 01:15:55.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[20Dec2024 01:15:56.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[20Dec2024 01:15:58.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[20Dec2024 01:15:59.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[20Dec2024 01:15:59.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[20Dec2024 01:16:01.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Minecraft_Apixel to 0]
+[20Dec2024 01:16:01.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minecraft_Apixel was slain by Warden
+[20Dec2024 01:16:02.198] [Server thread/WARN] [ConditionalEvents/]: Task #111 for ConditionalEvents v4.59.1 generated an exception
+java.lang.NumberFormatException: For input string: "%death_x%"
+	at jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054) ~[?:?] {}
+	at jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110) ~[?:?] {}
+	at java.lang.Double.parseDouble(Double.java:651) ~[?:?] {re:mixin,re:mixin}
+	at java.lang.Double.valueOf(Double.java:614) ~[?:?] {re:mixin,re:mixin}
+	at ce.ajneb97.utils.ActionUtils.teleport(ActionUtils.java:95) ~[?:?] {}
+	at ce.ajneb97.model.internal.ExecutedEvent.executeAction(ExecutedEvent.java:335) ~[?:?] {}
+	at ce.ajneb97.model.internal.ExecutedEvent.executeActionsFinal(ExecutedEvent.java:206) ~[?:?] {}
+	at ce.ajneb97.model.internal.ExecutedEvent.continueWithActions(ExecutedEvent.java:116) ~[?:?] {}
+	at ce.ajneb97.utils.ActionUtils$2.run(ActionUtils.java:764) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23186!/:arclight-1.20.1-1.0.5-1a8925b] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftSchedulerMixin.java:415) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23186!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftSchedulerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.handler$zkd000$arclight$runScheduler(MinecraftServerMixin.java:2309) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.dedicated.DedicatedServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin,re:mixin}
+[20Dec2024 01:17:23.911] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Alvforever01 is 9bcbb254-0179-35b7-b338-e062cc537c4f
+[20Dec2024 01:17:41.060] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alvforever01[/127.100.119.51:37581] logged in with entity id 3090 at (182.81177119974188, 76.0, 123.57874594123395)
+[20Dec2024 01:17:41.149] [Server thread/INFO] [Console/]: [+] Alvforever01 ha ingresado
+[20Dec2024 01:17:41.882] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Alvforever01 (18)
+[20Dec2024 01:17:41.883] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Alvforever01
+[20Dec2024 01:18:08.503] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[20Dec2024 01:18:12.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonPichulaxdxd issued server command: /tp Alvforever01 DonPichulaxdxd
+[20Dec2024 01:18:19.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Alvforever01 to 0]
+[20Dec2024 01:18:24.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Alvforever01 to 0]
+[20Dec2024 01:18:25.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Set [usototem] for Alvforever01 to 0]
+[20Dec2024 01:18:26.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alvforever01 was slain by Warden
+[20Dec2024 01:18:27.098] [Server thread/WARN] [ConditionalEvents/]: Task #123 for ConditionalEvents v4.59.1 generated an exception
+java.lang.NumberFormatException: For input string: "%death_x%"
+	at jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054) ~[?:?] {}
+	at jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110) ~[?:?] {}
+	at java.lang.Double.parseDouble(Double.java:651) ~[?:?] {re:mixin,re:mixin}
+	at java.lang.Double.valueOf(Double.java:614) ~[?:?] {re:mixin,re:mixin}
+	at ce.ajneb97.utils.ActionUtils.teleport(ActionUtils.java:95) ~[?:?] {}
+	at ce.ajneb97.model.internal.ExecutedEvent.executeAction(ExecutedEvent.java:335) ~[?:?] {}
+	at ce.ajneb97.model.internal.ExecutedEvent.executeActionsFinal(ExecutedEvent.java:206) ~[?:?] {}
+	at ce.ajneb97.model.internal.ExecutedEvent.continueWithActions(ExecutedEvent.java:116) ~[?:?] {}
+	at ce.ajneb97.utils.ActionUtils$2.run(ActionUtils.java:764) ~[?:?] {}
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:82) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23186!/:arclight-1.20.1-1.0.5-1a8925b] {re:classloading}
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftSchedulerMixin.java:415) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23186!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftSchedulerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.handler$zkd000$arclight$runScheduler(MinecraftServerMixin.java:2309) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServerMixin.java) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.dedicated.DedicatedServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23211!/:?] {re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,re:classloading,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:APP:ru.mixin.json:MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B,xf:fml:xaerominimap:xaero_minecraftserver,xf:fml:xaeroworldmap:xaero_wm_minecraftserver}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin,re:mixin}
+[20Dec2024 01:18:28.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Minecraft_Apixel has made the advancement [Draconic Evolution]
+[20Dec2024 01:18:38.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative Alvforever01
+[20Dec2024 01:19:19.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alvforever01 lost connection: Disconnected
+[20Dec2024 01:19:19.704] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Alvforever01
+[20Dec2024 01:19:19.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [-] Alvforever01 se ha ido
+[20Dec2024 01:20:21.905] [Server thread/INFO] [Console/]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[20Dec2024 01:20:21.905] [Server thread/INFO] [Console/]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[20Dec2024 01:20:21.907] [Server thread/INFO] [ConditionalEvents/]: Disabling ConditionalEvents v4.59.1
+[20Dec2024 01:20:21.908] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been disabled! Version: 4.59.1
+[20Dec2024 01:20:21.910] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.5.0
+[20Dec2024 01:20:21.986] [Server thread/INFO] [EssentialsAntiBuild/]: Disabling EssentialsAntiBuild v2.20.1
+[20Dec2024 01:20:21.987] [Server thread/INFO] [Multiverse-Core/]: Disabling Multiverse-Core v4.3.11
+[20Dec2024 01:20:21.992] [Server thread/INFO] [WorldGuard/]: Disabling WorldGuard v7.0.9+5934e49
+[20Dec2024 01:20:21.993] [Server thread/INFO] [PlaceholderAPI/]: Disabling PlaceholderAPI v2.11.6
+[20Dec2024 01:20:21.993] [Server thread/INFO] [EssentialsChat/]: Disabling EssentialsChat v2.20.1
+[20Dec2024 01:20:21.995] [Server thread/INFO] [EssentialsSpawn/]: Disabling EssentialsSpawn v2.20.1
+[20Dec2024 01:20:21.995] [Server thread/INFO] [EssentialsProtect/]: Disabling EssentialsProtect v2.20.1
+[20Dec2024 01:20:21.995] [Server thread/INFO] [Essentials/]: Disabling Essentials v2.20.1
+[20Dec2024 01:20:21.995] [Server thread/ERROR] [Essentials/]: Hay una buena probabilidad de que estés recargando tu servidor en este momento. Si ese es el caso, ¿por qué te odias? No esperes soporte del equipo de EssentialsX al usar /reload.
+[20Dec2024 01:20:21.999] [Server thread/INFO] [WorldEdit/]: Disabling WorldEdit v7.3.0+6678-55745ad
+[20Dec2024 01:20:22.004] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[20Dec2024 01:20:22.005] [Server thread/INFO] [LuckPerms/]: Disabling LuckPerms v5.4.131
+[20Dec2024 01:20:22.006] [Server thread/INFO] [LuckPerms/]: Starting shutdown process...
+[20Dec2024 01:20:22.012] [Server thread/INFO] [LuckPerms/]: Closing storage...
+[20Dec2024 01:20:22.036] [Server thread/INFO] [LuckPerms/]: Goodbye!
+[20Dec2024 01:20:22.569] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[20Dec2024 01:20:22.653] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2557 advancements
+[20Dec2024 01:20:23.479] [Server thread/INFO] [LuckPerms/]: Loading LuckPerms v5.4.131
+[20Dec2024 01:20:23.646] [Server thread/INFO] [WorldEdit/]: Loading WorldEdit v7.3.0+6678-55745ad
+[20Dec2024 01:20:23.957] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@762ab02a]
+[20Dec2024 01:20:23.961] [Server thread/INFO] [Essentials/]: Loading Essentials v2.20.1
+[20Dec2024 01:20:23.962] [Server thread/INFO] [EssentialsProtect/]: Loading EssentialsProtect v2.20.1
+[20Dec2024 01:20:23.962] [Server thread/INFO] [EssentialsSpawn/]: Loading EssentialsSpawn v2.20.1
+[20Dec2024 01:20:23.962] [Server thread/INFO] [EssentialsChat/]: Loading EssentialsChat v2.20.1
+[20Dec2024 01:20:23.962] [Server thread/INFO] [PlaceholderAPI/]: Loading PlaceholderAPI v2.11.6
+[20Dec2024 01:20:23.962] [Server thread/INFO] [WorldGuard/]: Loading WorldGuard v7.0.9+5934e49
+[20Dec2024 01:20:23.962] [Server thread/INFO] [Multiverse-Core/]: Loading Multiverse-Core v4.3.11
+[20Dec2024 01:20:23.979] [Server thread/INFO] [EssentialsAntiBuild/]: Loading EssentialsAntiBuild v2.20.1
+[20Dec2024 01:20:23.979] [Server thread/INFO] [SkinsRestorer/]: Loading SkinsRestorer v15.5.0
+[20Dec2024 01:20:23.979] [Server thread/INFO] [ConditionalEvents/]: Loading ConditionalEvents v4.59.1
+[20Dec2024 01:20:23.981] [Server thread/INFO] [LuckPerms/]: Enabling LuckPerms v5.4.131
+[20Dec2024 01:20:24.550] [Server thread/INFO] [Console/]:         __    
+[20Dec2024 01:20:24.550] [Server thread/INFO] [Console/]:   |    |__)   LuckPerms v5.4.131
+[20Dec2024 01:20:24.551] [Server thread/INFO] [Console/]:   |___ |      Running on Bukkit - Arclight
+[20Dec2024 01:20:24.551] [Server thread/INFO] [Console/]: 
+[20Dec2024 01:20:24.555] [Server thread/INFO] [LuckPerms/]: Loading configuration...
+[20Dec2024 01:20:24.845] [Server thread/INFO] [LuckPerms/]: Loading storage provider... [H2]
+[20Dec2024 01:20:26.191] [Server thread/INFO] [LuckPerms/]: Loading internal permission managers...
+[20Dec2024 01:20:26.374] [Server thread/INFO] [LuckPerms/]: Performing initial data load...
+[20Dec2024 01:20:26.564] [Server thread/INFO] [LuckPerms/]: Successfully enabled. (took 2583ms)
+[20Dec2024 01:20:26.566] [Server thread/INFO] [WorldEdit/]: Enabling WorldEdit v7.3.0+6678-55745ad
+[20Dec2024 01:20:26.569] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[20Dec2024 01:20:26.636] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Using the Bukkit Permissions API.
+[20Dec2024 01:20:26.640] [Server thread/WARN] [WorldEdit/]: Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[20Dec2024 01:20:26.888] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and block property-related functions.
+**
+** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
+**********************************************
+
+[20Dec2024 01:20:27.081] [Server thread/INFO] [WorldEdit/]: ====================================================
+[20Dec2024 01:20:27.081] [Server thread/INFO] [WorldEdit/]:  WorldEdit works better if you use Paper 
+[20Dec2024 01:20:27.081] [Server thread/INFO] [WorldEdit/]:  as your server software. 
+[20Dec2024 01:20:27.081] [Server thread/INFO] [WorldEdit/]: ====================================================
+[20Dec2024 01:20:27.082] [Server thread/INFO] [SkinsRestorer/]: Enabling SkinsRestorer v15.5.0
+[20Dec2024 01:20:27.244] [Server thread/ERROR] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mSkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.[0;39m
+[20Dec2024 01:20:27.326] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[20Dec2024 01:20:27.522] [Server thread/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.20.1[32;1m.[0;39m
+[20Dec2024 01:20:27.885] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: skinsrestorer [15.5.0]
+[20Dec2024 01:20:27.888] [Server thread/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mPlaceholderAPI expansion registered![0;39m
+[20Dec2024 01:20:27.898] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your Java runtime to at least Java 21 (your version is 17).[0;39m
+[20Dec2024 01:20:27.898] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mAt some point in the future, SkinsRestorer will no longer be compatible with this version of Java.[0;39m
+[20Dec2024 01:20:27.904] [Server thread/INFO] [Essentials/]: Enabling Essentials v2.20.1
+[20Dec2024 01:20:27.940] [Server thread/ERROR] [Essentials/]: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
+[20Dec2024 01:20:27.940] [Server thread/INFO] [Essentials/]: Status determining class: net.minecraftforge.common.MinecraftForge
+[20Dec2024 01:20:28.151] [Server thread/INFO] [Essentials/]: Attempting to convert old kits in config.yml to new kits.yml
+[20Dec2024 01:20:28.151] [Server thread/INFO] [Essentials/]: No kits found to migrate.
+[20Dec2024 01:20:28.342] [Server thread/INFO] [Essentials/]: Loaded 39094 items from items.json.
+[20Dec2024 01:20:28.344] [Server thread/INFO] [Essentials/]: Using locale es
+[20Dec2024 01:20:28.370] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
+[20Dec2024 01:20:28.408] [Server thread/INFO] [Essentials/]: Starting Metrics. Opt-out using the global bStats config.
+[20Dec2024 01:20:28.411] [Server thread/WARN] [Essentials/]: Detected supported permissions plugin LuckPerms without Vault installed.
+[20Dec2024 01:20:28.411] [Server thread/WARN] [Essentials/]: Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[20Dec2024 01:20:28.411] [Server thread/INFO] [Essentials/]: Using superperms-based permissions.
+[20Dec2024 01:20:28.412] [Server thread/INFO] [EssentialsProtect/]: Enabling EssentialsProtect v2.20.1
+[20Dec2024 01:20:28.413] [Server thread/INFO] [EssentialsProtect/]: Continuing to enable Protect.
+[20Dec2024 01:20:28.422] [Server thread/INFO] [EssentialsProtect/]: Starting Metrics. Opt-out using the global bStats config.
+[20Dec2024 01:20:28.423] [Server thread/INFO] [EssentialsSpawn/]: Enabling EssentialsSpawn v2.20.1
+[20Dec2024 01:20:28.428] [Server thread/INFO] [EssentialsSpawn/]: Starting Metrics. Opt-out using the global bStats config.
+[20Dec2024 01:20:28.429] [Server thread/INFO] [EssentialsChat/]: Enabling EssentialsChat v2.20.1
+[20Dec2024 01:20:28.435] [Server thread/INFO] [EssentialsChat/]: Starting Metrics. Opt-out using the global bStats config.
+[20Dec2024 01:20:28.436] [Server thread/INFO] [PlaceholderAPI/]: Enabling PlaceholderAPI v2.11.6
+[20Dec2024 01:20:28.567] [Server thread/INFO] [PlaceholderAPI/]: Fetching available expansion information...
+[20Dec2024 01:20:28.571] [Server thread/INFO] [WorldGuard/]: Enabling WorldGuard v7.0.9+5934e49
+[20Dec2024 01:20:28.735] [Server thread/INFO] [Multiverse-Core/]: Enabling Multiverse-Core v4.3.11
+[20Dec2024 01:20:28.740] [Server thread/WARN] [Multiverse-Core/]: "Multiverse-Core v4.3.11" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[20Dec2024 01:20:28.741] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[20Dec2024 01:20:28.885] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] 3 - World(s) loaded.
+[20Dec2024 01:20:28.892] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[20Dec2024 01:20:28.897] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Version 4.3.11 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[20Dec2024 01:20:28.900] [Server thread/INFO] [EssentialsAntiBuild/]: Enabling EssentialsAntiBuild v2.20.1
+[20Dec2024 01:20:28.906] [Server thread/INFO] [EssentialsAntiBuild/]: Starting Metrics. Opt-out using the global bStats config.
+[20Dec2024 01:20:28.908] [Server thread/INFO] [ConditionalEvents/]: Enabling ConditionalEvents v4.59.1
+[20Dec2024 01:20:28.936] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: conditionalevents [4.59.1]
+[20Dec2024 01:20:28.939] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been enabled! Version: 4.59.1
+[20Dec2024 01:20:28.939] [Server thread/INFO] [Console/]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[20Dec2024 01:20:29.240] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[20Dec2024 01:20:29.386] [Server thread/INFO] [PlaceholderAPI/]: Placeholder expansion registration initializing...
+[20Dec2024 01:20:29.389] [Server thread/INFO] [Console/]: 0 placeholder hook(s) registered!
+[20Dec2024 01:20:29.394] [Server thread/INFO] [Console/]: CONSOLE: Reload complete.
+[20Dec2024 01:20:29.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7446ms or 148 ticks behind
+[20Dec2024 01:20:29.438] [Craft Scheduler Thread - 14/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[20Dec2024 01:20:29.439] [Craft Scheduler Thread - 14/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[20Dec2024 01:20:29.439] [Craft Scheduler Thread - 14/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[20Dec2024 01:20:29.439] [Craft Scheduler Thread - 14/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[20Dec2024 01:20:29.440] [Craft Scheduler Thread - 14/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[20Dec2024 01:20:29.440] [Craft Scheduler Thread - 14/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[20Dec2024 01:20:29.440] [Craft Scheduler Thread - 14/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[20Dec2024 01:20:29.440] [Craft Scheduler Thread - 14/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.0[0;39m
+[20Dec2024 01:20:29.441] [Craft Scheduler Thread - 14/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1mad418e4[0;39m
+[20Dec2024 01:20:29.441] [Craft Scheduler Thread - 14/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[20Dec2024 01:20:29.441] [Craft Scheduler Thread - 14/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[20Dec2024 01:20:29.442] [Craft Scheduler Thread - 14/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[20Dec2024 01:20:29.442] [Craft Scheduler Thread - 14/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[20Dec2024 01:20:29.501] [Craft Scheduler Thread - 15/INFO] [Essentials/]: Obteniendo información de versión...
+[20Dec2024 01:20:29.502] [Craft Scheduler Thread - 15/INFO] [Essentials/]: Comprobación de actualización desactivada en config.
+[20Dec2024 01:20:49.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /online
+[20Dec2024 01:20:53.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
