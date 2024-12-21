@@ -11,7 +11,7 @@ Config:
     - '%player_has_permission_conditionalevents.somepermission% == yes'
 Messages:
   prefix: '&4[&bConditionalEvents&4] '
-  commandReload: '&aConfig Reloaded.'
+  commandReload: '&aCargada la configuración.'
   commandNoPermissions: '&cYou don''t have permissions to use this command.'
   commandResetError: '&cUse &7/ce reset <player> <event>/all'
   eventDoesNotExists: '&cThat event doesn''t exists on the config.'
@@ -21,8 +21,8 @@ Messages:
   eventDataResetAllForAllPlayers: '&aAll player data reset.'
   eventEnableError: '&cUse &7/ce enable <event>'
   eventDisableError: '&cUse &7/ce disable <event>'
-  eventEnabled: '&aEvent &7%event% &aenabled.'
-  eventDisabled: '&aEvent &7%event% &adisabled.'
+  eventEnabled: '&aEvento &7%event% &ahabilitado.'
+  eventDisabled: '&aEvento &7%event% &adeshabilitado.'
   commandDebugError: '&cUse &7/ce debug <event>'
   debugEnabled: '&aDebug now enabled for event &7%event%&a!'
   debugDisabled: '&aDebug disabled for event &7%event%&a!'
@@ -51,13 +51,15 @@ Messages:
   savedItemAlreadyExists: '&cA saved item with that name already exists.'
   savedItemAdded: '&aItem &7%name% &asaved.'
 Events:
-  event1:
-    type: player_join
-    conditions:
-    - '%player% == Ajneb'
+  pvpOn:
+    type: player_command
+    condition:
+    - "%main_command% == /pvpon"
     actions:
       default:
-      - 'to_all: message: &e&l[ALERT] &f&lAjneb joined the game!'
+      - 'cancel_event: true'
+      - 'to_all: player_command_as_op: pvp on'
+      - 'to_all: message: El PVP ha sido activado, así que ¡Cuidense!'
   event2:
     type: block_interact
     one_time: true
