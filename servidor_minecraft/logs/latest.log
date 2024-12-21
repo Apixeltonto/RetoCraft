@@ -473,3 +473,12 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency WorldEdit. Plea
 [21Dec2024 23:25:36.080] [luckperms-command-executor/INFO] [Console/]: [LP] LOG > (Minecraft_Apixel) [G] (default)
 [21Dec2024 23:25:36.080] [luckperms-command-executor/INFO] [Console/]: [LP] LOG > meta setprefix 1 &8[&3Otro Mundo&8]&f 
 [21Dec2024 23:25:37.417] [Async Chat Thread - #5/INFO] [Console/]: [default]Minecraft_Apixel: aea
+[21Dec2024 23:32:41.064] [Async Chat Thread - #7/INFO] [Console/]: [default]Minecraft_Apixel: aea
+[21Dec2024 23:32:47.719] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /lp applyedits V3HV6Kw2gb
+[21Dec2024 23:32:48.111] [luckperms-command-executor/INFO] [Console/]: [LP] LOG > (Minecraft_Apixel) [T] (usuario)
+[21Dec2024 23:32:48.111] [luckperms-command-executor/INFO] [Console/]: [LP] LOG > webeditor add default
+[21Dec2024 23:32:50.397] [Async Chat Thread - #6/INFO] [Console/]: [default]Minecraft_Apixel: aea
+[21Dec2024 23:33:01.022] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /lp applyedits 9sRDdjyACk
+[21Dec2024 23:33:08.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /lp applyedits 9sRDdjyACk --force
+[21Dec2024 23:33:08.716] [luckperms-command-executor/INFO] [Console/]: [LP] LOG > (Minecraft_Apixel) [T] (usuario)
+[21Dec2024 23:33:08.716] [luckperms-command-executor/INFO] [Console/]: [LP] LOG > webeditor delete

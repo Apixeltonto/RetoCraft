@@ -8262,3 +8262,36 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency WorldEdit. Plea
 [21Dec2024 23:25:36.080] [luckperms-command-executor/INFO] [Console/]: [LP] LOG > meta setprefix 1 &8[&3Otro Mundo&8]&f 
 [21Dec2024 23:25:37.417] [Async Chat Thread - #5/INFO] [Console/]: [default]Minecraft_Apixel: aea
 [21Dec2024 23:25:51.074] [Server thread/DEBUG] [mixin/]: Mixing world.entity.animal.Bee_HurtByOtherGoalMixin from mixins.arclight.core.json into net.minecraft.world.entity.animal.Bee$BeeHurtByOtherGoal
+[21Dec2024 23:28:32.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 23:28:32.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 23:30:03.823] [OkHttp metadata.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> 0x00000000     8 GOAWAY        
+[21Dec2024 23:32:41.064] [Async Chat Thread - #7/INFO] [Console/]: [default]Minecraft_Apixel: aea
+[21Dec2024 23:32:47.719] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /lp applyedits V3HV6Kw2gb
+[21Dec2024 23:32:47.752] [luckperms-command-executor/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> CONNECTION 505249202a20485454502f322e300d0a0d0a534d0d0a0d0a
+[21Dec2024 23:32:47.752] [luckperms-command-executor/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> 0x00000000     6 SETTINGS      
+[21Dec2024 23:32:47.752] [luckperms-command-executor/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> 0x00000000     4 WINDOW_UPDATE 
+[21Dec2024 23:32:47.753] [luckperms-command-executor/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> 0x00000003    47 HEADERS       END_STREAM|END_HEADERS
+[21Dec2024 23:32:47.800] [OkHttp usercontent.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000000    18 SETTINGS      
+[21Dec2024 23:32:47.800] [OkHttp usercontent.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000000     4 WINDOW_UPDATE 
+[21Dec2024 23:32:47.800] [OkHttp usercontent.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000000     0 SETTINGS      ACK
+[21Dec2024 23:32:47.800] [OkHttp usercontent.luckperms.net ACK Settings/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> 0x00000000     0 SETTINGS      ACK
+[21Dec2024 23:32:48.100] [OkHttp usercontent.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000003   689 HEADERS       END_HEADERS
+[21Dec2024 23:32:48.100] [OkHttp usercontent.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000003   126 DATA          
+[21Dec2024 23:32:48.100] [OkHttp usercontent.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000003     0 DATA          END_STREAM
+[21Dec2024 23:32:48.111] [luckperms-command-executor/INFO] [Console/]: [LP] LOG > (Minecraft_Apixel) [T] (usuario)
+[21Dec2024 23:32:48.111] [luckperms-command-executor/INFO] [Console/]: [LP] LOG > webeditor add default
+[21Dec2024 23:32:50.397] [Async Chat Thread - #6/INFO] [Console/]: [default]Minecraft_Apixel: aea
+[21Dec2024 23:33:01.022] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /lp applyedits 9sRDdjyACk
+[21Dec2024 23:33:01.023] [luckperms-command-executor/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> 0x00000005    16 HEADERS       END_STREAM|END_HEADERS
+[21Dec2024 23:33:01.329] [OkHttp usercontent.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000005   455 HEADERS       END_HEADERS
+[21Dec2024 23:33:01.329] [OkHttp usercontent.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000005    99 DATA          
+[21Dec2024 23:33:01.329] [OkHttp usercontent.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000005     0 DATA          END_STREAM
+[21Dec2024 23:33:08.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /lp applyedits 9sRDdjyACk --force
+[21Dec2024 23:33:08.692] [luckperms-command-executor/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> 0x00000007    16 HEADERS       END_STREAM|END_HEADERS
+[21Dec2024 23:33:08.712] [OkHttp usercontent.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000007   440 HEADERS       END_HEADERS
+[21Dec2024 23:33:08.713] [OkHttp usercontent.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000007    99 DATA          
+[21Dec2024 23:33:08.713] [OkHttp usercontent.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: << 0x00000007     0 DATA          END_STREAM
+[21Dec2024 23:33:08.716] [luckperms-command-executor/INFO] [Console/]: [LP] LOG > (Minecraft_Apixel) [T] (usuario)
+[21Dec2024 23:33:08.716] [luckperms-command-executor/INFO] [Console/]: [LP] LOG > webeditor delete
+[21Dec2024 23:33:32.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 23:33:32.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
