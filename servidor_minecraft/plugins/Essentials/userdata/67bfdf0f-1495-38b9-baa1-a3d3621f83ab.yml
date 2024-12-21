@@ -11,28 +11,20 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1734659181652
+  lastteleport: 0
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1734755500270
-  login: 1734753534421
+  logout: 1734801476302
+  login: 1734823148924
 money: '0'
 logoutlocation:
-  world: a3eb118a-922e-4c5a-a31a-f4c1929bc78e
+  world: e8de1ddb-6f3c-4817-b813-5cea3d0f773c
   world-name: world
-  x: 222.0476640946417
-  y: 82.0
-  z: 118.83673661950255
-  yaw: 57.791259765625
-  pitch: -42.75
+  x: 139.4913000652473
+  y: 83.0
+  z: 233.97961322198063
+  yaw: 86.93212890625
+  pitch: 51.456119537353516
 last-account-name: Minecraft_Apixel
-lastlocation:
-  world: a3eb118a-922e-4c5a-a31a-f4c1929bc78e
-  world-name: world
-  x: 64.0
-  y: 65.0
-  z: 128.0
-  yaw: 0.0
-  pitch: 0.0

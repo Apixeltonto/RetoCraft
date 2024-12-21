@@ -1,0 +1,4 @@
+name: default
+prefixes:
+- '&8[&3Otro Mundo&8]&f ':
+    priority: 1

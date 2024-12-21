@@ -3,42 +3,7 @@
   "__COMMENT2": "please place this configuration file into your config directory",
   "__COMMENT3": "with the following name: cpm-server-default.json",
   "player_scaling": {
-    "ac1e62ec-fcff-36ad-bfe4-5329d524ef4e": {},
-    "ef631020-a9c6-3a66-9887-085088183f08": {
-      "motion": 1.0,
-      "stepHeight": 1.0,
-      "flight": 1.0,
-      "reach": 1.0,
-      "asp": 1.0,
-      "akb": 1.0,
-      "attack": 1.0,
-      "defense": 1.0,
-      "health": 1.0,
-      "mob_vis": 1.0,
-      "kbr": 1.0
-    },
-    "9124c079-7551-30de-9433-22490d5e3a73": {},
-    "3c18a563-00b4-33af-88a7-a545046dea43": {},
-    "9ea9a2b8-730d-3d73-a212-9677a90b7038": {},
-    "57de4b1d-0bd5-3aa3-bca8-0a98dbccd73c": {},
-    "7a15c8dc-f387-3f93-8afe-2bdc7eee5a94": {},
-    "67bfdf0f-1495-38b9-baa1-a3d3621f83ab": {},
-    "424b1604-eb05-3ee9-b4eb-844b6bf05f9f": {},
-    "9bcbb254-0179-35b7-b338-e062cc537c4f": {}
+    "67bfdf0f-1495-38b9-baa1-a3d3621f83ab": {}
   },
-  "skins": {},
-  "player_scaling_settings": {},
-  "scaling_settings": {
-    "motion": {},
-    "mob_visibility": {},
-    "defense": {},
-    "attack_knockback": {},
-    "flight_speed": {},
-    "step_height": {},
-    "knockback_resist": {},
-    "reach": {},
-    "health": {},
-    "attack_speed": {},
-    "attack_dmg": {}
-  }
+  "skins": {}
 }
