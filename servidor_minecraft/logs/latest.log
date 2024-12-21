@@ -482,3 +482,168 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency WorldEdit. Plea
 [21Dec2024 23:33:08.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /lp applyedits 9sRDdjyACk --force
 [21Dec2024 23:33:08.716] [luckperms-command-executor/INFO] [Console/]: [LP] LOG > (Minecraft_Apixel) [T] (usuario)
 [21Dec2024 23:33:08.716] [luckperms-command-executor/INFO] [Console/]: [LP] LOG > webeditor delete
+[21Dec2024 23:41:06.922] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /reload
+[21Dec2024 23:41:06.922] [Server thread/INFO] [Console/]: Minecraft_Apixel: Please note that this command is not supported and may cause issues when using some plugins.
+[21Dec2024 23:41:06.923] [Server thread/INFO] [Console/]: Minecraft_Apixel: If you encounter any issues please use the /stop command to restart your server.
+[21Dec2024 23:41:06.924] [Server thread/INFO] [PvPManager/]: Disabling PvPManager v3.18.26
+[21Dec2024 23:41:06.926] [Server thread/INFO] [Console/]: [PvPManager] Saving player data to storage...
+[21Dec2024 23:41:06.932] [Server thread/INFO] [Console/]: [PvPManager] Closed SQLITE storage
+[21Dec2024 23:41:06.934] [Server thread/INFO] [ConditionalEvents/]: Disabling ConditionalEvents v4.59.1
+[21Dec2024 23:41:06.934] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been disabled! Version: 4.59.1
+[21Dec2024 23:41:06.935] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.5.1
+[21Dec2024 23:41:06.977] [Server thread/INFO] [EssentialsAntiBuild/]: Disabling EssentialsAntiBuild v2.20.1
+[21Dec2024 23:41:06.978] [Server thread/INFO] [Multiverse-Core/]: Disabling Multiverse-Core v4.3.11
+[21Dec2024 23:41:06.982] [Server thread/INFO] [PlaceholderAPI/]: Disabling PlaceholderAPI v2.11.6
+[21Dec2024 23:41:06.983] [Server thread/INFO] [EssentialsChat/]: Disabling EssentialsChat v2.20.1
+[21Dec2024 23:41:06.984] [Server thread/INFO] [EssentialsSpawn/]: Disabling EssentialsSpawn v2.20.1
+[21Dec2024 23:41:06.984] [Server thread/INFO] [EssentialsProtect/]: Disabling EssentialsProtect v2.20.1
+[21Dec2024 23:41:06.985] [Server thread/INFO] [Essentials/]: Disabling Essentials v2.20.1
+[21Dec2024 23:41:06.985] [Server thread/ERROR] [Essentials/]: Hay una buena probabilidad de que estés recargando tu servidor en este momento. Si ese es el caso, ¿por qué te odias? No esperes soporte del equipo de EssentialsX al usar /reload.
+[21Dec2024 23:41:06.988] [Server thread/INFO] [LuckPerms/]: Disabling LuckPerms v5.4.131
+[21Dec2024 23:41:06.988] [Server thread/INFO] [LuckPerms/]: Starting shutdown process...
+[21Dec2024 23:41:06.993] [Server thread/INFO] [LuckPerms/]: Closing storage...
+[21Dec2024 23:41:06.995] [Server thread/INFO] [LuckPerms/]: Goodbye!
+[21Dec2024 23:41:07.439] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:blocks/snow_block}.pools[0].entries[0]: Unreachable entry!
+[21Dec2024 23:41:07.465] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[21Dec2024 23:41:07.530] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2567 advancements
+[21Dec2024 23:41:08.491] [Server thread/INFO] [Minecraft/]: [PvPManager] Loading 2 libraries... please wait
+[21Dec2024 23:41:08.504] [Server thread/INFO] [Minecraft/]: [PvPManager] Loaded library /workspaces/RetoCraft/servidor_minecraft/libraries/com/zaxxer/HikariCP/4.0.3/HikariCP-4.0.3.jar
+[21Dec2024 23:41:08.504] [Server thread/INFO] [Minecraft/]: [PvPManager] Loaded library /workspaces/RetoCraft/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.13/slf4j-api-2.0.13.jar
+[21Dec2024 23:41:08.509] [Server thread/INFO] [LuckPerms/]: Loading LuckPerms v5.4.131
+[21Dec2024 23:41:08.676] [Server thread/INFO] [WorldEdit/]: Loading WorldEdit v7.2.20+6667-f0f1e66
+[21Dec2024 23:41:10.192] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6ab739fc]
+[21Dec2024 23:41:10.193] [Server thread/INFO] [WorldEdit/]: Default configuration file written: config.yml
+[21Dec2024 23:41:10.222] [Server thread/INFO] [Essentials/]: Loading Essentials v2.20.1
+[21Dec2024 23:41:10.223] [Server thread/INFO] [EssentialsProtect/]: Loading EssentialsProtect v2.20.1
+[21Dec2024 23:41:10.223] [Server thread/INFO] [EssentialsChat/]: Loading EssentialsChat v2.20.1
+[21Dec2024 23:41:10.223] [Server thread/INFO] [PlaceholderAPI/]: Loading PlaceholderAPI v2.11.6
+[21Dec2024 23:41:10.223] [Server thread/INFO] [EssentialsAntiBuild/]: Loading EssentialsAntiBuild v2.20.1
+[21Dec2024 23:41:10.223] [Server thread/INFO] [EssentialsSpawn/]: Loading EssentialsSpawn v2.20.1
+[21Dec2024 23:41:10.224] [Server thread/INFO] [WorldGuard/]: Loading WorldGuard v7.0.9+5934e49
+[21Dec2024 23:41:10.224] [Server thread/INFO] [Multiverse-Core/]: Loading Multiverse-Core v4.3.11
+[21Dec2024 23:41:10.242] [Server thread/INFO] [SkinsRestorer/]: Loading SkinsRestorer v15.5.1
+[21Dec2024 23:41:10.242] [Server thread/INFO] [ConditionalEvents/]: Loading ConditionalEvents v4.59.1
+[21Dec2024 23:41:10.242] [Server thread/INFO] [PvPManager/]: Loading PvPManager v3.18.26
+[21Dec2024 23:41:10.245] [Server thread/INFO] [LuckPerms/]: Enabling LuckPerms v5.4.131
+[21Dec2024 23:41:11.033] [Server thread/INFO] [Console/]:         __    
+[21Dec2024 23:41:11.034] [Server thread/INFO] [Console/]:   |    |__)   LuckPerms v5.4.131
+[21Dec2024 23:41:11.034] [Server thread/INFO] [Console/]:   |___ |      Running on Bukkit - Arclight
+[21Dec2024 23:41:11.034] [Server thread/INFO] [Console/]: 
+[21Dec2024 23:41:11.038] [Server thread/INFO] [LuckPerms/]: Loading configuration...
+[21Dec2024 23:41:11.331] [Server thread/INFO] [LuckPerms/]: Loading storage provider... [YAML]
+[21Dec2024 23:41:11.705] [Server thread/INFO] [LuckPerms/]: Loading internal permission managers...
+[21Dec2024 23:41:11.871] [Server thread/INFO] [LuckPerms/]: Performing initial data load...
+[21Dec2024 23:41:12.229] [Server thread/INFO] [LuckPerms/]: Successfully enabled. (took 1983ms)
+[21Dec2024 23:41:12.233] [Server thread/INFO] [WorldEdit/]: Enabling WorldEdit v7.2.20+6667-f0f1e66
+[21Dec2024 23:41:12.300] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[21Dec2024 23:41:12.762] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Using the Bukkit Permissions API.
+[21Dec2024 23:41:12.774] [Server thread/WARN] [WorldEdit/]: Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[21Dec2024 23:41:20.207] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightAdapter as the Bukkit adapter
+[21Dec2024 23:41:22.271] [Server thread/INFO] [WorldEdit/]: ====================================================
+[21Dec2024 23:41:22.271] [Server thread/INFO] [WorldEdit/]:  WorldEdit works better if you use Paper 
+[21Dec2024 23:41:22.271] [Server thread/INFO] [WorldEdit/]:  as your server software. 
+[21Dec2024 23:41:22.271] [Server thread/INFO] [WorldEdit/]:   
+[21Dec2024 23:41:22.271] [Server thread/INFO] [WorldEdit/]:  Paper offers significant performance improvements,
+[21Dec2024 23:41:22.271] [Server thread/INFO] [WorldEdit/]:  bug fixes, security enhancements and optional
+[21Dec2024 23:41:22.271] [Server thread/INFO] [WorldEdit/]:  features for server owners to enhance their server.
+[21Dec2024 23:41:22.271] [Server thread/INFO] [WorldEdit/]:   
+[21Dec2024 23:41:22.271] [Server thread/INFO] [WorldEdit/]:  Paper includes Timings v2, which is significantly
+[21Dec2024 23:41:22.271] [Server thread/INFO] [WorldEdit/]:  better at diagnosing lag problems over v1.
+[21Dec2024 23:41:22.271] [Server thread/INFO] [WorldEdit/]:   
+[21Dec2024 23:41:22.271] [Server thread/INFO] [WorldEdit/]:  All of your plugins should still work, and the
+[21Dec2024 23:41:22.271] [Server thread/INFO] [WorldEdit/]:  Paper community will gladly help you fix any issues.
+[21Dec2024 23:41:22.272] [Server thread/INFO] [WorldEdit/]:   
+[21Dec2024 23:41:22.272] [Server thread/INFO] [WorldEdit/]:  Join the Paper Community @ https://papermc.io
+[21Dec2024 23:41:22.272] [Server thread/INFO] [WorldEdit/]: ====================================================
+[21Dec2024 23:41:22.272] [Server thread/INFO] [SkinsRestorer/]: Enabling SkinsRestorer v15.5.1
+[21Dec2024 23:41:22.439] [Server thread/ERROR] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mSkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.[0;39m
+[21Dec2024 23:41:22.505] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[21Dec2024 23:41:22.679] [Server thread/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.20.1[32;1m.[0;39m
+[21Dec2024 23:41:22.961] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: skinsrestorer [15.5.1]
+[21Dec2024 23:41:22.962] [Server thread/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mPlaceholderAPI expansion registered![0;39m
+[21Dec2024 23:41:22.970] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your Java runtime to at least Java 21 (your version is 17).[0;39m
+[21Dec2024 23:41:22.970] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mAt some point in the future, SkinsRestorer will no longer be compatible with this version of Java.[0;39m
+[21Dec2024 23:41:22.974] [Server thread/INFO] [Essentials/]: Enabling Essentials v2.20.1
+[21Dec2024 23:41:22.993] [Server thread/ERROR] [Essentials/]: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
+[21Dec2024 23:41:22.993] [Server thread/INFO] [Essentials/]: Status determining class: net.minecraftforge.common.MinecraftForge
+[21Dec2024 23:41:23.140] [Server thread/INFO] [Essentials/]: Attempting to convert old kits in config.yml to new kits.yml
+[21Dec2024 23:41:23.140] [Server thread/INFO] [Essentials/]: No kits found to migrate.
+[21Dec2024 23:41:23.307] [Server thread/INFO] [Essentials/]: Loaded 39094 items from items.json.
+[21Dec2024 23:41:23.309] [Server thread/INFO] [Essentials/]: Using locale es
+[21Dec2024 23:41:23.334] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
+[21Dec2024 23:41:23.362] [Server thread/INFO] [Essentials/]: Starting Metrics. Opt-out using the global bStats config.
+[21Dec2024 23:41:23.365] [Server thread/WARN] [Essentials/]: Detected supported permissions plugin LuckPerms without Vault installed.
+[21Dec2024 23:41:23.365] [Server thread/WARN] [Essentials/]: Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[21Dec2024 23:41:23.365] [Server thread/INFO] [Essentials/]: Using superperms-based permissions.
+[21Dec2024 23:41:23.366] [Server thread/INFO] [EssentialsProtect/]: Enabling EssentialsProtect v2.20.1
+[21Dec2024 23:41:23.368] [Server thread/INFO] [EssentialsProtect/]: Continuing to enable Protect.
+[21Dec2024 23:41:23.376] [Server thread/INFO] [EssentialsProtect/]: Starting Metrics. Opt-out using the global bStats config.
+[21Dec2024 23:41:23.377] [Server thread/INFO] [EssentialsChat/]: Enabling EssentialsChat v2.20.1
+[21Dec2024 23:41:23.383] [Server thread/INFO] [EssentialsChat/]: Starting Metrics. Opt-out using the global bStats config.
+[21Dec2024 23:41:23.385] [Server thread/INFO] [PlaceholderAPI/]: Enabling PlaceholderAPI v2.11.6
+[21Dec2024 23:41:23.514] [Server thread/INFO] [PlaceholderAPI/]: Fetching available expansion information...
+[21Dec2024 23:41:23.517] [Server thread/INFO] [EssentialsAntiBuild/]: Enabling EssentialsAntiBuild v2.20.1
+[21Dec2024 23:41:23.523] [Server thread/INFO] [EssentialsAntiBuild/]: Starting Metrics. Opt-out using the global bStats config.
+[21Dec2024 23:41:23.524] [Server thread/INFO] [EssentialsSpawn/]: Enabling EssentialsSpawn v2.20.1
+[21Dec2024 23:41:23.528] [Server thread/INFO] [EssentialsSpawn/]: Starting Metrics. Opt-out using the global bStats config.
+[21Dec2024 23:41:23.529] [Server thread/INFO] [WorldGuard/]: Enabling WorldGuard v7.0.9+5934e49
+[21Dec2024 23:41:23.890] [Server thread/INFO] [Multiverse-Core/]: Enabling Multiverse-Core v4.3.11
+[21Dec2024 23:41:23.895] [Server thread/WARN] [Multiverse-Core/]: "Multiverse-Core v4.3.11" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[21Dec2024 23:41:23.895] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[21Dec2024 23:41:24.099] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: mundonuevo
+[21Dec2024 23:41:24.099] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[21Dec2024 23:41:24.110] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] 3 - World(s) loaded.
+[21Dec2024 23:41:24.118] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[21Dec2024 23:41:24.124] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Version 4.3.11 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[21Dec2024 23:41:24.127] [Server thread/INFO] [ConditionalEvents/]: Enabling ConditionalEvents v4.59.1
+[21Dec2024 23:41:24.158] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: conditionalevents [4.59.1]
+[21Dec2024 23:41:24.162] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been enabled! Version: 4.59.1
+[21Dec2024 23:41:24.162] [Server thread/INFO] [Console/]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[21Dec2024 23:41:24.220] [Server thread/INFO] [PvPManager/]: Enabling PvPManager v3.18.26
+[21Dec2024 23:41:24.244] [Server thread/INFO] [Console/]: [PvPManager] Using player nametags: true
+[21Dec2024 23:41:24.271] [Server thread/INFO] [com.zaxxer.hikari.HikariDataSource/]: PvPManager - Starting...
+[21Dec2024 23:41:24.306] [Server thread/INFO] [com.zaxxer.hikari.HikariDataSource/]: PvPManager - Start completed.
+[21Dec2024 23:41:24.320] [Server thread/INFO] [Console/]: [PvPManager] Connected to SQLITE database successfully
+[21Dec2024 23:41:24.325] [Server thread/INFO] [Console/]: [PvPManager] Players stored: 1
+[21Dec2024 23:41:24.328] [Server thread/INFO] [Console/]: [PvPManager] WorldGuard Found! Enabling Support For WorldGuard Regions
+[21Dec2024 23:41:24.333] [Server thread/INFO] [Console/]: [PvPManager] Essentials Found! Hooked successfully
+[21Dec2024 23:41:24.334] [Server thread/WARN] [PvPManager/]: Vault not found! Features requiring Vault won't work!
+[21Dec2024 23:41:24.334] [Server thread/INFO] [Console/]: [PvPManager] PlaceholderAPI Found! Hooked successfully
+[21Dec2024 23:41:24.336] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: pvpmanager [3.18.26]
+[21Dec2024 23:41:24.360] [Server thread/INFO] [Console/]: [PvPManager] PvPManager v3.18.26 enabled (140 ms)
+[21Dec2024 23:41:24.406] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[21Dec2024 23:41:24.546] [Server thread/INFO] [PlaceholderAPI/]: Placeholder expansion registration initializing...
+[21Dec2024 23:41:24.549] [Server thread/INFO] [Console/]: 0 placeholder hook(s) registered!
+[21Dec2024 23:41:24.554] [Server thread/INFO] [Console/]: Minecraft_Apixel: Reload complete.
+[21Dec2024 23:41:24.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2303ms or 46 ticks behind
+[21Dec2024 23:41:24.620] [Craft Scheduler Thread - 15/INFO] [Essentials/]: Obteniendo información de versión...
+[21Dec2024 23:41:24.621] [Craft Scheduler Thread - 15/INFO] [Essentials/]: Comprobación de actualización desactivada en config.
+[21Dec2024 23:41:24.715] [Craft Scheduler Thread - 13/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[21Dec2024 23:41:24.715] [Craft Scheduler Thread - 13/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[21Dec2024 23:41:24.715] [Craft Scheduler Thread - 13/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[21Dec2024 23:41:24.715] [Craft Scheduler Thread - 13/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[21Dec2024 23:41:24.715] [Craft Scheduler Thread - 13/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[21Dec2024 23:41:24.715] [Craft Scheduler Thread - 13/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[21Dec2024 23:41:24.715] [Craft Scheduler Thread - 13/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[21Dec2024 23:41:24.715] [Craft Scheduler Thread - 13/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.1[0;39m
+[21Dec2024 23:41:24.715] [Craft Scheduler Thread - 13/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1md5d8613[0;39m
+[21Dec2024 23:41:24.715] [Craft Scheduler Thread - 13/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[21Dec2024 23:41:24.715] [Craft Scheduler Thread - 13/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[21Dec2024 23:41:24.716] [Craft Scheduler Thread - 13/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[21Dec2024 23:41:24.716] [Craft Scheduler Thread - 13/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[21Dec2024 23:41:27.248] [PvPManager Worker Thread - 0/INFO] [PvPManager/]: Checking for updates...
+[21Dec2024 23:41:27.357] [PvPManager Worker Thread - 0/INFO] [PvPManager/]: No update found
+[21Dec2024 23:41:33.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[21Dec2024 23:41:42.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: //up
+[21Dec2024 23:41:46.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /up 3
+[21Dec2024 23:41:46.985] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: Minecraft_Apixel (in "world"): up: up 3 - Position: (143.5871314079525, 80.0, 233.6388103402407)
+[21Dec2024 23:43:17.551] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: //set acacia_log
+[21Dec2024 23:43:17.558] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: Minecraft_Apixel (in "world"): /set: /set acacia_log - Region: (92, 77, 232) - (139, 82, 236)
+[21Dec2024 23:43:32.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: //undo
+[21Dec2024 23:43:32.044] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: Minecraft_Apixel (in "world"): /undo: /undo
+[21Dec2024 23:43:56.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: //set acacia_log
+[21Dec2024 23:43:56.271] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: Minecraft_Apixel (in "world"): /set: /set acacia_log - Region: (93, 77, 232) - (139, 82, 234)
+[21Dec2024 23:44:35.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: //replace acacia_log air
+[21Dec2024 23:44:35.157] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: Minecraft_Apixel (in "world"): /replace: /replace acacia_log air - Region: (93, 77, 232) - (139, 80, 234)
+[21Dec2024 23:44:48.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: //replace acacia_log air
+[21Dec2024 23:44:48.417] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: Minecraft_Apixel (in "world"): /replace: /replace acacia_log air - Region: (93, 81, 232) - (139, 81, 234)
