@@ -637,6 +637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2024-12-22 19:59:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-22 19:59:28 +0000"
@@ -658,6 +664,18 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2024-12-22 19:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2024-12-22 19:59:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/green_sleeping_bag": {
+    "criteria": {
+      "has_green_wool": "2024-12-22 19:59:50 +0000"
     },
     "done": true
   },
@@ -700,6 +718,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-22 19:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2024-12-22 19:59:50 +0000"
     },
     "done": true
   },
