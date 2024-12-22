@@ -3,8 +3,8 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 127.130.66.250
-afk: false
+ip-address: 127.24.109.182
+afk: true
 socialspy: false
 npc: false
 powertoolsenabled: true
@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1734801476302
-  login: 1734823148924
+  logout: 1734828568447
+  login: 1734897285660
 money: '0'
 logoutlocation:
   world: e8de1ddb-6f3c-4817-b813-5cea3d0f773c
   world-name: world
-  x: 139.4913000652473
-  y: 83.0
-  z: 233.97961322198063
-  yaw: 86.93212890625
-  pitch: 51.456119537353516
+  x: 121.52919778989619
+  y: 96.55755132138478
+  z: 226.38956758890149
+  yaw: -13.662841796875
+  pitch: 73.79988098144531
 last-account-name: Minecraft_Apixel
