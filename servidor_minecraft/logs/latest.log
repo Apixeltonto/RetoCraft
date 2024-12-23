@@ -494,3 +494,21 @@
 [23Dec2024 17:09:27.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel lost connection: Disconnected
 [23Dec2024 17:09:27.236] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Minecraft_Apixel
 [23Dec2024 17:09:27.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [-] Minecraft_Apixel se ha ido
+[23Dec2024 17:10:08.496] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Minecraft_Apixel is 67bfdf0f-1495-38b9-baa1-a3d3621f83ab
+[23Dec2024 17:10:12.699] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Minecraft_Apixel[/127.171.222.116:36893] logged in with entity id 23855 at (110.6965661475502, 100.89936871441728, 225.45317526044735)
+[23Dec2024 17:10:12.771] [Server thread/INFO] [Console/]: [+] Minecraft_Apixel ha ingresado
+[23Dec2024 17:10:13.532] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Minecraft_Apixel (18)
+[23Dec2024 17:10:13.533] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Minecraft_Apixel
+[23Dec2024 17:10:21.650] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 67bfdf0f-1495-38b9-baa1-a3d3621f83ab
+[23Dec2024 17:10:22.652] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 67bfdf0f-1495-38b9-baa1-a3d3621f83ab
+[23Dec2024 17:10:22.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Minecraft_Apixel (67bfdf0f-1495-38b9-baa1-a3d3621f83ab) successfully connected to voice chat
+[23Dec2024 17:10:25.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[23Dec2024 17:11:39.661] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Alvforever01 is 9bcbb254-0179-35b7-b338-e062cc537c4f
+[23Dec2024 17:11:39.906] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [stalwart_dungeons:stalwart_dungeons,endermanoverhaul:main,geckolib:main] rejected their client side version number
+[23Dec2024 17:11:39.906] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[23Dec2024 17:11:39.935] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46c61f8[id=9bcbb254-0179-35b7-b338-e062cc537c4f,name=Alvforever01,properties={},legacy=false] (/127.93.201.186:60687) lost connection: Connection closed - mismatched mod channel list
+[23Dec2024 17:14:08.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /up 2
+[23Dec2024 17:14:08.857] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: Minecraft_Apixel (in "world"): up: up 2 - Position: (107.03922054661754, 97.63495881291469, 223.1503937232203)
+[23Dec2024 17:14:17.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: //replace moss_block air
+[23Dec2024 17:14:17.015] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: Minecraft_Apixel (in "world"): /replace: /replace moss_block air - Region: (107, 97, 223) - (130, 98, 239)
+[23Dec2024 17:20:04.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /sit
