@@ -470,3 +470,12 @@
 [23Dec2024 15:07:39.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /weather clear
 [23Dec2024 15:16:57.434] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /give Minecraft_Apixel minecraft:smooth_quartz
 [23Dec2024 15:17:20.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /give Minecraft_Apixel minecraft:smooth_quartz_stairs
+[23Dec2024 15:55:33.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /give Minecraft_Apixel minecraft:mossy_cobblestone_slab
+[23Dec2024 15:55:49.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /give Minecraft_Apixel minecraft:mossy_stone_brick_slab
+[23Dec2024 15:56:04.193] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: //replace air mossy_cobblestone_slab
+[23Dec2024 15:56:04.194] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: Minecraft_Apixel (in "world"): /replace: /replace air mossy_cobblestone_slab - Region: (112, 96, 227) - (128, 96, 239)
+[23Dec2024 15:56:33.768] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: //replace mossy_cobblestone_slab air
+[23Dec2024 15:56:33.769] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: Minecraft_Apixel (in "world"): /replace: /replace mossy_cobblestone_slab air - Region: (112, 96, 227) - (128, 96, 239)
+[23Dec2024 15:56:52.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: //replace air mossy_stone_brick_slab
+[23Dec2024 15:56:52.782] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: Minecraft_Apixel (in "world"): /replace: /replace air mossy_stone_brick_slab - Region: (115, 96, 233) - (125, 96, 233)
+[23Dec2024 15:58:28.196] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /weather clear
