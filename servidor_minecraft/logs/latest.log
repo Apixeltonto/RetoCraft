@@ -483,3 +483,14 @@
 [23Dec2024 16:04:02.258] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: Minecraft_Apixel (in "world"): /replace: /replace air moss_block - Region: (114, 97, 226) - (127, 97, 242)
 [23Dec2024 16:31:43.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /give Minecraft_Apixel minecraft:stripped_spruce_log
 [23Dec2024 16:46:00.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /time set day
+[23Dec2024 16:55:38.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /give Minecraft_Apixel minecraft:barrier
+[23Dec2024 17:08:41.795] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: //up 2
+[23Dec2024 17:08:45.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /up 2
+[23Dec2024 17:08:45.037] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: Minecraft_Apixel (in "world"): up: up 2 - Position: (138.1394818443246, 102.52923370945538, 240.46125799712723)
+[23Dec2024 17:08:51.280] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /up 2
+[23Dec2024 17:08:51.281] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: Minecraft_Apixel (in "world"): up: up 2 - Position: (105.127683318853, 118.98872163018903, 219.13590536390174)
+[23Dec2024 17:08:55.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: //set 0
+[23Dec2024 17:08:55.044] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: Minecraft_Apixel (in "world"): /set: /set 0 - Region: (105, 103, 219) - (138, 119, 240)
+[23Dec2024 17:09:27.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel lost connection: Disconnected
+[23Dec2024 17:09:27.236] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Minecraft_Apixel
+[23Dec2024 17:09:27.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [-] Minecraft_Apixel se ha ido
