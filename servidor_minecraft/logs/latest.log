@@ -461,3 +461,7 @@
 [23Dec2024 14:24:08.607] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 67bfdf0f-1495-38b9-baa1-a3d3621f83ab
 [23Dec2024 14:24:08.611] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Minecraft_Apixel (67bfdf0f-1495-38b9-baa1-a3d3621f83ab) successfully connected to voice chat
 [23Dec2024 14:24:12.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /gamemode creative
+[23Dec2024 14:33:20.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: //replace air dirt
+[23Dec2024 14:33:20.769] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: Minecraft_Apixel (in "world"): /replace: /replace air dirt - Region: (109, 87, 220) - (131, 87, 244)
+[23Dec2024 14:34:48.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: //replace dirt cuarze
+[23Dec2024 14:35:24.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: //replace Tierra cuarzo
