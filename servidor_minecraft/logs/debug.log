@@ -8299,3 +8299,21 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [23Dec2024 15:56:52.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: //replace air mossy_stone_brick_slab
 [23Dec2024 15:56:52.782] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: Minecraft_Apixel (in "world"): /replace: /replace air mossy_stone_brick_slab - Region: (115, 96, 233) - (125, 96, 233)
 [23Dec2024 15:58:28.196] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /weather clear
+[23Dec2024 16:00:06.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 16:00:06.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 16:04:02.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: //replace air moss_block
+[23Dec2024 16:04:02.258] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: Minecraft_Apixel (in "world"): /replace: /replace air moss_block - Region: (114, 97, 226) - (127, 97, 242)
+[23Dec2024 16:05:06.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 16:05:06.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 16:05:20.946] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/state/properties/ChestType$1
+[23Dec2024 16:05:20.950] [Server thread/DEBUG] [mixin/]: Mixing world.CompoundContainerMixin from mixins.arclight.core.json into net.minecraft.world.CompoundContainer
+[23Dec2024 16:05:28.511] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.ChestBlock2_1Mixin from mixins.arclight.core.json into net.minecraft.world.level.block.ChestBlock$2$1
+[23Dec2024 16:05:28.515] [Server thread/DEBUG] [Implementer/INVENTORY]: Found implemented class org/bukkit/craftbukkit/v1_20_R1/inventory/CraftInventoryCustom$MinecraftInventory
+[23Dec2024 16:05:28.516] [Server thread/DEBUG] [mixin/]: Mixing world.inventory.MerchantInventoryMixin from mixins.arclight.core.json into net.minecraft.world.inventory.MerchantContainer
+[23Dec2024 16:05:28.520] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.entity.LecternTileEntity1Mixin from mixins.arclight.core.json into net.minecraft.world.level.block.entity.LecternBlockEntity$1
+[23Dec2024 16:05:28.525] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.ComposterBlock_EmptyContainerMixin from mixins.arclight.core.json into net.minecraft.world.level.block.ComposterBlock$EmptyContainer
+[23Dec2024 16:05:28.526] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.ComposterBlock_InputContainerMixin from mixins.arclight.core.json into net.minecraft.world.level.block.ComposterBlock$InputContainer
+[23Dec2024 16:05:28.527] [Server thread/DEBUG] [Implementer/INVENTORY]: Implementing inventory for class net/minecraft/world/level/block/ComposterBlock$InputContainer
+[23Dec2024 16:05:28.528] [Server thread/DEBUG] [mixin/]: Mixing world.level.block.ComposterBlock_OutputContainerMixin from mixins.arclight.core.json into net.minecraft.world.level.block.ComposterBlock$OutputContainer
+[23Dec2024 16:05:28.529] [Server thread/DEBUG] [Implementer/INVENTORY]: Implementing inventory for class net/minecraft/world/level/block/ComposterBlock$OutputContainer
+[23Dec2024 16:08:11.069] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/projectile/AbstractArrow$1
