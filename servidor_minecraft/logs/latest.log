@@ -481,3 +481,4 @@
 [23Dec2024 15:58:28.196] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /weather clear
 [23Dec2024 16:04:02.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: //replace air moss_block
 [23Dec2024 16:04:02.258] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: Minecraft_Apixel (in "world"): /replace: /replace air moss_block - Region: (114, 97, 226) - (127, 97, 242)
+[23Dec2024 16:31:43.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: /give Minecraft_Apixel minecraft:stripped_spruce_log
