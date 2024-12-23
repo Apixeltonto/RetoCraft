@@ -465,3 +465,5 @@
 [23Dec2024 14:33:20.769] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: Minecraft_Apixel (in "world"): /replace: /replace air dirt - Region: (109, 87, 220) - (131, 87, 244)
 [23Dec2024 14:34:48.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: //replace dirt cuarze
 [23Dec2024 14:35:24.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: //replace Tierra cuarzo
+[23Dec2024 14:53:40.371] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Minecraft_Apixel issued server command: //replace air polished_diorite
+[23Dec2024 14:53:40.373] [Server thread/INFO] [com.sk89q.worldedit.CommandLog/]: WorldEdit: Minecraft_Apixel (in "world"): /replace: /replace air polished_diorite - Region: (111, 88, 227) - (124, 88, 236)
